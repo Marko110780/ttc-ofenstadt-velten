@@ -174,10 +174,10 @@ function render() {
 
 async function main() {
   const [teams, previews, reports, syncStatus] = await Promise.all([
-    loadJson("/content/mannschaften.json", []),
-    loadJson("/content/vorschauen.json", []),
-    loadJson("/content/spiele.json", []),
-    loadJson("/content/sync-status.json", null)
+    loadJson("content/mannschaften.json", []),
+    loadJson("content/vorschauen.json", []),
+    loadJson("content/spiele.json", []),
+    loadJson("content/sync-status.json", null)
   ]);
 
   state.teams = teams;
@@ -188,5 +188,6 @@ async function main() {
 }
 
 main();
+
 
 
