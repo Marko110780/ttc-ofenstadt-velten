@@ -1,0 +1,476 @@
+[
+  {
+    "id": "import-2026-04-24-the-eagles-gegen-ttc-ofenstadt-velten",
+    "teamId": "ttc-erste",
+    "datum": "2026-04-24",
+    "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+    "gegner": "The Eagles",
+    "heimAuswaerts": "Auswärtsspiel",
+    "heimMannschaft": "The Eagles",
+    "gastMannschaft": "TTC Ofenstadt Velten",
+    "ergebnis": "4:10",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "geprueft",
+    "geprueftAm": "2026-07-18T16:47:57.078Z",
+    "summen": {
+      "baelle": "383:521",
+      "saetze": "16:35"
+    },
+    "bild": {
+      "pfad": "/content/bilder/spiel-import-2026-04-24-the-eagles-gegen-ttc-ofenstadt-velten-generiert.svg",
+      "dateiname": "spiel-import-2026-04-24-the-eagles-gegen-ttc-ofenstadt-velten-generiert.svg",
+      "quelle": "generiert",
+      "erstelltVon": "Vera Grafik",
+      "erstelltAm": "2026-07-19T11:54:28.438Z"
+    },
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
+    "id": "import-2026-04-22-ttc-ofenstadt-velten-gegen-ttv-templin-ii",
+    "teamId": "ttc-erste",
+    "datum": "2026-04-22",
+    "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+    "gegner": "TTV Templin II",
+    "heimAuswaerts": "Heimspiel",
+    "heimMannschaft": "TTC Ofenstadt Velten",
+    "gastMannschaft": "TTV Templin II",
+    "ergebnis": "8:6",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "geprueft",
+    "geprueftAm": "2026-07-18T19:27:39.977Z",
+    "summen": {
+      "baelle": "466:469",
+      "saetze": "29:23"
+    },
+    "bild": null,
+    "highlights": [
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert",
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert",
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+    ]
+  },
+  {
+    "id": "ttc-demo-001",
+    "teamId": "ttc-erste",
+    "datum": "2026-03-14",
+    "liga": "2. Landesklasse",
+    "gegner": "Demo-Gegner SV Nord",
+    "heimAuswaerts": "Heimspiel",
+    "heimMannschaft": "",
+    "gastMannschaft": "",
+    "ergebnis": "8:6",
+    "spielcharakter": "knapp und umkämpft",
+    "importStatus": "geprueft",
+    "geprueftAm": "2026-07-18T17:28:48.595Z",
+    "summen": {},
+    "bild": null,
+    "highlights": []
+  },
+  {
+    "id": "import-2026-03-03-ttv-furstenberg-havel-ii-gegen-ttc-ofenstadt-velten",
+    "teamId": "ttc-erste",
+    "datum": "2026-03-03",
+    "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+    "gegner": "TTV Fürstenberg/Havel II",
+    "heimAuswaerts": "Auswärtsspiel",
+    "heimMannschaft": "TTV Fürstenberg/Havel II",
+    "gastMannschaft": "TTC Ofenstadt Velten",
+    "ergebnis": "10:4",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "geprueft",
+    "geprueftAm": "2026-07-18T16:46:56.786Z",
+    "summen": {
+      "baelle": "525:448",
+      "saetze": "35:18"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
+    "id": "ttc-demo-002",
+    "teamId": "ttc-zweite",
+    "datum": "2026-02-21",
+    "liga": "Kreisliga",
+    "gegner": "Demo-Gegner Blau-Weiß",
+    "heimAuswaerts": "Auswärtsspiel",
+    "heimMannschaft": "",
+    "gastMannschaft": "",
+    "ergebnis": "4:10",
+    "spielcharakter": "klare Niederlage",
+    "importStatus": "geprueft",
+    "geprueftAm": "2026-07-18T17:31:05.465Z",
+    "summen": {},
+    "bild": null,
+    "highlights": []
+  },
+  {
+    "id": "import-2026-02-15-spielbericht-mytischtennis-de-news-click-tt-ranglisten-statistiken-training-serv-gegen-ttc-ofenstadt-velten",
+    "teamId": "ttc-erste",
+    "datum": "2026-02-15",
+    "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+    "gegner": "TTC Rotation Leegebruch IV",
+    "heimAuswaerts": "Auswärtsspiel",
+    "heimMannschaft": "TTC Rotation Leegebruch IV",
+    "gastMannschaft": "TTC Ofenstadt Velten",
+    "ergebnis": "9:5",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "geprueft",
+    "geprueftAm": "2026-07-18T19:28:28.912Z",
+    "summen": {
+      "baelle": "540:510",
+      "saetze": "31:26"
+    },
+    "bild": null,
+    "highlights": [
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert",
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert",
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+    ]
+  },
+  {
+    "id": "ttc-demo-003",
+    "teamId": "ttc-jugend",
+    "datum": "2026-01-18",
+    "liga": "Jugendliga",
+    "gegner": "Demo-Gegner Jugend Süd",
+    "heimAuswaerts": "Heimspiel",
+    "heimMannschaft": "",
+    "gastMannschaft": "",
+    "ergebnis": "6:4",
+    "spielcharakter": "enger Mannschaftserfolg",
+    "importStatus": "geprueft",
+    "geprueftAm": "2026-07-18T17:31:21.346Z",
+    "summen": {},
+    "bild": null,
+    "highlights": []
+  },
+  {
+    "id": "import-ttc-zweite-2025-12-18-sv-glienicke-ii-gegen-ttc-ofenstadt-velten-ii",
+    "teamId": "ttc-zweite",
+    "datum": "2025-12-18",
+    "liga": "Kreis Oberhavel 2025/26 - Kreisliga Erwachsene",
+    "gegner": "SV Glienicke II",
+    "heimAuswaerts": "Auswärtsspiel",
+    "heimMannschaft": "SV Glienicke II",
+    "gastMannschaft": "TTC Ofenstadt Velten II",
+    "ergebnis": "9:9",
+    "spielcharakter": "Unentschieden nach großem Kampf",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "778:735",
+      "saetze": "41:37"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
+    "id": "import-ttc-zweite-2025-12-08-ttc-ofenstadt-velten-ii-gegen-motor-hennigsdorf-iv",
+    "teamId": "ttc-zweite",
+    "datum": "2025-12-08",
+    "liga": "Kreis Oberhavel 2025/26 - Kreisliga Erwachsene",
+    "gegner": "Motor Hennigsdorf IV",
+    "heimAuswaerts": "Heimspiel",
+    "heimMannschaft": "TTC Ofenstadt Velten II",
+    "gastMannschaft": "Motor Hennigsdorf IV",
+    "ergebnis": "10:5",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "561:480",
+      "saetze": "35:22"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
+    "id": "import-2025-12-05-ttc-ofenstadt-velten-gegen-the-eagles",
+    "teamId": "ttc-erste",
+    "datum": "2025-12-05",
+    "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+    "gegner": "The Eagles",
+    "heimAuswaerts": "Heimspiel",
+    "heimMannschaft": "TTC Ofenstadt Velten",
+    "gastMannschaft": "The Eagles",
+    "ergebnis": "13:1",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "geprueft",
+    "geprueftAm": "2026-07-18T19:41:43.340Z",
+    "summen": {
+      "baelle": "530:273",
+      "saetze": "41:9"
+    },
+    "bild": null,
+    "highlights": [
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert",
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert",
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+    ]
+  },
+  {
+    "id": "import-2025-11-21-ttc-ofenstadt-velten-gegen-ttv-templin-ii",
+    "teamId": "ttc-erste",
+    "datum": "2025-11-21",
+    "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+    "gegner": "TTV Templin II",
+    "heimAuswaerts": "Heimspiel",
+    "heimMannschaft": "TTC Ofenstadt Velten",
+    "gastMannschaft": "TTV Templin II",
+    "ergebnis": "13:1",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "geprueft",
+    "geprueftAm": "2026-07-18T16:45:33.677Z",
+    "summen": {
+      "baelle": "504:357",
+      "saetze": "39:9"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
+    "id": "import-ttc-erste-2025-11-12-hohen-neuendorfer-sv-ii-gegen-ttc-ofenstadt-velten-ii",
+    "teamId": "ttc-zweite",
+    "datum": "2025-11-12",
+    "liga": "Kreis Oberhavel 2025/26 - Kreisliga Erwachsene",
+    "gegner": "Hohen Neuendorfer SV II",
+    "heimAuswaerts": "Auswärtsspiel",
+    "heimMannschaft": "Hohen Neuendorfer SV II",
+    "gastMannschaft": "TTC Ofenstadt Velten II",
+    "ergebnis": "9:9",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "638:607",
+      "saetze": "35:32"
+    },
+    "bild": null,
+    "highlights": [
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert",
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert",
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+    ]
+  },
+  {
+    "id": "import-ttc-zweite-2025-10-16-sv-glienicke-gegen-ttc-ofenstadt-velten-ii",
+    "teamId": "ttc-zweite",
+    "datum": "2025-10-16",
+    "liga": "Kreis Oberhavel 2025/26 - Kreisliga Erwachsene",
+    "gegner": "SV Glienicke",
+    "heimAuswaerts": "Auswärtsspiel",
+    "heimMannschaft": "SV Glienicke",
+    "gastMannschaft": "TTC Ofenstadt Velten II",
+    "ergebnis": "10:1",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "394:292",
+      "saetze": "30:10"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
+    "id": "import-2025-10-13-ttc-ofenstadt-velten-gegen-ttv-furstenberg-havel-ii",
+    "teamId": "ttc-erste",
+    "datum": "2025-10-13",
+    "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+    "gegner": "TTV Fürstenberg/Havel II",
+    "heimAuswaerts": "Heimspiel",
+    "heimMannschaft": "TTC Ofenstadt Velten",
+    "gastMannschaft": "TTV Fürstenberg/Havel II",
+    "ergebnis": "8:6",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "geprueft",
+    "geprueftAm": "2026-07-18T20:39:15.050Z",
+    "summen": {
+      "baelle": "541:519",
+      "saetze": "30:25"
+    },
+    "bild": null,
+    "highlights": [
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert",
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert",
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+    ]
+  },
+  {
+    "id": "ttc-2025-2026-1-leegebruch-heim",
+    "teamId": "ttc-erste",
+    "datum": "2025-10-08",
+    "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+    "gegner": "TTC Rotation Leegebruch IV",
+    "heimAuswaerts": "Heimspiel",
+    "heimMannschaft": "TTC Ofenstadt Velten",
+    "gastMannschaft": "TTC Rotation Leegebruch IV",
+    "ergebnis": "8:6",
+    "spielcharakter": "knapper Heimsieg nach starkem Schlussspurt",
+    "importStatus": "geprueft",
+    "geprueftAm": "2026-07-18T17:07:07.375Z",
+    "summen": {
+      "baelle": "511:458",
+      "saetze": "30:23",
+      "endstand": "8:6"
+    },
+    "bild": null,
+    "highlights": [
+      "starkes Comeback nach 0:2-Satzrückstand",
+      "wichtiger klarer Doppelpunkt",
+      "klarer Auftakterfolg"
+    ]
+  },
+  {
+    "id": "import-2025-09-30-lindower-sv-grun-weiss-gegen-ttc-ofenstadt-velten",
+    "teamId": "ttc-erste",
+    "datum": "2025-09-30",
+    "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+    "gegner": "Lindower SV Grün-Weiß",
+    "heimAuswaerts": "Auswärtsspiel",
+    "heimMannschaft": "Lindower SV Grün-Weiß",
+    "gastMannschaft": "TTC Ofenstadt Velten",
+    "ergebnis": "6:8",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "geprueft",
+    "geprueftAm": "2026-07-18T16:35:45.303Z",
+    "summen": {
+      "baelle": "537:562",
+      "saetze": "26:32"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
+    "id": "import-ttc-zweite-2025-09-26-motor-hennigsdorf-iii-gegen-ttc-ofenstadt-velten-ii",
+    "teamId": "ttc-zweite",
+    "datum": "2025-09-26",
+    "liga": "Kreis Oberhavel 2025/26 - Kreisliga Erwachsene",
+    "gegner": "Motor Hennigsdorf III",
+    "heimAuswaerts": "Auswärtsspiel",
+    "heimMannschaft": "Motor Hennigsdorf III",
+    "gastMannschaft": "TTC Ofenstadt Velten II",
+    "ergebnis": "10:8",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "638:665",
+      "saetze": "35:37"
+    },
+    "bild": null,
+    "highlights": [
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert",
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert",
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+    ]
+  },
+  {
+    "id": "ttc-2025-2026-1-boetzow-heim",
+    "teamId": "ttc-erste",
+    "datum": "2025-09-19",
+    "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+    "gegner": "TT-Freunde Bötzow II",
+    "heimAuswaerts": "Heimspiel",
+    "heimMannschaft": "TTC Ofenstadt Velten",
+    "gastMannschaft": "TT-Freunde Bötzow II",
+    "ergebnis": "3:11",
+    "spielcharakter": "klare Niederlage mit mehreren engen Fünfsatzspielen",
+    "importStatus": "geprueft",
+    "geprueftAm": "2026-07-18T17:06:50.538Z",
+    "summen": {
+      "baelle": "497:588",
+      "saetze": "21:38",
+      "endstand": "3:11"
+    },
+    "bild": null,
+    "highlights": [
+      "knapp verlorenes Auftaktdoppel im Entscheidungssatz",
+      "Bötzow startet mit beiden Doppeln erfolgreich",
+      "TTC bleibt trotz gutem Start ohne Punkt"
+    ]
+  },
+  {
+    "id": "import-2025-09-15-ttc-ofenstadt-velten-gegen-sg-empor-oranienburg-iii",
+    "teamId": "ttc-zweite",
+    "datum": "2025-09-15",
+    "liga": "Kreis Oberhavel 2025/26 - Kreisliga Erwachsene",
+    "gegner": "SG Empor Oranienburg III",
+    "heimAuswaerts": "Heimspiel",
+    "heimMannschaft": "TTC Ofenstadt Velten II",
+    "gastMannschaft": "SG Empor Oranienburg III",
+    "ergebnis": "10:1",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "495:394",
+      "saetze": "32:15"
+    },
+    "bild": null,
+    "highlights": [
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert",
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert",
+      "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+    ]
+  },
+  {
+    "id": "ttc-2024-2025-1-boetzow-iii-heim",
+    "teamId": "ttc-erste",
+    "datum": "2024-09-27",
+    "liga": "Landesbereich Ost 2024/25 - 2. Landesklasse Herren Gruppe 1",
+    "gegner": "TT-Freunde Bötzow III",
+    "heimAuswaerts": "Heimspiel",
+    "heimMannschaft": "TTC Ofenstadt Velten",
+    "gastMannschaft": "TT-Freunde Bötzow III",
+    "ergebnis": "6:8",
+    "spielcharakter": "knappe Niederlage mit mehreren Wendepunkten",
+    "importStatus": "geprueft",
+    "geprueftAm": "2026-07-18T17:06:41.204Z",
+    "summen": {
+      "baelle": "502:518",
+      "saetze": "25:31",
+      "endstand": "6:8"
+    },
+    "bild": {
+      "pfad": "/content/bilder/spiel-ttc-2024-2025-1-boetzow-iii-heim-generiert.svg",
+      "dateiname": "spiel-ttc-2024-2025-1-boetzow-iii-heim-generiert.svg",
+      "quelle": "generiert",
+      "erstelltVon": "Vera Grafik",
+      "erstelltAm": "2026-07-19T12:06:12.330Z"
+    },
+    "highlights": [
+      "Bötzow startet mit dem ersten Doppelpunkt",
+      "wichtiger Fünfsatzpunkt zum Ausgleich",
+      "nach 2:0-Führung dreht Bötzow das Spiel"
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+﻿<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Spielberichte | TTC Ofenstadt Velten</title>
+    <meta name="description" content="Lokale Spielberichte des TTC Ofenstadt Velten aus dem Redaktions-Snapshot.">
+    <link rel="icon" href="assets/logo.png">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="index.html" aria-label="TTC Ofenstadt Velten Startseite">
+        <span class="brand-mark"><img src="assets/logo.png" alt="Logo TTC Ofenstadt Velten"></span>
+        <span>
+          <strong>TTC Ofenstadt Velten</strong>
+          <small>Lokale Parallel-Website</small>
+        </span>
+      </a>
+            <nav aria-label="Hauptnavigation">
+        <a href="aktuelles.html">Aktuelles</a>
+        <a href="verein.html">Verein</a>
+        <a href="spielberichte.html" aria-current="page">Berichte</a>
+        <a href="mannschaften.html">Mannschaften</a>
+        <a href="training.html">Training</a>
+        <details class="nav-more">
+          <summary>Mehr</summary>
+          <div class="nav-more-menu">
+            <a href="galerie.html">Galerie</a>
+            <a href="sponsoren.html">Sponsoren</a>
+            <a href="impressum.html">Impressum</a>
+            <a href="datenschutz.html">Datenschutz</a>
+          </div>
+        </details>
+      </nav>
+    </header>
+
+    <main>
+      <section class="subpage-hero">
+        <p class="eyebrow">Spielberichte</p>
+        <h1>Spielberichte</h1>
+        <p>Hier erscheinen nur fertige, redaktionell freigegebene Berichte. Ungeprüfte Arbeitsstände bleiben intern im lokalen Arbeitsbestand.</p>
+      </section>
+
+      <section class="reports-page-shell" aria-label="Spielberichte des TTC Ofenstadt Velten">
+        <div class="reports-toolbar">
+          <div class="section-heading">
+            <p class="eyebrow">Aktuell veröffentlicht</p>
+            <h2>Fertige Berichte</h2>
+          </div>
+          <div class="reports-filter" aria-label="Spielberichte filtern">
+            <label>
+              Suche
+              <input id="report-search" type="search" placeholder="Gegner, Liga oder Mannschaft">
+            </label>
+            <label>
+              Saison
+              <select id="season-filter">
+                <option value="">Alle Saisons</option>
+              </select>
+            </label>
+          </div>
+        </div>
+        <div id="report-stats" class="report-stats"></div>
+        <div class="reports-page-list" id="reports-page-list">
+          <p class="muted">Spielberichte werden geladen.</p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span>TTC Ofenstadt Velten</span>
+      <span><a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a></span>
+    </footer>
+
+    <script src="spielberichte.js" type="module"></script>
+  </body>
+</html>
+
+
+
+

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ttc-erste",
+    "name": "TTC Ofenstadt Velten 1",
+    "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+    "saison": "2025/2026",
+    "altersbereich": "erwachsene"
+  },
+  {
+    "id": "ttc-zweite",
+    "name": "TTC Ofenstadt Velten 2",
+    "liga": "Kreisliga",
+    "saison": "2025/2026",
+    "altersbereich": "erwachsene"
+  },
+  {
+    "id": "ttc-jugend",
+    "name": "TTC Ofenstadt Velten Jugend",
+    "liga": "Jugendliga",
+    "saison": "2025/2026",
+    "altersbereich": "jugend"
+  }
+]

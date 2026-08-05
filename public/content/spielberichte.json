@@ -1,0 +1,332 @@
+{
+  "exportTyp": "ttc-website-spielberichte",
+  "verein": "TTC Ofenstadt Velten",
+  "erstelltAm": "2026-08-03T11:44:53.398Z",
+  "anzahl": 14,
+  "spielberichte": [
+    {
+      "id": "import-2026-04-24-the-eagles-gegen-ttc-ofenstadt-velten",
+      "slug": "2026-04-24-the-eagles-gegen-ttc-ofenstadt-velten",
+      "titel": "The Eagles gegen TTC Ofenstadt Velten",
+      "datum": "2026-04-24",
+      "datumDeutsch": "24. April 2026",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "The Eagles",
+      "heimAuswaerts": "Auswärtsspiel",
+      "heimMannschaft": "The Eagles",
+      "gastMannschaft": "TTC Ofenstadt Velten",
+      "ergebnis": "4:10",
+      "teaser": "4:10 gegen The Eagles.",
+      "text": "",
+      "bild": "/content/bilder/spiel-import-2026-04-24-the-eagles-gegen-ttc-ofenstadt-velten-generiert.svg",
+      "geprueftAm": "2026-07-18T16:47:57.078Z",
+      "veroeffentlichtAm": "2026-07-18T16:47:57.078Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-07-18",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "383:521",
+        "saetze": "16:35"
+      }
+    },
+    {
+      "id": "import-2026-04-22-ttc-ofenstadt-velten-gegen-ttv-templin-ii",
+      "slug": "2026-04-22-ttc-ofenstadt-velten-gegen-ttv-templin-ii",
+      "titel": "TTC Ofenstadt Velten gegen TTV Templin II",
+      "datum": "2026-04-22",
+      "datumDeutsch": "22. April 2026",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "TTV Templin II",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten",
+      "gastMannschaft": "TTV Templin II",
+      "ergebnis": "8:6",
+      "teaser": "8:6 gegen TTV Templin II.",
+      "text": "",
+      "bild": "",
+      "geprueftAm": "2026-07-18T19:27:39.977Z",
+      "veroeffentlichtAm": "2026-07-18T19:27:39.977Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-07-18",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "466:469",
+        "saetze": "29:23"
+      }
+    },
+    {
+      "id": "import-2026-03-03-ttv-furstenberg-havel-ii-gegen-ttc-ofenstadt-velten",
+      "slug": "2026-03-03-ttv-furstenberg-havel-ii-gegen-ttc-ofenstadt-velten",
+      "titel": "TTV Fürstenberg/Havel II gegen TTC Ofenstadt Velten",
+      "datum": "2026-03-03",
+      "datumDeutsch": "03. März 2026",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "TTV Fürstenberg/Havel II",
+      "heimAuswaerts": "Auswärtsspiel",
+      "heimMannschaft": "TTV Fürstenberg/Havel II",
+      "gastMannschaft": "TTC Ofenstadt Velten",
+      "ergebnis": "10:4",
+      "teaser": "10:4 gegen TTV Fürstenberg/Havel II.",
+      "text": "",
+      "bild": "",
+      "geprueftAm": "2026-07-18T16:46:56.786Z",
+      "veroeffentlichtAm": "2026-07-18T16:46:56.786Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-07-18",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "525:448",
+        "saetze": "35:18"
+      }
+    },
+    {
+      "id": "import-2026-02-15-spielbericht-mytischtennis-de-news-click-tt-ranglisten-statistiken-training-serv-gegen-ttc-ofenstadt-velten",
+      "slug": "2026-02-15-ttc-rotation-leegebruch-iv-gegen-ttc-ofenstadt-velten",
+      "titel": "TTC Rotation Leegebruch IV gegen TTC Ofenstadt Velten",
+      "datum": "2026-02-15",
+      "datumDeutsch": "15. Februar 2026",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "TTC Rotation Leegebruch IV",
+      "heimAuswaerts": "Auswärtsspiel",
+      "heimMannschaft": "TTC Rotation Leegebruch IV",
+      "gastMannschaft": "TTC Ofenstadt Velten",
+      "ergebnis": "9:5",
+      "teaser": "9:5 gegen TTC Rotation Leegebruch IV.",
+      "text": "",
+      "bild": "",
+      "geprueftAm": "2026-07-18T19:28:28.912Z",
+      "veroeffentlichtAm": "2026-07-18T19:28:28.912Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-07-18",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "540:510",
+        "saetze": "31:26"
+      }
+    },
+    {
+      "id": "import-2025-12-05-ttc-ofenstadt-velten-gegen-the-eagles",
+      "slug": "2025-12-05-ttc-ofenstadt-velten-gegen-the-eagles",
+      "titel": "TTC Ofenstadt Velten gegen The Eagles",
+      "datum": "2025-12-05",
+      "datumDeutsch": "05. Dezember 2025",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "The Eagles",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten",
+      "gastMannschaft": "The Eagles",
+      "ergebnis": "13:1",
+      "teaser": "13:1 gegen The Eagles.",
+      "text": "",
+      "bild": "",
+      "geprueftAm": "2026-07-18T19:41:43.340Z",
+      "veroeffentlichtAm": "2026-07-18T19:41:43.340Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-07-18",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "530:273",
+        "saetze": "41:9"
+      }
+    },
+    {
+      "id": "import-2025-11-21-ttc-ofenstadt-velten-gegen-ttv-templin-ii",
+      "slug": "2025-11-21-ttc-ofenstadt-velten-gegen-ttv-templin-ii",
+      "titel": "TTC Ofenstadt Velten gegen TTV Templin II",
+      "datum": "2025-11-21",
+      "datumDeutsch": "21. November 2025",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "TTV Templin II",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten",
+      "gastMannschaft": "TTV Templin II",
+      "ergebnis": "13:1",
+      "teaser": "13:1 gegen TTV Templin II.",
+      "text": "",
+      "bild": "",
+      "geprueftAm": "2026-07-18T16:45:33.677Z",
+      "veroeffentlichtAm": "2026-07-18T16:45:33.677Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-07-18",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "504:357",
+        "saetze": "39:9"
+      }
+    },
+    {
+      "id": "import-2025-10-13-ttc-ofenstadt-velten-gegen-ttv-furstenberg-havel-ii",
+      "slug": "2025-10-13-ttc-ofenstadt-velten-gegen-ttv-furstenberg-havel-ii",
+      "titel": "TTC Ofenstadt Velten gegen TTV Fürstenberg/Havel II",
+      "datum": "2025-10-13",
+      "datumDeutsch": "13. Oktober 2025",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "TTV Fürstenberg/Havel II",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten",
+      "gastMannschaft": "TTV Fürstenberg/Havel II",
+      "ergebnis": "8:6",
+      "teaser": "8:6 gegen TTV Fürstenberg/Havel II.",
+      "text": "",
+      "bild": "",
+      "geprueftAm": "2026-07-18T20:39:15.050Z",
+      "veroeffentlichtAm": "2026-07-18T20:39:15.050Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-07-18",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "541:519",
+        "saetze": "30:25"
+      }
+    },
+    {
+      "id": "ttc-2025-2026-1-leegebruch-heim",
+      "slug": "2025-10-08-ttc-ofenstadt-velten-gegen-ttc-rotation-leegebruch-iv",
+      "titel": "TTC Ofenstadt Velten gegen TTC Rotation Leegebruch IV",
+      "datum": "2025-10-08",
+      "datumDeutsch": "08. Oktober 2025",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "TTC Rotation Leegebruch IV",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten",
+      "gastMannschaft": "TTC Rotation Leegebruch IV",
+      "ergebnis": "8:6",
+      "teaser": "Was für ein Abend in Velten: Die erste Mannschaft des TTC Ofenstadt Velten hat sich im Heimspiel gegen TTC Rotation Leegebruch IV mit 8:6 durchgebissen und dabei genau die Mischung gezeigt, die enge Spiele entscheidet — Teamgeist, Nervenstärke und die Bereitschaft, auch nach Rückschlägen wieder aufzustehen.",
+      "text": "Was für ein Abend in Velten: Die erste Mannschaft des TTC Ofenstadt Velten hat sich im Heimspiel gegen TTC Rotation Leegebruch IV mit 8:6 durchgebissen und dabei genau die Mischung gezeigt, die enge Spiele entscheidet — Teamgeist, Nervenstärke und die Bereitschaft, auch nach Rückschlägen wieder aufzustehen.\n\nSchon der Start hatte es in sich. Marko Winter und Volker Henning lagen im ersten Doppel bereits mit 0:2 Sätzen zurück, kämpften sich aber Punkt für Punkt zurück in die Partie und drehten das Spiel im Entscheidungssatz mit 11:9. Das war mehr als nur der erste Punkt: Es war ein Signal. Marcel Gewies und Isabelle Dahlmann legten anschließend mit einem konzentrierten 3:0 nach und brachten den TTC früh mit 2:0 in Führung.\n\nAls Marko sein erstes Einzel klar gewann und Volker gegen Bodo Mey nachlegte, stand es zwischenzeitlich 4:1. Doch Leegebruch zeigte, warum man in dieser Liga nie zu früh durchatmen darf. Michael Kaps verkürzte, danach gingen zwei enge Fünfsatzspiele an die Gäste: Marko unterlag Janik Tilgner hauchdünn mit 9:11 im fünften Satz, Marcel musste sich Melvin Szymanski ebenfalls im Entscheidungssatz geschlagen geben. Aus 4:2 wurde 4:4 — das Spiel war plötzlich wieder komplett offen.\n\nGenau in diesem Moment blieb der TTC ruhig. Volker Henning setzte mit einem starken 3:0 gegen Michael Kaps das nächste Ausrufezeichen, Isabelle Dahlmann erhöhte souverän auf 6:4. Leegebruch kam noch einmal heran, doch dann folgte eines der Schlüsselspiele des Abends: Marko Winter gegen Michael Kaps. Nach 2:0-Satzführung musste Marko den Ausgleich hinnehmen, blieb im fünften Satz aber eiskalt und holte mit 11:2 den wichtigen siebten Punkt.\n\nMarcel Gewies machte anschließend mit einem klaren 3:0 gegen Bodo Mey den Heimsieg perfekt. Dass das letzte Einzel noch an Leegebruch ging, änderte nichts mehr am verdienten 8:6-Erfolg.\n\n30:23 Sätze und 511:458 Bälle zeigen: Dieser Sieg war kein Spaziergang, sondern hart erarbeitet. Gerade deshalb fühlt er sich so wertvoll an. Die Mannschaft hat geführt, gewackelt, reagiert — und am Ende gemeinsam geliefert.\n\nDer Entwurf sollte vor Veröffentlichung noch mit der offiziellen Spielquelle sowie den TTR-Daten abgeglichen werden.",
+      "bild": "",
+      "geprueftAm": "2026-07-18T17:07:07.375Z",
+      "veroeffentlichtAm": "2026-07-18T17:07:07.375Z",
+      "quellen": [],
+      "summen": {
+        "baelle": "511:458",
+        "saetze": "30:23",
+        "endstand": "8:6"
+      }
+    },
+    {
+      "id": "import-2025-09-30-lindower-sv-grun-weiss-gegen-ttc-ofenstadt-velten",
+      "slug": "2025-09-30-lindower-sv-grun-wei-gegen-ttc-ofenstadt-velten",
+      "titel": "Lindower SV Grün-Weiß gegen TTC Ofenstadt Velten",
+      "datum": "2025-09-30",
+      "datumDeutsch": "30. September 2025",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "Lindower SV Grün-Weiß",
+      "heimAuswaerts": "Auswärtsspiel",
+      "heimMannschaft": "Lindower SV Grün-Weiß",
+      "gastMannschaft": "TTC Ofenstadt Velten",
+      "ergebnis": "6:8",
+      "teaser": "6:8 gegen Lindower SV Grün-Weiß.",
+      "text": "",
+      "bild": "",
+      "geprueftAm": "2026-07-18T16:35:45.303Z",
+      "veroeffentlichtAm": "2026-07-18T16:35:45.303Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-07-18",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "537:562",
+        "saetze": "26:32"
+      }
+    },
+    {
+      "id": "ttc-2025-2026-1-boetzow-heim",
+      "slug": "2025-09-19-ttc-ofenstadt-velten-gegen-tt-freunde-botzow-ii",
+      "titel": "TTC Ofenstadt Velten gegen TT-Freunde Bötzow II",
+      "datum": "2025-09-19",
+      "datumDeutsch": "19. September 2025",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "TT-Freunde Bötzow II",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten",
+      "gastMannschaft": "TT-Freunde Bötzow II",
+      "ergebnis": "3:11",
+      "teaser": "Die erste Mannschaft des TTC Ofenstadt Velten musste sich im Heimspiel gegen TT-Freunde Bötzow II deutlich mit 3:11 geschlagen geben. Das Ergebnis fällt klar aus — und trotzdem erzählt der Spielverlauf mehr als nur eine einseitige Zahlentafel.",
+      "text": "Die erste Mannschaft des TTC Ofenstadt Velten musste sich im Heimspiel gegen TT-Freunde Bötzow II deutlich mit 3:11 geschlagen geben. Das Ergebnis fällt klar aus — und trotzdem erzählt der Spielverlauf mehr als nur eine einseitige Zahlentafel.\n\nBötzow erwischte den besseren Start und setzte den TTC direkt unter Druck. Schon das erste Doppel war hart umkämpft: Marko Winter und Volker Henning hielten gegen Kenneth Domdey und Marcus Kasper voll dagegen, mussten sich aber im fünften Satz mit 11:13 geschlagen geben. Auch das zweite Doppel ging an die Gäste, sodass Ofenstadt früh einem 0:2 hinterherlief.\n\nIn den ersten Einzeln blieb Bötzow konsequent. Marko Winter, Marcel Gewies, Volker Henning und Kevin Sieverding kamen zwar immer wieder in einzelne Sätze hinein, doch die entscheidenden Phasen gehörten zunächst den Gästen. Besonders bitter: Mehrere enge Satzenden kippten nicht auf die TTC-Seite. Nach acht Spielen stand es 0:8.\n\nDass die Mannschaft den Abend trotzdem nicht einfach abschenkte, zeigte danach vor allem Volker Henning. Mit einem 3:1 gegen Marcus Kasper holte er den ersten Punkt für den TTC. Später legte er in einem starken Fünfsatzspiel gegen Kenneth Domdey nach und belohnte sich für einen kämpferischen Auftritt. Auch Marko Winter setzte noch ein Ausrufezeichen: Gegen Marcus Kasper gewann er einen engen Fünfsatzkrimi mit 13:11 im Entscheidungssatz.\n\nAm Ende blieb es bei einer klaren 3:11-Niederlage. 21:38 Sätze und 497:588 Bälle zeigen, dass Bötzow insgesamt verdient gewann. Für den TTC bleiben aber auch Ansatzpunkte: einzelne enge Spiele, drei gewonnene Fünfsatzpartien beziehungsweise starke Reaktionen in der zweiten Hälfte und die Erkenntnis, dass selbst an einem schwierigen Abend weitergekämpft wurde.\n\nDer Entwurf sollte vor Veröffentlichung noch mit der offiziellen Spielquelle sowie möglichen TTR-Daten abgeglichen werden.",
+      "bild": "",
+      "geprueftAm": "2026-07-18T17:06:50.538Z",
+      "veroeffentlichtAm": "2026-07-18T17:06:50.538Z",
+      "quellen": [],
+      "summen": {
+        "baelle": "497:588",
+        "saetze": "21:38",
+        "endstand": "3:11"
+      }
+    },
+    {
+      "id": "ttc-2024-2025-1-boetzow-iii-heim",
+      "slug": "2024-09-27-ttc-ofenstadt-velten-gegen-tt-freunde-botzow-iii",
+      "titel": "TTC Ofenstadt Velten gegen TT-Freunde Bötzow III",
+      "datum": "2024-09-27",
+      "datumDeutsch": "27. September 2024",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2024/25 - 2. Landesklasse Herren Gruppe 1",
+      "gegner": "TT-Freunde Bötzow III",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten",
+      "gastMannschaft": "TT-Freunde Bötzow III",
+      "ergebnis": "6:8",
+      "teaser": "Knapp dran, stark gekämpft — und am Ende doch mit leeren Händen: Der TTC Ofenstadt Velten musste sich im Heimspiel der Saison 2024/25 gegen TT-Freunde Bötzow III mit 6:8 geschlagen geben. Das Ergebnis war bitter, weil die Partie über weite Strecken völlig offen war und mehrfach in beide Richtungen kippen konnte.",
+      "text": "Knapp dran, stark gekämpft — und am Ende doch mit leeren Händen: Der TTC Ofenstadt Velten musste sich im Heimspiel der Saison 2024/25 gegen TT-Freunde Bötzow III mit 6:8 geschlagen geben. Das Ergebnis war bitter, weil die Partie über weite Strecken völlig offen war und mehrfach in beide Richtungen kippen konnte.\n\nNach dem verlorenen ersten Doppel sorgten Marko Winter und Volker Henning mit einem Fünfsatzsieg im zweiten Doppel für den frühen Ausgleich. Danach wurde schnell klar: Dieser Abend würde über Nerven, enge Sätze und kleine Wendepunkte entschieden.\n\nMarcel Gewies hatte gegen Martin Dreiocker nach einem spektakulären 19:17 im ersten Satz und einer 2:0-Satzführung den Punkt schon greifbar, musste das Spiel aber noch im fünften Satz abgeben. Bötzow zog auf 3:1 davon, ehe Volker Henning mit einem klaren 3:0 gegen Michael Schumacher verkürzte. Isabelle Dahlmann lieferte anschließend eines der kämpferischen Highlights des Abends: Nach wechselhaftem Verlauf gewann sie gegen Cheyenne Domdey mit 13:11 im Entscheidungssatz und stellte auf 3:3.\n\nAuch danach blieb es ein ständiges Hin und Her. Bötzow legte vor, Marko Winter glich gegen Martin Dreiocker aus, Volker Henning brachte den TTC mit einem souveränen 3:0 sogar erstmals mit 5:4 in Führung. Doch die Gäste blieben dran und drehten die Partie erneut.\n\nBeim Stand von 5:6 hielt Marcel Gewies den TTC mit einem starken Fünfsatzsieg gegen Cheyenne Domdey weiter im Spiel. Danach wurde es endgültig eng: Marko Winter kämpfte gegen Michael Schumacher über fünf Sätze, musste den entscheidenden Punkt aber abgeben. Im letzten Einzel machte Bötzow den 8:6-Auswärtssieg perfekt.\n\n25:31 Sätze und 502:518 Bälle zeigen, wie nah diese Begegnung tatsächlich war. Für den TTC bleibt eine knappe Niederlage, die weh tut — aber auch eine, aus der man viel Positives mitnehmen kann: Moral, mehrere starke Reaktionen und die Fähigkeit, nach Rückständen immer wieder zurückzukommen.\n\nDer Entwurf sollte vor Veröffentlichung noch mit der offiziellen Spielquelle sowie möglichen TTR-Daten abgeglichen werden.",
+      "bild": "/content/bilder/spiel-ttc-2024-2025-1-boetzow-iii-heim-generiert.svg",
+      "geprueftAm": "2026-07-18T17:06:41.204Z",
+      "veroeffentlichtAm": "2026-07-18T17:06:41.204Z",
+      "quellen": [],
+      "summen": {
+        "baelle": "502:518",
+        "saetze": "25:31",
+        "endstand": "6:8"
+      }
+    }
+  ],
+  "sourcePath": "G:\\Projekte\\TTC-Spielbericht-Agent\\public\\exports\\website-spielberichte.json"
+}

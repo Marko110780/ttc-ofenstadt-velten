@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#0c111d" />
+  <rect x="0" y="0" width="1080" height="16" fill="#22c55e" />
+  <text x="60" y="150" font-family="Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="2" fill="#38bdf8">SPIELBERICHT</text>
+  <text x="60" y="200" font-family="Arial, sans-serif" font-size="26" fill="#a8b3cc">TTC Ofenstadt Velten</text>
+  <text x="60" y="360" font-family="Arial, sans-serif" font-size="56" font-weight="700" fill="#eef3ff">Erste: Klare Ansage</text>
+  <text x="60" y="483" font-family="Arial, sans-serif" font-size="34" font-weight="600" fill="#22c55e">Schlüsselmoment: 1:7: Volker</text>
+  <text x="60" y="527" font-family="Arial, sans-serif" font-size="34" font-weight="600" fill="#22c55e">Henning behält die Nerven und holt</text>
+  <text x="60" y="960" font-family="Arial, sans-serif" font-size="32" fill="#a8b3cc">4:10 gegen The Eagles · 2026-04-24</text>
+</svg>

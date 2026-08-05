@@ -1,0 +1,15 @@
+{
+  "name": "ttc-ofenstadt-velten-lokal",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Parallele lokale Vereinswebsite fuer den TTC Ofenstadt Velten.",
+  "scripts": {
+    "start": "node server.mjs",
+    "sync:redaktion": "node scripts/sync-redaktion-data.mjs",
+    "check": "node --check server.mjs && node --check scripts/sync-redaktion-data.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

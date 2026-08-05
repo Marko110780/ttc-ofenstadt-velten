@@ -1,0 +1,164 @@
+﻿<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TTC Ofenstadt Velten | Lokale Parallel-Website</title>
+    <meta name="description" content="Lokale Parallel-Website fuer den TTC Ofenstadt Velten mit Spielvorschauen, Berichten, Trainingszeiten und Vereinsdaten.">
+    <link rel="icon" href="assets/logo.png">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#start" aria-label="TTC Ofenstadt Velten Startseite">
+        <span class="brand-mark"><img src="assets/logo.png" alt="Logo TTC Ofenstadt Velten"></span>
+        <span>
+          <strong>TTC Ofenstadt Velten</strong>
+          <small>Tischtennis in Velten</small>
+        </span>
+      </a>
+            <nav aria-label="Hauptnavigation">
+        <a href="aktuelles.html">Aktuelles</a>
+        <a href="verein.html">Verein</a>
+        <a href="spielberichte.html">Berichte</a>
+        <a href="mannschaften.html">Mannschaften</a>
+        <a href="training.html">Training</a>
+        <details class="nav-more">
+          <summary>Mehr</summary>
+          <div class="nav-more-menu">
+            <a href="galerie.html">Galerie</a>
+            <a href="sponsoren.html">Sponsoren</a>
+            <a href="impressum.html">Impressum</a>
+            <a href="datenschutz.html">Datenschutz</a>
+          </div>
+        </details>
+      </nav>
+    </header>
+
+    <main id="start">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-media" aria-hidden="true">
+          <img src="assets/turnierbild.jpg" alt="">
+        </div>
+        <div class="hero-shade"></div>
+        <div class="hero-content">
+          <p class="eyebrow">Tischtennis in der Ofenstadt</p>
+          <h1 id="hero-title">TTC Ofenstadt Velten</h1>
+          <p class="hero-lead">Aktuelles, Mannschaften, Spielberichte und Trainingszeiten des TTC Ofenstadt Velten auf einer modernen lokalen Vereinswebsite.</p>
+          <div class="hero-actions" aria-label="Schnelleinstiege">
+            <a class="button primary" href="#spiele">Naechste Spiele</a>
+            <a class="button ghost" href="training.html">Trainingszeiten</a>
+          </div>
+        </div>
+        <aside class="hero-preview" aria-label="Naechste Begegnung">
+          <span class="label">Naechstes Spiel</span>
+          <div id="hero-match">Wird aus dem lokalen Snapshot geladen.</div>
+        </aside>
+      </section>
+
+      <section class="ticker" aria-label="Aktueller Hinweis">
+        <strong>Aktuell:</strong>
+        <span>Neue Vereinsstruktur mit Mannschaften, Training, Spielberichten, PDF-Galerie und Sponsoren.</span>
+      </section>
+
+      <div class="page-shell">
+        <div class="main-column">
+          <section id="spiele" class="section-block">
+            <div class="section-heading">
+              <p class="eyebrow">Vorschau</p>
+              <h2>Naechste Spiele</h2>
+            </div>
+            <div id="preview-list" class="preview-grid"></div>
+          </section>
+
+          <section id="berichte" class="section-block">
+            <div class="section-heading">
+              <p class="eyebrow">Rueckblick</p>
+              <h2>Spielberichte</h2>
+            </div>
+            <div id="report-list" class="report-list"></div>
+            <a class="section-link" href="spielberichte.html">Alle Spielberichte ansehen</a>
+          </section>
+
+          <section id="verein" class="section-block">
+            <div class="section-heading">
+              <p class="eyebrow">Mannschaften</p>
+              <h2>Teams der Saison</h2>
+            </div>
+            <div id="team-list" class="team-grid"></div>
+            <a class="section-link" href="mannschaften.html">Alle Mannschaften ansehen</a>
+          </section>
+        </div>
+
+        <aside class="sidebar" aria-label="Vereinsinformationen">
+          <section class="side-card" id="training">
+            <p class="eyebrow">Training</p>
+            <h2>Trainingszeiten</h2>
+            <dl class="schedule-list">
+              <div><dt>Montag</dt><dd>17:00-18:30 Nachwuchs<br>18:30-22:00 Erwachsene</dd></div>
+              <div><dt>Mittwoch</dt><dd>19:00-22:30 Erwachsene</dd></div>
+              <div><dt>Freitag</dt><dd>17:30-19:00 Nachwuchs<br>19:00-22:30 Erwachsene</dd></div>
+            </dl>
+            <p class="source-note">Quelle: Live-Seite, Stand 02.08.2026.</p>
+            <a class="inline-card-link" href="training.html">Training & Halle ansehen</a>
+          </section>
+
+          <section class="side-card">
+            <p class="eyebrow">Spielort</p>
+            <h2>Ofenstadthalle Velten</h2>
+            <p>Am Katersteig 3<br>16727 Velten</p>
+            <p class="source-note">Adresse aus Live-Seite und click-TT bestaetigt.</p>
+          </section>
+
+          <section class="side-card" id="kontakt">
+            <p class="eyebrow">Kontakt</p>
+            <h2>Verein</h2>
+            <p>Postadresse: Am Markt 1A, 16727 Velten</p>
+            <p>1. Vorsitzender: Dirk Mueller<br>Tel. 0176 21192678<br><a href="mailto:info@ttov.de">info@ttov.de</a></p>
+            <p class="source-note">Kontaktangaben von der Live-Seite; abweichende Stadt-/Verbandslisten sind in der Bestandsaufnahme notiert.</p>
+          </section>
+
+          <section class="side-card social-card">
+            <p class="eyebrow">Social</p>
+          <h2>Links</h2>
+            <a href="aktuelles.html">Aktuelles</a>
+            <a href="verein.html">Verein</a>
+            <a href="galerie.html">Galerie</a>
+            <a href="https://www.tischtennis-velten.de" target="_blank" rel="noreferrer">Live-Website</a>
+            <a href="https://www.facebook.com/TTCOfenstadtVelten" target="_blank" rel="noreferrer">Facebook</a>
+            <span>Instagram/TikTok: noch zu pruefen</span>
+          </section>
+        </aside>
+      </div>
+
+      <section class="sponsor-band" aria-label="Sponsoren und Unterstuetzer">
+        <div>
+          <p class="eyebrow">Partner</p>
+          <h2>Sponsoren & Spender</h2>
+          <a class="sponsor-band-link" href="sponsoren.html">Alle Sponsoren ansehen</a>
+        </div>
+        <div class="sponsor-strip">
+          <figure><img src="assets/sponsoren/rewe.jpg" alt="REWE"></figure>
+          <figure><img src="assets/sponsoren/stadtwerke.jpg" alt="Stadtwerke Velten"></figure>
+          <figure><img src="assets/sponsoren/mittelbrandenburgische-sparkasse.jpg" alt="Mittelbrandenburgische Sparkasse"></figure>
+          <figure><img src="assets/sponsoren/martin-bruch-gmbh.png" alt="Martin Bruch GmbH"></figure>
+          <figure><img src="assets/sponsoren/reg-velten.jpg" alt="REG Velten"></figure>
+          <figure><img src="assets/sponsoren/augenoptik-leue.jpg" alt="Augenoptik Leue"></figure>
+          <figure><img src="assets/sponsoren/contax.jpg" alt="Contax"></figure>
+          <figure><img src="assets/sponsoren/csr-autosport.jpg" alt="CSR Autosport"></figure>
+          <figure><img src="assets/sponsoren/immobilien-ewald.jpg" alt="Immobilien Ewald"></figure>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span>TTC Ofenstadt Velten</span>
+      <span><a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a></span>
+    </footer>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
+
+
+

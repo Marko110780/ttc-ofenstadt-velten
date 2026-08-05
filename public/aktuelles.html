@@ -1,0 +1,91 @@
+﻿<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Aktuelles | TTC Ofenstadt Velten</title>
+    <meta name="description" content="Aktuelles, Hinweise und kommende Spiele des TTC Ofenstadt Velten.">
+    <link rel="icon" href="assets/logo.png">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="index.html" aria-label="TTC Ofenstadt Velten Startseite">
+        <span class="brand-mark"><img src="assets/logo.png" alt="Logo TTC Ofenstadt Velten"></span>
+        <span>
+          <strong>TTC Ofenstadt Velten</strong>
+          <small>Lokale Parallel-Website</small>
+        </span>
+      </a>
+            <nav aria-label="Hauptnavigation">
+        <a href="aktuelles.html" aria-current="page">Aktuelles</a>
+        <a href="verein.html">Verein</a>
+        <a href="spielberichte.html">Berichte</a>
+        <a href="mannschaften.html">Mannschaften</a>
+        <a href="training.html">Training</a>
+        <details class="nav-more">
+          <summary>Mehr</summary>
+          <div class="nav-more-menu">
+            <a href="galerie.html">Galerie</a>
+            <a href="sponsoren.html">Sponsoren</a>
+            <a href="impressum.html">Impressum</a>
+            <a href="datenschutz.html">Datenschutz</a>
+          </div>
+        </details>
+      </nav>
+    </header>
+
+    <main>
+      <section class="subpage-hero">
+        <p class="eyebrow">News</p>
+        <h1>Aktuelles</h1>
+        <p>Hinweise von der Live-Startseite und kommende Spiele aus dem lokalen Redaktions-Snapshot.</p>
+      </section>
+
+      <section class="news-page-shell">
+        <div class="news-main">
+          <article class="news-feature-card">
+            <span class="badge home">Live-Seite</span>
+            <h2>Aus Oberhavelcup wird "Veltener Ofencup"</h2>
+            <p>Die Live-Startseite verweist auf die Ausschreibung zum Ofencup 2026.</p>
+            <a href="https://tischtennis-velten.de/" target="_blank" rel="noreferrer">Live-Hinweis ansehen</a>
+          </article>
+
+          <article class="news-feature-card">
+            <span class="badge away">Live-Seite</span>
+            <h2>Die Saison 2025 / 2026 ist beendet</h2>
+            <p>Die Live-Startseite verweist zusaetzlich auf die Live-Spiele der Mannschaften.</p>
+            <a href="https://tischtennis-velten.de/" target="_blank" rel="noreferrer">Live-Startseite oeffnen</a>
+          </article>
+
+          <section class="section-block">
+            <div class="section-heading">
+              <p class="eyebrow">Aus dem Redaktions-Snapshot</p>
+              <h2>Kommende Spiele</h2>
+            </div>
+            <div class="news-match-list" id="news-match-list">
+              <p class="muted">Kommende Spiele werden geladen.</p>
+            </div>
+          </section>
+        </div>
+
+        <aside class="side-card news-side-card">
+          <p class="eyebrow">Datenquellen</p>
+          <h2>Was wird angezeigt?</h2>
+          <p>Die festen Hinweise stammen aus der Live-Startseite. Die kommenden Spiele kommen aus `public/content/vorschauen.json`.</p>
+          <p class="source-note">Nicht erfundene Daten: Fehlende oder nicht redaktionell vorbereitete Vorschauen werden als solche markiert.</p>
+        </aside>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span>TTC Ofenstadt Velten</span>
+      <span><a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a></span>
+    </footer>
+
+    <script src="aktuelles.js" type="module"></script>
+  </body>
+</html>
+
+
+
