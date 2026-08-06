@@ -1,23 +1,47 @@
 [
   {
     "id": "ttc-erste",
-    "name": "TTC Ofenstadt Velten 1",
-    "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
-    "saison": "2025/2026",
-    "altersbereich": "erwachsene"
+    "name": "1. Mannschaft",
+    "myttName": "Erwachsene",
+    "liga": "2. Landesklasse Erwachsene Gruppe 1",
+    "saison": "2026/2027",
+    "altersbereich": "erwachsene",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/2._Landesklasse_Erwachsene_Gruppe_1/gruppe/521601/mannschaft/3101692/Erwachsene/spielerbilanzen/gesamt"
   },
   {
     "id": "ttc-zweite",
-    "name": "TTC Ofenstadt Velten 2",
-    "liga": "Kreisliga",
-    "saison": "2025/2026",
-    "altersbereich": "erwachsene"
+    "name": "2. Mannschaft",
+    "myttName": "Erwachsene II",
+    "liga": "Kreisliga Erwachsene",
+    "saison": "2026/2027",
+    "altersbereich": "erwachsene",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/Kreisliga_Erwachsene/gruppe/521610/mannschaft/3101703/Erwachsene_II/spielerbilanzen/gesamt"
   },
   {
-    "id": "ttc-jugend",
-    "name": "TTC Ofenstadt Velten Jugend",
-    "liga": "Jugendliga",
-    "saison": "2025/2026",
-    "altersbereich": "jugend"
+    "id": "ttc-dritte",
+    "name": "3. Mannschaft",
+    "myttName": "Erwachsene III",
+    "liga": "4. Kreisklasse Erwachsene",
+    "saison": "2026/2027",
+    "altersbereich": "erwachsene",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/4._Kreisklasse_Erwachsene/gruppe/521632/mannschaft/3101690/Erwachsene_III/spielerbilanzen/gesamt"
+  },
+  {
+    "id": "ttc-vierte",
+    "name": "4. Mannschaft",
+    "myttName": "Erwachsene IV",
+    "liga": "5. Kreisklasse Erwachsene",
+    "saison": "2026/2027",
+    "altersbereich": "erwachsene",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/5._Kreisklasse_Erwachsene/gruppe/521539/mannschaft/3145029/Erwachsene_IV/spielerbilanzen/gesamt"
+  },
+  {
+    "id": "ttc-u15",
+    "name": "U15 Jugend",
+    "myttName": "Jugend 15",
+    "liga": "Staffel Süd",
+    "saison": "2026/2027",
+    "altersbereich": "jugend",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/Staffel_S%C3%BCd/gruppe/534037/mannschaft/3101300/Jugend_15/spielerbilanzen/gesamt"
   }
 ]

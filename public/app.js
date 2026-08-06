@@ -1,4 +1,4 @@
-﻿const state = {
+const state = {
   teams: [],
   previews: [],
   reports: [],
@@ -137,15 +137,20 @@ function createReportItem(report) {
 }
 
 function createTeamItem(team) {
-  const article = document.createElement("article");
-  article.className = "team-item";
-  article.innerHTML = `
+  const card = document.createElement(team.sourceUrl ? "a" : "article");
+  card.className = "team-item linked-card";
+  if (team.sourceUrl) {
+    card.href = team.sourceUrl;
+    card.target = "_blank";
+    card.rel = "noreferrer";
+  }
+  card.innerHTML = `
     <h3>${decodeText(team.name)}</h3>
     <p>${decodeText(team.liga)}</p>
     <span>${decodeText(team.saison)}</span>
-    <a href="mannschaften.html">Details</a>
+    <strong>myTischtennis öffnen</strong>
   `;
-  return article;
+  return card;
 }
 
 function renderHeroMatch() {
@@ -188,6 +193,3 @@ async function main() {
 }
 
 main();
-
-
-
