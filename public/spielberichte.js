@@ -1,4 +1,4 @@
-﻿const formatter = new Intl.DateTimeFormat("de-DE", {
+const formatter = new Intl.DateTimeFormat("de-DE", {
   weekday: "short",
   day: "2-digit",
   month: "2-digit",
@@ -134,14 +134,66 @@ function renderGeneratedSummary(report, teaser) {
   const home = report.heimMannschaft || "Heimmannschaft offen";
   const away = report.gastMannschaft || "Gastmannschaft offen";
   const score = report.ergebnis || "ohne erfassten Endstand";
-  const balls = sums.baelle ? ` Die BÃ¤lle wurden mit ${sums.baelle} notiert.` : "";
-  const sets = sums.saetze ? ` In den SÃ¤tzen stand es ${sums.saetze}.` : "";
-  const source = report.quellen?.[0]?.name ? ` Quelle: ${report.quellen[0].name}.` : "";
+  const balls = sums.baelle ? ` Die Ballpunkte wurden mit ${sums.baelle} notiert.` : "";
+  const sets = sums.saetze ? ` In den Saetzen stand es ${sums.saetze}.` : "";
+  const character = report.spielcharakter ? ` Einordnung: ${report.spielcharakter}.` : "";
 
   return `
     <p>${escapeHtml(teaser || `${home} gegen ${away} endete ${score}.`)}</p>
-    <p>${escapeHtml(`${resultLabel(report)}: ${home} gegen ${away} endete ${score}.${sets}${balls}`)}</p>
-    <p class="muted">${escapeHtml(`Der ausfÃ¼hrliche redaktionelle Langtext wurde vom Spielbericht-Tool fÃ¼r diesen Bericht noch nicht exportiert.${source}`)}</p>
+    <p>${escapeHtml(`${resultLabel(report)}: ${home} gegen ${away} endete ${score}.${sets}${balls}${character}`)}</p>
+    ${report.spielverlauf?.length ? "" : `<p class="muted">Der ausfuehrliche redaktionelle Langtext wurde fuer diesen Bericht noch nicht exportiert.</p>`}
+  `;
+}
+
+function renderLineup(players) {
+  if (!Array.isArray(players) || !players.length) return "<span>nicht erfasst</span>";
+  return players
+    .map((player) => `<span>${escapeHtml(player.position ? `${player.position}. ${player.name}` : player.name)}</span>`)
+    .join("");
+}
+
+function sideNames(entry, side) {
+  const names = Array.isArray(entry?.[side]) ? entry[side] : [];
+  return names.map(escapeHtml).join(" / ") || "offen";
+}
+
+function renderMatchTimeline(report) {
+  const rows = Array.isArray(report.spielverlauf) ? report.spielverlauf : [];
+  if (!rows.length) return "";
+
+  return `
+    <div class="match-detail-section">
+      <h3>Spielverlauf</h3>
+      <div class="match-timeline">
+        ${rows.map((entry) => `
+          <article class="match-timeline-row">
+            <div>
+              <strong>${escapeHtml(entry.typ || "Spiel")}</strong>
+              <span>${escapeHtml(entry.paarung || "")}</span>
+            </div>
+            <p>${sideNames(entry, "heim")} gegen ${sideNames(entry, "gast")}</p>
+            <span>${escapeHtml(entry.satzErgebnis || "")} ${entry.saetze?.length ? `(${escapeHtml(entry.saetze.join(", "))})` : ""}</span>
+            <small>Zwischenstand: ${escapeHtml(entry.zwischenstand || "offen")}</small>
+          </article>
+        `).join("")}
+      </div>
+    </div>
+  `;
+}
+
+function renderLineups(report) {
+  if (!report.aufstellungHeim?.length && !report.aufstellungGast?.length) return "";
+  return `
+    <div class="match-detail-section lineup-grid">
+      <div>
+        <h3>${escapeHtml(report.heimMannschaft || "Heim")}</h3>
+        ${renderLineup(report.aufstellungHeim)}
+      </div>
+      <div>
+        <h3>${escapeHtml(report.gastMannschaft || "Gast")}</h3>
+        ${renderLineup(report.aufstellungGast)}
+      </div>
+    </div>
   `;
 }
 
@@ -156,10 +208,11 @@ function renderInlineDetail(report) {
         <span><strong>Quelle</strong>${escapeHtml(report.quellen?.[0]?.name || "Redaktionstool")}</span>
       </div>
       <div class="published-report-text">${renderParagraphs(report)}</div>
+      ${renderLineups(report)}
+      ${renderMatchTimeline(report)}
     </div>
   `;
 }
-
 function createReportCard(report) {
   const article = document.createElement("article");
   article.className = "report-detail-card status-ready published-report-card";
@@ -177,10 +230,10 @@ function createReportCard(report) {
     <p class="muted">${escapeHtml(report.liga || "Liga offen")} &middot; ${escapeHtml(report.heimAuswaerts || "Spielort offen")}</p>
     <div class="report-meta-grid">
       <span><strong>Endstand</strong>${escapeHtml(report.ergebnis || "nicht erfasst")}</span>
-      <span><strong>BÃ¤lle</strong>${escapeHtml(sums.baelle || "nicht erfasst")}</span>
-      <span><strong>SÃ¤tze</strong>${escapeHtml(sums.saetze || "nicht erfasst")}</span>
+      <span><strong>Bälle</strong>${escapeHtml(sums.baelle || "nicht erfasst")}</span>
+      <span><strong>Sätze</strong>${escapeHtml(sums.saetze || "nicht erfasst")}</span>
     </div>
-    <p>${escapeHtml(report.teaser || "Der Bericht ist freigegeben und kann geÃ¶ffnet werden.")}</p>
+    <p>${escapeHtml(report.teaser || "Der Bericht ist freigegeben und kann geöffnet werden.")}</p>
     <button class="button primary report-open-button" type="button" data-report-id="${escapeHtml(report.id)}" aria-expanded="${String(isOpen)}">
       ${isOpen ? "Details ausblenden" : "Details ansehen"}
     </button>
@@ -192,7 +245,7 @@ function createReportCard(report) {
 function renderList() {
   const target = document.getElementById("reports-page-list");
   if (!state.filteredReports.length) {
-    target.innerHTML = '<p class="muted">FÃ¼r diese Auswahl sind keine freigegebenen Spielberichte vorhanden.</p>';
+    target.innerHTML = '<p class="muted">Für diese Auswahl sind keine freigegebenen Spielberichte vorhanden.</p>';
     return;
   }
 
@@ -251,7 +304,7 @@ async function main() {
   state.filteredReports = [...state.reports];
 
   if (!state.reports.length) {
-    target.innerHTML = '<p class="muted">Aktuell sind noch keine fertigen Spielberichte verÃ¶ffentlicht.</p>';
+    target.innerHTML = '<p class="muted">Aktuell sind noch keine fertigen Spielberichte veröffentlicht.</p>';
     return;
   }
 
@@ -266,5 +319,3 @@ async function main() {
 }
 
 main();
-
-

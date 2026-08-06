@@ -53,9 +53,39 @@ function normalizeImage(image) {
 }
 
 function normalizeWebsiteReportImage(path) {
-  return String(path ?? "").replace(/^\/data\//, "/content/");
+  const normalized = String(path ?? "")
+    .replace(/^\/data\//, "content/")
+    .replace(/^\/content\//, "content/");
+  return normalized.endsWith(".svg") ? "" : normalized;
 }
 
+function isPlaceholderDraftText(text) {
+  return String(text ?? "").includes("Bitte Agentenlauf starten");
+}
+
+function relevantReportMatch(match) {
+  return match?.id && !String(match.id).includes("demo") && match.importStatus === "geprueft";
+}
+
+function enrichedWebsiteReport(report, match) {
+  if (!match) return report;
+  const reportText = isPlaceholderDraftText(report.text) ? "" : String(report.text ?? "").trim();
+  return {
+    ...report,
+    teamId: match.teamId ?? report.teamId ?? "",
+    spielcharakter: match.spielcharakter ?? report.spielcharakter ?? "",
+    importStatus: match.importStatus ?? report.importStatus ?? "",
+    heimMannschaft: match.heimMannschaft ?? report.heimMannschaft ?? "",
+    gastMannschaft: match.gastMannschaft ?? report.gastMannschaft ?? "",
+    ergebnis: match.ergebnis ?? report.ergebnis ?? match.summen?.endstand ?? "",
+    summen: match.summen ?? report.summen ?? null,
+    aufstellungHeim: Array.isArray(match.aufstellungHeim) ? match.aufstellungHeim : [],
+    aufstellungGast: Array.isArray(match.aufstellungGast) ? match.aufstellungGast : [],
+    spielverlauf: Array.isArray(match.spielverlauf) ? match.spielverlauf : [],
+    text: reportText,
+    bild: normalizeWebsiteReportImage(report.bild || match.bild?.pfad)
+  };
+}
 async function readWebsiteReports() {
   try {
     const payload = JSON.parse(await readFile(websiteExportPath, "utf8"));
@@ -106,7 +136,16 @@ async function main() {
   ]);
   const websiteReports = await readWebsiteReports();
 
-  const summarizedGames = sortByDateDesc(games).map(summarizeGame);
+  const summarizedGames = sortByDateDesc(games).filter((game) => !String(game.id ?? "").includes("demo")).map(summarizeGame);
+  const gameById = new Map(games.filter(relevantReportMatch).map((game) => [game.id, game]));
+  websiteReports.spielberichte = sortByDateDesc(
+    websiteReports.spielberichte
+      .filter((report) => report?.id && !String(report.id).includes("demo"))
+      .map((report) => enrichedWebsiteReport(report, gameById.get(report.id)))
+      .filter((report) => report.importStatus === "geprueft" || String(report.text || "").trim())
+  );
+  websiteReports.anzahl = websiteReports.spielberichte.length;
+
   const normalizedPreviews = sortByDateAsc(previews).map((preview) => ({
     ...preview,
     bild: normalizeImage(preview.bild)

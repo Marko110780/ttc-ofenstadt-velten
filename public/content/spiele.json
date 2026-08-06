@@ -54,23 +54,6 @@
     ]
   },
   {
-    "id": "ttc-demo-001",
-    "teamId": "ttc-erste",
-    "datum": "2026-03-14",
-    "liga": "2. Landesklasse",
-    "gegner": "Demo-Gegner SV Nord",
-    "heimAuswaerts": "Heimspiel",
-    "heimMannschaft": "",
-    "gastMannschaft": "",
-    "ergebnis": "8:6",
-    "spielcharakter": "knapp und umkämpft",
-    "importStatus": "geprueft",
-    "geprueftAm": "2026-07-18T17:28:48.595Z",
-    "summen": {},
-    "bild": null,
-    "highlights": []
-  },
-  {
     "id": "import-2026-03-03-ttv-furstenberg-havel-ii-gegen-ttc-ofenstadt-velten",
     "teamId": "ttc-erste",
     "datum": "2026-03-03",
@@ -95,23 +78,6 @@
     ]
   },
   {
-    "id": "ttc-demo-002",
-    "teamId": "ttc-zweite",
-    "datum": "2026-02-21",
-    "liga": "Kreisliga",
-    "gegner": "Demo-Gegner Blau-Weiß",
-    "heimAuswaerts": "Auswärtsspiel",
-    "heimMannschaft": "",
-    "gastMannschaft": "",
-    "ergebnis": "4:10",
-    "spielcharakter": "klare Niederlage",
-    "importStatus": "geprueft",
-    "geprueftAm": "2026-07-18T17:31:05.465Z",
-    "summen": {},
-    "bild": null,
-    "highlights": []
-  },
-  {
     "id": "import-2026-02-15-spielbericht-mytischtennis-de-news-click-tt-ranglisten-statistiken-training-serv-gegen-ttc-ofenstadt-velten",
     "teamId": "ttc-erste",
     "datum": "2026-02-15",
@@ -134,23 +100,6 @@
       "aus offiziellem Spielbericht (myTischtennis) neu importiert",
       "aus offiziellem Spielbericht (myTischtennis) neu importiert"
     ]
-  },
-  {
-    "id": "ttc-demo-003",
-    "teamId": "ttc-jugend",
-    "datum": "2026-01-18",
-    "liga": "Jugendliga",
-    "gegner": "Demo-Gegner Jugend Süd",
-    "heimAuswaerts": "Heimspiel",
-    "heimMannschaft": "",
-    "gastMannschaft": "",
-    "ergebnis": "6:4",
-    "spielcharakter": "enger Mannschaftserfolg",
-    "importStatus": "geprueft",
-    "geprueftAm": "2026-07-18T17:31:21.346Z",
-    "summen": {},
-    "bild": null,
-    "highlights": []
   },
   {
     "id": "import-ttc-zweite-2025-12-18-sv-glienicke-ii-gegen-ttc-ofenstadt-velten-ii",
