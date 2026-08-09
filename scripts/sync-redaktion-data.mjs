@@ -59,107 +59,6 @@ function normalizeWebsiteReportImage(path) {
   return normalized.endsWith(".svg") ? "" : normalized;
 }
 
-function parseScore(value) {
-  const [left, right] = String(value ?? "")
-    .split(":")
-    .map((part) => Number.parseInt(part.trim(), 10));
-  if (!Number.isFinite(left) || !Number.isFinite(right)) return null;
-  return { left, right };
-}
-
-function clubSide(match) {
-  if (String(match.heimMannschaft ?? "").includes("TTC Ofenstadt Velten")) return "heim";
-  if (String(match.gastMannschaft ?? "").includes("TTC Ofenstadt Velten")) return "gast";
-  return match.heimAuswaerts === "Heimspiel" ? "heim" : "gast";
-}
-
-function clubTeamName(match) {
-  return clubSide(match) === "heim"
-    ? match.heimMannschaft || "TTC Ofenstadt Velten"
-    : match.gastMannschaft || "TTC Ofenstadt Velten";
-}
-
-function opponentTeamName(match) {
-  return clubSide(match) === "heim"
-    ? match.gastMannschaft || match.gegner || "den Gegner"
-    : match.heimMannschaft || match.gegner || "den Gegner";
-}
-
-function matchOutcome(match) {
-  const score = parseScore(match.ergebnis ?? match.summen?.endstand);
-  if (!score) return "offen";
-  if (score.left === score.right) return "unentschieden";
-  const side = clubSide(match);
-  const won = side === "heim" ? score.left > score.right : score.right > score.left;
-  return won ? "sieg" : "niederlage";
-}
-
-function playerNames(players) {
-  return players.map((player) => player?.name).filter(Boolean).join(", ");
-}
-
-function countClubWins(match) {
-  const side = clubSide(match);
-  return (match.spielverlauf ?? []).filter((entry) => entry.sieger === side).length;
-}
-
-function importantGames(match) {
-  const side = clubSide(match);
-  return (match.spielverlauf ?? [])
-    .filter((entry) => {
-      const score = parseScore(entry.satzErgebnis);
-      const totalSets = score ? score.left + score.right : 0;
-      return entry.sieger === side || totalSets >= 5 || String(entry.zwischenstand ?? "") === String(match.ergebnis ?? "");
-    })
-    .slice(0, 4);
-}
-
-function describeGame(entry) {
-  const home = Array.isArray(entry.heim) ? entry.heim.join(" / ") : "Heim";
-  const guest = Array.isArray(entry.gast) ? entry.gast.join(" / ") : "Gast";
-  const sets = Array.isArray(entry.saetze) && entry.saetze.length ? ` (${entry.saetze.join(", ")})` : "";
-  const stand = entry.zwischenstand ? `, Zwischenstand ${entry.zwischenstand}` : "";
-  return `${home} gegen ${guest} ${entry.satzErgebnis || ""}${sets}${stand}`.trim();
-}
-
-function generatedWebsiteReportText(match) {
-  if (!Array.isArray(match.spielverlauf) || !match.spielverlauf.length) return "";
-
-  const club = clubTeamName(match);
-  const opponent = opponentTeamName(match);
-  const result = match.ergebnis ?? match.summen?.endstand ?? "ohne erfassten Endstand";
-  const outcome = matchOutcome(match);
-  const venue = match.heimAuswaerts === "Heimspiel" ? "zu Hause" : match.heimAuswaerts === "Auswaertsspiel" || match.heimAuswaerts === "Auswärtsspiel" ? "auswärts" : "im Spiel";
-  const resultSentence = outcome === "sieg"
-    ? `${club} setzte sich ${venue} gegen ${opponent} mit ${result} durch.`
-    : outcome === "niederlage"
-      ? `${club} musste sich ${venue} gegen ${opponent} mit ${result} geschlagen geben.`
-      : outcome === "unentschieden"
-        ? `${club} trennte sich ${venue} von ${opponent} mit einem ${result}.`
-        : `${club} spielte ${venue} gegen ${opponent}; der Endstand lautet ${result}.`;
-
-  const clubWins = countClubWins(match);
-  const totalGames = match.spielverlauf.length;
-  const lineups = [
-    match.aufstellungHeim?.length ? `${match.heimMannschaft || "Heim"}: ${playerNames(match.aufstellungHeim)}` : "",
-    match.aufstellungGast?.length ? `${match.gastMannschaft || "Gast"}: ${playerNames(match.aufstellungGast)}` : ""
-  ].filter(Boolean);
-  const keyLines = importantGames(match).map(describeGame);
-
-  return [
-    resultSentence,
-    "",
-    `Der Spielverlauf ist aus dem offiziellen Spielbericht übernommen. Von ${totalGames} ausgetragenen Partien gingen ${clubWins} an den TTC. In den Sätzen wurde ${match.summen?.saetze ?? "kein Satzverhältnis"} notiert, bei den Bällen ${match.summen?.baelle ?? "kein Ballverhältnis"}.`,
-    "",
-    keyLines.length
-      ? `Auffällige Partien im Verlauf waren: ${keyLines.join("; ")}.`
-      : "Der detaillierte Verlauf ist in der Übersicht unten einzeln aufgeführt.",
-    "",
-    lineups.length ? `Die Aufstellungen: ${lineups.join(". ")}.` : "Die Aufstellungen sind im Detailbereich aufgeführt.",
-    "",
-    "Dieser Bericht wurde aus den geprüften Spieldaten des Redaktionstools für die Website aufbereitet."
-  ].join("\n");
-}
 function isPlaceholderDraftText(text) {
   return String(text ?? "").includes("Bitte Agentenlauf starten");
 }
@@ -170,8 +69,7 @@ function relevantReportMatch(match) {
 
 function enrichedWebsiteReport(report, match) {
   if (!match) return report;
-  const exportedText = isPlaceholderDraftText(report.text) ? "" : String(report.text ?? "").trim();
-  const reportText = exportedText || generatedWebsiteReportText(match);
+  const reportText = isPlaceholderDraftText(report.text) ? "" : String(report.text ?? "").trim();
   return {
     ...report,
     teamId: match.teamId ?? report.teamId ?? "",
