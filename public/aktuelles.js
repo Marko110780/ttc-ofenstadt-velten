@@ -71,7 +71,7 @@ async function main() {
   const sorted = previews.sort((a, b) => String(a.datum || "").localeCompare(String(b.datum || ""))).slice(0, 8);
 
   if (!sorted.length) {
-    target.innerHTML = "<p class=\"muted\">Keine kommenden Spiele im lokalen Snapshot gefunden.</p>";
+    target.innerHTML = "<p class=\"muted\">Keine kommenden Spiele im Redaktionsstand gefunden.</p>";
     return;
   }
 
@@ -79,5 +79,4 @@ async function main() {
 }
 
 main();
-
 
