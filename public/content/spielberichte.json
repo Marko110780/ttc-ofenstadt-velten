@@ -1,7 +1,7 @@
 {
   "exportTyp": "ttc-website-spielberichte",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-08-10T07:48:25.502Z",
+  "erstelltAm": "2026-08-10T20:18:48.776Z",
   "anzahl": 11,
   "spielberichte": [
     {
@@ -1502,15 +1502,15 @@
       "heimMannschaft": "TTC Ofenstadt Velten",
       "gastMannschaft": "The Eagles",
       "ergebnis": "13:1",
-      "teaser": "13:1 gegen The Eagles.",
-      "text": "",
-      "autor": "",
-      "agentId": "",
-      "redaktionsquelle": "kein gespeicherter Website-Text",
-      "websiteVeroeffentlicht": false,
+      "teaser": "Erste zeigt klare Linie gegen The Eagles",
+      "text": "Erste zeigt klare Linie gegen The Eagles\n\nTTC Ofenstadt Velten hat sich zu Hause gegen The Eagles mit 13:1 durchgesetzt. Die Erste zeigte über weite Strecken einen konzentrierten Auftritt und brachte das Spiel verdient nach Hause.\n\nDie Zahlen unterstreichen den verdienten Auftritt: 13:1 Spiele, 41:9 Sätze und 530:273 Bälle. Auch die engeren Phasen mit 1 Fünfsatzspiel und 11 knappe Sätze wurden konzentriert gelöst.\n\nEinen einzelnen Wendepunkt herauszugreifen, wäre bei diesem Spiel fast zu wenig — der Erfolg entstand aus vielen kleinen Momenten.\n\nStarke Akzente setzten Leon Patrick Henning mit 4 gewonnenen Spielen; Marko Winter mit 4 gewonnenen Spielen; Volker Henning mit 4 gewonnenen Spielen; Marcel Gewies mit 3 gewonnenen Spielen. Trotzdem bleibt der wichtigste Punkt: Dieser Abend wurde nicht von Einzelnen getragen, sondern als Mannschaft erarbeitet.\n\nDie Zahlen runden das Bild ab: 13:1 Spiele, 41:9 Sätze und 530:273 Bälle.\n\nUnterm Strich steht ein Heimsieg, der genau zu dieser Mannschaft passt: stolz, bodenständig, fair — und bis zum letzten Punkt gemeinsam.\n\nRedaktionshinweis: Entwurf vor Veröffentlichung bitte noch mit offizieller Quelle, TTR-Daten und gewünschter Tonalität abgleichen.",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": true,
       "bild": "",
       "geprueftAm": "2026-07-18T19:41:43.340Z",
-      "veroeffentlichtAm": "2026-07-18T19:41:43.340Z",
+      "veroeffentlichtAm": "2026-08-10T20:18:48.758Z",
       "quellen": [
         {
           "typ": "copy_paste",
