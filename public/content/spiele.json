@@ -54,6 +54,30 @@
     ]
   },
   {
+    "id": "import-ttc-erste-2026-04-22-ttc-ofenstadt-velten-gegen-ttv-templin-ii",
+    "teamId": "ttc-erste",
+    "datum": "2026-04-22",
+    "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+    "gegner": "TTV Templin II",
+    "heimAuswaerts": "Heimspiel",
+    "heimMannschaft": "TTC Ofenstadt Velten",
+    "gastMannschaft": "TTV Templin II",
+    "ergebnis": "8:6",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "466:469",
+      "saetze": "29:23"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
     "id": "import-2026-03-03-ttv-furstenberg-havel-ii-gegen-ttc-ofenstadt-velten",
     "teamId": "ttc-erste",
     "datum": "2026-03-03",

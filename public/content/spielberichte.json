@@ -1,7 +1,7 @@
 {
   "exportTyp": "ttc-website-spielberichte",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-08-10T06:43:30.373Z",
+  "erstelltAm": "2026-08-10T07:02:59.551Z",
   "anzahl": 11,
   "spielberichte": [
     {
@@ -386,15 +386,15 @@
       "heimMannschaft": "TTC Ofenstadt Velten",
       "gastMannschaft": "TTV Templin II",
       "ergebnis": "8:6",
-      "teaser": "8:6 gegen TTV Templin II.",
-      "text": "",
-      "autor": "",
-      "agentId": "",
-      "redaktionsquelle": "kein gespeicherter Website-Text",
-      "websiteVeroeffentlicht": false,
+      "teaser": "Erste belohnt sich nach engem Kampf gegen TTV Templin II",
+      "text": "Erste belohnt sich nach engem Kampf gegen TTV Templin II\n\nTTC Ofenstadt Velten hat sich zu Hause gegen TTV Templin II mit 8:6 durchgesetzt. Das war einer dieser Abende, an denen am Ende nicht nur das Ergebnis zählt, sondern auch der Weg dorthin: ruhig bleiben, Rückschläge wegstecken, füreinander Punkte holen.\n\nWie eng dieser Abend war, zeigen nicht nur die einzelnen Ergebnisse: 1 Fünfsatzspiel, 12 Sätze mit nur zwei Punkten Unterschied und die Ballbilanz von 466:469 erzählen von einem Spiel, das bis tief in die letzten Ballwechsel offen blieb.\n\nEinen einzelnen Wendepunkt herauszugreifen, wäre bei diesem Spiel fast zu wenig - der Erfolg entstand aus vielen kleinen Momenten.\n\nStarke Akzente setzten Marko Winter mit 4 gewonnenen Spielen; Kevin Sieverding mit 2 gewonnenen Spielen; Kimi Winter mit 2 gewonnenen Spielen; Olaf Butzlaff mit 1 gewonnenen Spiel. Trotzdem bleibt der wichtigste Punkt: Dieser Abend wurde nicht von Einzelnen getragen, sondern als Mannschaft erarbeitet.\n\nDie Zahlen runden das Bild ab: 8:6 Spiele, 29:23 Sätze und 466:469 Bälle.\n\nUnterm Strich steht ein Heimsieg, der genau zu dieser Mannschaft passt: stolz, bodenständig, fair - und bis zum letzten Punkt gemeinsam.",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": true,
       "bild": "",
       "geprueftAm": "2026-07-18T19:27:39.977Z",
-      "veroeffentlichtAm": "2026-07-18T19:27:39.977Z",
+      "veroeffentlichtAm": "2026-08-10T07:02:59.538Z",
       "quellen": [
         {
           "typ": "copy_paste",

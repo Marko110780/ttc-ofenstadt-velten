@@ -1,9 +1,9 @@
 {
   "sourceRoot": "G:\\Projekte\\TTC-Spielbericht-Agent\\data",
   "websiteExportPath": "G:\\Projekte\\TTC-Spielbericht-Agent\\public\\exports\\website-spielberichte.json",
-  "syncedAt": "2026-08-10T06:43:30.711Z",
+  "syncedAt": "2026-08-10T07:02:59.937Z",
   "teams": 5,
-  "games": 17,
+  "games": 18,
   "publicReports": 11,
   "previews": 22
 }
