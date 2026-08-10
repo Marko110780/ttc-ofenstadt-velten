@@ -102,6 +102,30 @@
     ]
   },
   {
+    "id": "import-ttc-erste-2026-03-03-ttv-furstenberg-havel-ii-gegen-ttc-ofenstadt-velten",
+    "teamId": "ttc-erste",
+    "datum": "2026-03-03",
+    "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1 TTV Fürstenberg/Havel II",
+    "gegner": "TTV Fürstenberg/Havel II",
+    "heimAuswaerts": "Auswärtsspiel",
+    "heimMannschaft": "TTV Fürstenberg/Havel II",
+    "gastMannschaft": "TTC Ofenstadt Velten",
+    "ergebnis": "10:4",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "525:448",
+      "saetze": "35:18"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
     "id": "import-2026-02-15-spielbericht-mytischtennis-de-news-click-tt-ranglisten-statistiken-training-serv-gegen-ttc-ofenstadt-velten",
     "teamId": "ttc-erste",
     "datum": "2026-02-15",
@@ -135,7 +159,7 @@
     "heimMannschaft": "SV Glienicke II",
     "gastMannschaft": "TTC Ofenstadt Velten II",
     "ergebnis": "9:9",
-    "spielcharakter": "Unentschieden nach großem Kampf",
+    "spielcharakter": "Unentschieden nach gro - xem Kampf",
     "importStatus": "importiert_ungeprueft",
     "geprueftAm": "",
     "summen": {
@@ -323,9 +347,9 @@
     "teamId": "ttc-erste",
     "datum": "2025-09-30",
     "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
-    "gegner": "Lindower SV Grün-Weiß",
+    "gegner": "Lindower SV Grün-Wei - x",
     "heimAuswaerts": "Auswärtsspiel",
-    "heimMannschaft": "Lindower SV Grün-Weiß",
+    "heimMannschaft": "Lindower SV Grün-Wei - x",
     "gastMannschaft": "TTC Ofenstadt Velten",
     "ergebnis": "6:8",
     "spielcharakter": "importiert und noch nicht redaktionell bewertet",
