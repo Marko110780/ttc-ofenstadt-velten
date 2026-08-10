@@ -1,7 +1,7 @@
 {
   "exportTyp": "ttc-website-spielberichte",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-08-10T07:47:16.656Z",
+  "erstelltAm": "2026-08-10T07:48:25.502Z",
   "anzahl": 11,
   "spielberichte": [
     {
@@ -1127,15 +1127,15 @@
       "heimMannschaft": "TTC Rotation Leegebruch IV",
       "gastMannschaft": "TTC Ofenstadt Velten",
       "ergebnis": "9:5",
-      "teaser": "9:5 gegen TTC Rotation Leegebruch IV.",
-      "text": "",
-      "autor": "",
-      "agentId": "",
-      "redaktionsquelle": "kein gespeicherter Website-Text",
-      "websiteVeroeffentlicht": false,
+      "teaser": "Erste kämpft bis zum Schluss, wird aber nicht belohnt",
+      "text": "Erste kämpft bis zum Schluss, wird aber nicht belohnt\n\nTTC Ofenstadt Velten musste sich auswärts gegen TTC Rotation Leegebruch IV mit 9:5 geschlagen geben. Es gibt Niederlagen, die kurz nachhallen. Diese gehört dazu: Die Erste war nah dran, hatte ihre Momente, musste am Ende aber dem Gegner gratulieren.\n\nWie eng dieser Abend war, zeigen nicht nur die einzelnen Ergebnisse: 3 Fünfsatzspiele, 15 Sätze mit nur zwei Punkten Unterschied und die Ballbilanz von 540:510 erzählen von einem Spiel, das bis tief in die letzten Ballwechsel offen blieb.\n\nEinen einzelnen Wendepunkt herauszugreifen, wäre bei diesem Spiel fast zu wenig — der Erfolg entstand aus vielen kleinen Momenten.\n\nStarke Akzente setzten Marko Winter mit 2 gewonnenen Spielen; Kimi Winter mit 1 gewonnenen Spiel; Leon Patrick Henning mit 1 gewonnenen Spiel; Volker Henning mit 1 gewonnenen Spiel. Trotzdem bleibt der wichtigste Punkt: Dieser Abend wurde nicht von Einzelnen getragen, sondern als Mannschaft erarbeitet.\n\nDie Zahlen runden das Bild ab: 9:5 Spiele, 31:26 Sätze und 540:510 Bälle.\n\nAuch wenn das Ergebnis am Ende weh tut: Einsatz, Moral und die engen Phasen gehören mit in diesen Bericht.",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": true,
       "bild": "",
       "geprueftAm": "2026-07-18T19:28:28.912Z",
-      "veroeffentlichtAm": "2026-07-18T19:28:28.912Z",
+      "veroeffentlichtAm": "2026-08-10T07:48:25.484Z",
       "quellen": [
         {
           "typ": "copy_paste",
