@@ -3,6 +3,7 @@ const state = {
   previews: [],
   reports: [],
   articles: [],
+  activeArticleId: "",
   syncStatus: null
 };
 
@@ -144,9 +145,18 @@ function firstParagraph(text) {
     .find(Boolean) || "";
 }
 
+function articleParagraphs(text) {
+  return decodeText(text)
+    .split(/\n{2,}/)
+    .map((part) => part.trim())
+    .filter(Boolean);
+}
+
 function createArticleItem(item, index) {
-  const article = document.createElement("article");
+  const article = document.createElement("button");
+  article.type = "button";
   article.className = index === 0 ? "article-card featured" : "article-card";
+  if (state.activeArticleId === item.id) article.classList.add("active");
   const title = decodeText(item.titel || "Aktuelle Meldung");
   const rubrik = decodeText(item.rubrik || "Verein");
   const teaser = decodeText(item.teaser || firstParagraph(item.text));
@@ -163,8 +173,50 @@ function createArticleItem(item, index) {
     </div>
     <h3>${title}</h3>
     <p>${teaser}</p>
+    <span class="inline-card-link">${state.activeArticleId === item.id ? "Meldung schließen" : "Meldung lesen"}</span>
   `;
+  article.addEventListener("click", () => {
+    state.activeArticleId = state.activeArticleId === item.id ? "" : item.id;
+    renderArticles();
+  });
   return article;
+}
+
+function renderArticleDetail(item) {
+  const target = byId("article-detail");
+  if (!target) return;
+  if (!item) {
+    target.hidden = true;
+    target.innerHTML = "";
+    return;
+  }
+
+  const paragraphs = articleParagraphs(item.text);
+  const title = decodeText(item.titel || "Aktuelle Meldung");
+  const rubrik = decodeText(item.rubrik || "Verein");
+  const dateText = item.veroeffentlichtAm
+    ? new Date(item.veroeffentlichtAm).toLocaleDateString("de-DE")
+    : "";
+  target.hidden = false;
+  target.innerHTML = `
+    <div class="card-topline">
+      ${sourceBadge(rubrik, "home")}
+      ${dateText ? `<span>${dateText}</span>` : ""}
+    </div>
+    <h3>${title}</h3>
+    <div class="article-detail-text">
+      ${paragraphs.map((paragraph) => `<p>${paragraph}</p>`).join("")}
+    </div>
+  `;
+}
+
+function renderArticles() {
+  const articleSection = byId("artikel");
+  const visibleArticles = state.articles.slice(0, 3);
+  const articleNodes = visibleArticles.map(createArticleItem);
+  if (articleSection) articleSection.hidden = articleNodes.length === 0;
+  byId("article-list")?.replaceChildren(...articleNodes);
+  renderArticleDetail(visibleArticles.find((article) => article.id === state.activeArticleId));
 }
 
 function createTeamItem(team) {
@@ -201,10 +253,7 @@ function render() {
   const previewNodes = state.previews.slice(0, 5).map(createPreviewCard);
   byId("preview-list").replaceChildren(...previewNodes);
 
-  const articleSection = byId("artikel");
-  const articleNodes = state.articles.slice(0, 3).map(createArticleItem);
-  if (articleSection) articleSection.hidden = articleNodes.length === 0;
-  byId("article-list")?.replaceChildren(...articleNodes);
+  renderArticles();
 
   const reportNodes = state.reports.filter(isPublicReport).slice(0, 6).map(createReportItem);
   byId("report-list").replaceChildren(...reportNodes);

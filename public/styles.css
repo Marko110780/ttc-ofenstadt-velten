@@ -361,11 +361,17 @@ h3 {
 }
 
 .article-card {
+  display: block;
   min-height: 100%;
+  width: 100%;
   border: 1px solid var(--line);
   border-radius: 8px;
   background: rgba(26, 26, 26, 0.94);
+  color: inherit;
+  font: inherit;
+  text-align: left;
   padding: 20px;
+  cursor: pointer;
 }
 
 .article-card.featured {
@@ -375,8 +381,38 @@ h3 {
     var(--panel);
 }
 
+.article-card:hover,
+.article-card:focus-visible,
+.article-card.active {
+  border-color: var(--brand);
+  outline: none;
+}
+
 .article-card p {
   color: #d8d1cb;
+}
+
+.article-detail {
+  margin-top: 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(26, 26, 26, 0.94);
+  padding: clamp(20px, 3vw, 30px);
+}
+
+.article-detail h3 {
+  font-size: clamp(24px, 3vw, 34px);
+}
+
+.article-detail-text {
+  display: grid;
+  gap: 14px;
+  color: #d8d1cb;
+}
+
+.article-detail-text p {
+  margin: 0;
+  white-space: pre-line;
 }
 
 .card-topline {
