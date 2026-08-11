@@ -2,6 +2,7 @@ const state = {
   teams: [],
   previews: [],
   reports: [],
+  articles: [],
   syncStatus: null
 };
 
@@ -136,6 +137,36 @@ function createReportItem(report) {
   return article;
 }
 
+function firstParagraph(text) {
+  return decodeText(text)
+    .split(/\n{2,}/)
+    .map((part) => part.trim())
+    .find(Boolean) || "";
+}
+
+function createArticleItem(item, index) {
+  const article = document.createElement("article");
+  article.className = index === 0 ? "article-card featured" : "article-card";
+  const title = decodeText(item.titel || "Aktuelle Meldung");
+  const rubrik = decodeText(item.rubrik || "Verein");
+  const teaser = decodeText(item.teaser || firstParagraph(item.text));
+  const dateText = item.veroeffentlichtAm
+    ? new Date(item.veroeffentlichtAm).toLocaleDateString("de-DE")
+    : item.aktualisiertAm
+      ? new Date(item.aktualisiertAm).toLocaleDateString("de-DE")
+      : "";
+
+  article.innerHTML = `
+    <div class="card-topline">
+      ${sourceBadge(rubrik, index === 0 ? "home" : "ok")}
+      ${dateText ? `<span>${dateText}</span>` : ""}
+    </div>
+    <h3>${title}</h3>
+    <p>${teaser}</p>
+  `;
+  return article;
+}
+
 function createTeamItem(team) {
   const card = document.createElement(team.sourceUrl ? "a" : "article");
   card.className = "team-item linked-card";
@@ -170,6 +201,11 @@ function render() {
   const previewNodes = state.previews.slice(0, 5).map(createPreviewCard);
   byId("preview-list").replaceChildren(...previewNodes);
 
+  const articleSection = byId("artikel");
+  const articleNodes = state.articles.slice(0, 3).map(createArticleItem);
+  if (articleSection) articleSection.hidden = articleNodes.length === 0;
+  byId("article-list")?.replaceChildren(...articleNodes);
+
   const reportNodes = state.reports.filter(isPublicReport).slice(0, 6).map(createReportItem);
   byId("report-list").replaceChildren(...reportNodes);
 
@@ -178,16 +214,18 @@ function render() {
 }
 
 async function main() {
-  const [teams, previews, reports, syncStatus] = await Promise.all([
+  const [teams, previews, reports, articlesPayload, syncStatus] = await Promise.all([
     loadJson("content/mannschaften.json", []),
     loadJson("content/vorschauen.json", []),
     loadJson("content/spiele.json", []),
+    loadJson("content/artikel.json", { artikel: [] }),
     loadJson("content/sync-status.json", null)
   ]);
 
   state.teams = teams;
   state.previews = previews;
   state.reports = reports;
+  state.articles = Array.isArray(articlesPayload?.artikel) ? articlesPayload.artikel : [];
   state.syncStatus = syncStatus;
   render();
 }

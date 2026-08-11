@@ -354,6 +354,31 @@ h3 {
     var(--panel);
 }
 
+.article-list {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.article-card {
+  min-height: 100%;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(26, 26, 26, 0.94);
+  padding: 20px;
+}
+
+.article-card.featured {
+  grid-column: span 2;
+  background:
+    linear-gradient(135deg, rgba(14, 106, 87, 0.26), rgba(26, 26, 26, 0.96)),
+    var(--panel);
+}
+
+.article-card p {
+  color: #d8d1cb;
+}
+
 .card-topline {
   display: flex;
   align-items: center;
@@ -1210,6 +1235,7 @@ h3 {
   }
 
   .preview-grid,
+  .article-list,
   .team-grid,
   .team-overview,
   .reports-filter,
@@ -1226,6 +1252,10 @@ h3 {
   .report-item,
   .schedule-list div {
     grid-template-columns: 1fr;
+  }
+
+  .article-card.featured {
+    grid-column: auto;
   }
 }
 .linked-card {
