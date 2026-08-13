@@ -3,6 +3,7 @@ const state = {
   previews: [],
   reports: [],
   articles: [],
+  sponsors: [],
   activeArticleId: "",
   syncStatus: null
 };
@@ -236,6 +237,31 @@ function createTeamItem(team) {
   return card;
 }
 
+function createSponsorFigure(sponsor) {
+  const figure = document.createElement("figure");
+  const image = document.createElement("img");
+  image.src = sponsor.logo;
+  image.alt = decodeText(sponsor.name);
+  figure.appendChild(image);
+  if (sponsor.websiteUrl) {
+    const link = document.createElement("a");
+    link.href = sponsor.websiteUrl;
+    link.target = "_blank";
+    link.rel = "noreferrer";
+    link.setAttribute("aria-label", `${decodeText(sponsor.name)} öffnen`);
+    link.appendChild(figure);
+    return link;
+  }
+  return figure;
+}
+
+function renderSponsors() {
+  const target = byId("sponsor-strip");
+  if (!target) return;
+  const nodes = state.sponsors.filter((sponsor) => sponsor.logo).map(createSponsorFigure);
+  target.replaceChildren(...nodes);
+}
+
 function renderHeroMatch() {
   const target = byId("hero-match");
   const next = state.previews[0];
@@ -260,14 +286,17 @@ function render() {
 
   const teamNodes = state.teams.map(createTeamItem);
   byId("team-list").replaceChildren(...teamNodes);
+
+  renderSponsors();
 }
 
 async function main() {
-  const [teams, previews, reports, articlesPayload, syncStatus] = await Promise.all([
+  const [teams, previews, reports, articlesPayload, sponsorsPayload, syncStatus] = await Promise.all([
     loadJson("content/mannschaften.json", []),
     loadJson("content/vorschauen.json", []),
     loadJson("content/spiele.json", []),
     loadJson("content/artikel.json", { artikel: [] }),
+    loadJson("content/sponsoren.json", { sponsoren: [] }),
     loadJson("content/sync-status.json", null)
   ]);
 
@@ -275,6 +304,7 @@ async function main() {
   state.previews = previews;
   state.reports = reports;
   state.articles = Array.isArray(articlesPayload?.artikel) ? articlesPayload.artikel : [];
+  state.sponsors = Array.isArray(sponsorsPayload?.sponsoren) ? sponsorsPayload.sponsoren : [];
   state.syncStatus = syncStatus;
   render();
 }

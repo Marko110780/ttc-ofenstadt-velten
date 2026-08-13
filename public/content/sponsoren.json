@@ -1,0 +1,108 @@
+{
+  "exportTyp": "ttc-website-sponsoren",
+  "verein": "TTC Ofenstadt Velten",
+  "erstelltAm": "2026-08-13T21:33:10.327Z",
+  "anzahl": 9,
+  "sponsoren": [
+    {
+      "id": "rewe",
+      "name": "REWE",
+      "kategorie": "Sponsor",
+      "beschreibung": "",
+      "websiteUrl": "",
+      "logo": "content/sponsoren/rewe.jpg",
+      "logoDateiname": "rewe.jpg",
+      "sortierung": 10,
+      "aktualisiertAm": "2026-08-13T00:00:00.000Z"
+    },
+    {
+      "id": "stadtwerke-velten",
+      "name": "Stadtwerke Velten",
+      "kategorie": "Sponsor",
+      "beschreibung": "",
+      "websiteUrl": "",
+      "logo": "content/sponsoren/stadtwerke.jpg",
+      "logoDateiname": "stadtwerke.jpg",
+      "sortierung": 20,
+      "aktualisiertAm": "2026-08-13T00:00:00.000Z"
+    },
+    {
+      "id": "mittelbrandenburgische-sparkasse",
+      "name": "Mittelbrandenburgische Sparkasse",
+      "kategorie": "Sponsor",
+      "beschreibung": "",
+      "websiteUrl": "",
+      "logo": "content/sponsoren/mittelbrandenburgische-sparkasse.jpg",
+      "logoDateiname": "mittelbrandenburgische-sparkasse.jpg",
+      "sortierung": 30,
+      "aktualisiertAm": "2026-08-13T00:00:00.000Z"
+    },
+    {
+      "id": "martin-bruch-gmbh",
+      "name": "Martin Bruch GmbH",
+      "kategorie": "Sponsor",
+      "beschreibung": "",
+      "websiteUrl": "",
+      "logo": "content/sponsoren/martin-bruch-gmbh.png",
+      "logoDateiname": "martin-bruch-gmbh.png",
+      "sortierung": 40,
+      "aktualisiertAm": "2026-08-13T00:00:00.000Z"
+    },
+    {
+      "id": "reg-velten",
+      "name": "REG Velten",
+      "kategorie": "Sponsor",
+      "beschreibung": "",
+      "websiteUrl": "",
+      "logo": "content/sponsoren/reg-velten.jpg",
+      "logoDateiname": "reg-velten.jpg",
+      "sortierung": 50,
+      "aktualisiertAm": "2026-08-13T00:00:00.000Z"
+    },
+    {
+      "id": "augenoptik-leue",
+      "name": "Augenoptik Leue",
+      "kategorie": "Sponsor",
+      "beschreibung": "",
+      "websiteUrl": "",
+      "logo": "content/sponsoren/augenoptik-leue.jpg",
+      "logoDateiname": "augenoptik-leue.jpg",
+      "sortierung": 60,
+      "aktualisiertAm": "2026-08-13T00:00:00.000Z"
+    },
+    {
+      "id": "contax",
+      "name": "Contax",
+      "kategorie": "Sponsor",
+      "beschreibung": "",
+      "websiteUrl": "",
+      "logo": "content/sponsoren/contax.jpg",
+      "logoDateiname": "contax.jpg",
+      "sortierung": 70,
+      "aktualisiertAm": "2026-08-13T00:00:00.000Z"
+    },
+    {
+      "id": "csr-autosport",
+      "name": "CSR Autosport",
+      "kategorie": "Sponsor",
+      "beschreibung": "",
+      "websiteUrl": "",
+      "logo": "content/sponsoren/csr-autosport.jpg",
+      "logoDateiname": "csr-autosport.jpg",
+      "sortierung": 80,
+      "aktualisiertAm": "2026-08-13T00:00:00.000Z"
+    },
+    {
+      "id": "immobilien-ewald",
+      "name": "Immobilien Ewald",
+      "kategorie": "Sponsor",
+      "beschreibung": "",
+      "websiteUrl": "",
+      "logo": "content/sponsoren/immobilien-ewald.jpg",
+      "logoDateiname": "immobilien-ewald.jpg",
+      "sortierung": 90,
+      "aktualisiertAm": "2026-08-13T00:00:00.000Z"
+    }
+  ],
+  "sourcePath": "G:\\Projekte\\TTC-Spielbericht-Agent\\public\\exports\\website-sponsoren.json"
+}
