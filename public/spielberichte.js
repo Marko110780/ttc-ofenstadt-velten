@@ -250,8 +250,11 @@ function renderList() {
   }
 
   target.replaceChildren(...state.filteredReports.map(createReportCard));
-  target.querySelectorAll("[data-report-id]").forEach((button) => {
-    button.addEventListener("click", () => toggleDetail(button.dataset.reportId));
+  target.querySelectorAll(".report-open-button").forEach((button) => {
+    button.addEventListener("click", (event) => {
+      event.stopPropagation();
+      toggleDetail(button.dataset.reportId);
+    });
   });
 }
 
