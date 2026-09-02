@@ -107,7 +107,6 @@ function createPreviewCard(preview, index) {
     </div>
     <h3>${title}</h3>
     <p class="match-date">${formatDate(preview.datum)} &middot; ${formatTime(preview.uhrzeit)}</p>
-    <p>${preview.veroeffentlichungen?.length ? "Vorschau liegt im Redaktions-Snapshot vor." : "Noch nicht redaktionell f\u00fcr alle Kan\u00e4le vorbereitet."}</p>
   `;
   return article;
 }

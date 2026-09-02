@@ -79,12 +79,6 @@ function createMatchItem(preview) {
   const article = document.createElement("article");
   article.className = "news-match-card";
   const isHome = preview.heimAuswaerts === "Heimspiel";
-  const channelCount = preview.veroeffentlichungen?.length || 0;
-  const channelText = channelCount === 1
-    ? "Für 1 Kanal vorbereitet."
-    : channelCount > 1
-      ? `Für ${channelCount} Kanäle vorbereitet.`
-      : "Noch nicht redaktionell für Kanäle vorbereitet.";
 
   article.innerHTML = `
     <div class="card-topline">
@@ -93,7 +87,6 @@ function createMatchItem(preview) {
     </div>
     <h2>${decodeText(preview.teamName || "TTC Ofenstadt Velten")} ${isHome ? "gegen" : "bei"} ${decodeText(preview.gegner || "Gegner offen")}</h2>
     <p class="muted">${formatDate(preview.datum)} · ${formatTime(preview.uhrzeit)}</p>
-    <p>${channelText}</p>
   `;
 
   return article;
