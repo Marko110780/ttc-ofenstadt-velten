@@ -1,23 +1,8 @@
 {
   "exportTyp": "ttc-website-artikel",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-09-05T06:32:12.707Z",
-  "anzahl": 1,
-  "artikel": [
-    {
-      "id": "artikel-veltener-ofencup-2026-1786467480074",
-      "titel": "Veltener Ofencup 2026",
-      "rubrik": "Veranstaltungen",
-      "teaser": "Veltener Ofencup 2026",
-      "text": "Veltener Ofencup 2026\n\nVeltener Ofencup 2026: Der TTC Ofenstadt Velten lädt zur Saisoneröffnung zu einem nicht TTR-relevanten Turnier für Erwachsene, Nachwuchs- sowie Hobbyspielerinnen und Hobbyspieler ein.\n\nTermin: 29.8.26\nSpielort: Ofenstadthalle Velten, Katersteig 3, 16727 Velten\nStartgeld: Je Teilnehmer: 10,00 €\nMeldeschluss: Anmeldung durch E-Mail an folgende E-Mailadresse: veltenerofencup@gmx.de Eingangsbestätigung erfolgt per E-Mail.\nAnmeldung: per E-Mail an veltenerofencup@gmx.de\nFür dieses Turnier ist keine Turnierlizenz notwendig.\n\nGespielt wird an 16 Tische (verschiedene Hersteller).\nIm Einzel wird zunächst in Gruppen gespielt; die beiden Gruppenersten erreichen die KO-Runde. Alle Wettbewerbe werden auf drei Gewinnsätze ausgetragen.\nDie Wettbewerbe sind nach Spielklassen und Q-TTR-Bereichen eingeteilt. Die Teilnehmerzahl je Spielklasse ist begrenzt.\nAls Preise sind Pokale und Medaillen vorgesehen.\nEs wird ein reichhaltiger und preiswerter Imbiss, einschließlich Getränke angeboten.\n\nDie Anmeldebestätigung erfolgt nach Überweisung des Startgeldes auf das Vereinskonto. Als Verwendungszweck sollen die Namen der Teilnehmer und „TT-Turnier“ angegeben werden.\n\nFür Nachwuchsspielerinnen und Nachwuchsspieler ist zusätzlich die Genehmigung eines Erziehungsberechtigten erforderlich.\n\nDie Turnierleitung behält sich Änderungen im Ablauf und bei Materialien vor. Bitte die Hinweise der Ausschreibung und die Hallenordnung beachten.",
-      "autor": "Rudi",
-      "agentId": "rudi-website",
-      "status": "veroeffentlicht",
-      "erstelltAm": "2026-08-11T16:58:00.074Z",
-      "aktualisiertAm": "2026-08-11T16:58:00.074Z",
-      "veroeffentlichtAm": "2026-08-11T18:08:03.316Z",
-      "bild": ""
-    }
-  ],
+  "erstelltAm": "2026-09-05T10:17:02.620Z",
+  "anzahl": 0,
+  "artikel": [],
   "sourcePath": "G:\\Projekte\\TTC-Spielbericht-Agent\\public\\exports\\website-artikel.json"
 }
