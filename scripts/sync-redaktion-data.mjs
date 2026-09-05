@@ -8,9 +8,12 @@ const websiteArtikelExportPath = process.env.REDAKTION_WEBSITE_ARTIKEL_EXPORT
   ?? "G:\\Projekte\\TTC-Spielbericht-Agent\\public\\exports\\website-artikel.json";
 const websiteSponsorenExportPath = process.env.REDAKTION_WEBSITE_SPONSOREN_EXPORT
   ?? "G:\\Projekte\\TTC-Spielbericht-Agent\\public\\exports\\website-sponsoren.json";
+const websiteGalerieExportPath = process.env.REDAKTION_WEBSITE_GALERIE_EXPORT
+  ?? "G:\\Projekte\\TTC-Spielbericht-Agent\\public\\exports\\website-galerie.json";
 const targetRoot = join(process.cwd(), "public", "content");
 const targetImageRoot = join(targetRoot, "bilder");
 const targetSponsorRoot = join(targetRoot, "sponsoren");
+const targetGalerieRoot = join(targetRoot, "galerie");
 
 async function readJson(fileName) {
   return JSON.parse(await readFile(join(sourceRoot, fileName), "utf8"));
@@ -143,6 +146,32 @@ async function readWebsiteArticles() {
   }
 }
 
+async function readWebsiteGalerie() {
+  try {
+    const payload = JSON.parse(await readFile(websiteGalerieExportPath, "utf8"));
+    const dokumente = Array.isArray(payload?.dokumente) ? payload.dokumente : [];
+    return {
+      ...payload,
+      sourcePath: websiteGalerieExportPath,
+      dokumente: dokumente
+        .filter((dokument) => dokument?.id)
+        .map((dokument) => ({
+          ...dokument,
+          pdf: String(dokument.pdf ?? "").replace(/^\/content\/galerie\//, "content/galerie/")
+        }))
+    };
+  } catch {
+    return {
+      exportTyp: "ttc-website-galerie",
+      verein: "TTC Ofenstadt Velten",
+      sourcePath: websiteGalerieExportPath,
+      erstelltAm: new Date().toISOString(),
+      anzahl: 0,
+      dokumente: []
+    };
+  }
+}
+
 async function readWebsiteSponsoren() {
   try {
     const payload = JSON.parse(await readFile(websiteSponsorenExportPath, "utf8"));
@@ -185,6 +214,20 @@ async function copyGeneratedImages(items) {
   }
 }
 
+async function copyGaleriePdfs(dokumente) {
+  await mkdir(targetGalerieRoot, { recursive: true });
+  for (const dokument of dokumente) {
+    const fileName = dokument.pdfDateiname || basename(String(dokument.pdf ?? ""));
+    if (!fileName) continue;
+    try {
+      await copyFile(join(sourceRoot, "galerie", fileName), join(targetGalerieRoot, basename(fileName)));
+      dokument.pdf = `content/galerie/${basename(fileName)}`;
+    } catch {
+      dokument.pdf = "";
+    }
+  }
+}
+
 async function copySponsorLogos(sponsoren) {
   await mkdir(targetSponsorRoot, { recursive: true });
   for (const sponsor of sponsoren) {
@@ -209,6 +252,7 @@ async function main() {
   const websiteReports = await readWebsiteReports();
   const websiteArticles = await readWebsiteArticles();
   const websiteSponsoren = await readWebsiteSponsoren();
+  const websiteGalerie = await readWebsiteGalerie();
 
   const summarizedGames = sortByDateDesc(games).filter((game) => !String(game.id ?? "").includes("demo")).map(summarizeGame);
   const gameById = new Map(games.filter(relevantReportMatch).map((game) => [game.id, game]));
@@ -237,6 +281,7 @@ async function main() {
   await mkdir(targetRoot, { recursive: true });
   await copyGeneratedImages([...summarizedGames, ...normalizedPreviews, ...websiteReports.spielberichte, ...websiteArticles.artikel]);
   await copySponsorLogos(websiteSponsoren.sponsoren);
+  await copyGaleriePdfs(websiteGalerie.dokumente);
   websiteSponsoren.sponsoren = websiteSponsoren.sponsoren.filter((sponsor) => sponsor.logo);
   websiteSponsoren.anzahl = websiteSponsoren.sponsoren.length;
 
@@ -245,22 +290,25 @@ async function main() {
   await writeFile(join(targetRoot, "spielberichte.json"), `${JSON.stringify(websiteReports, null, 2)}\n`, "utf8");
   await writeFile(join(targetRoot, "artikel.json"), `${JSON.stringify(websiteArticles, null, 2)}\n`, "utf8");
   await writeFile(join(targetRoot, "sponsoren.json"), `${JSON.stringify(websiteSponsoren, null, 2)}\n`, "utf8");
+  await writeFile(join(targetRoot, "galerie.json"), `${JSON.stringify(websiteGalerie, null, 2)}\n`, "utf8");
   await writeFile(join(targetRoot, "vorschauen.json"), `${JSON.stringify(normalizedPreviews, null, 2)}\n`, "utf8");
   await writeFile(join(targetRoot, "sync-status.json"), `${JSON.stringify({
     sourceRoot,
     websiteExportPath,
     websiteArtikelExportPath,
     websiteSponsorenExportPath,
+    websiteGalerieExportPath,
     syncedAt: new Date().toISOString(),
     teams: teams.length,
     games: summarizedGames.length,
     publicReports: websiteReports.spielberichte.length,
     publicArticles: websiteArticles.artikel.length,
     sponsors: websiteSponsoren.sponsoren.length,
+    galleryDocuments: websiteGalerie.dokumente.length,
     previews: normalizedPreviews.length
   }, null, 2)}\n`, "utf8");
 
-  console.log(`Synchronisiert: ${teams.length} Mannschaften, ${summarizedGames.length} Spiele, ${websiteReports.spielberichte.length} freigegebene Spielberichte, ${websiteArticles.artikel.length} freie Artikel, ${websiteSponsoren.sponsoren.length} Sponsoren, ${normalizedPreviews.length} Vorschauen.`);
+  console.log(`Synchronisiert: ${teams.length} Mannschaften, ${summarizedGames.length} Spiele, ${websiteReports.spielberichte.length} freigegebene Spielberichte, ${websiteArticles.artikel.length} freie Artikel, ${websiteSponsoren.sponsoren.length} Sponsoren, ${websiteGalerie.dokumente.length} Galerie-Dokumente, ${normalizedPreviews.length} Vorschauen.`);
 }
 
 main().catch((error) => {
