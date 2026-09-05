@@ -1,7 +1,7 @@
 {
   "exportTyp": "ttc-website-galerie",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-09-05T19:11:08.220Z",
+  "erstelltAm": "2026-09-05T19:43:02.993Z",
   "anzahl": 4,
   "dokumente": [
     {
@@ -10,9 +10,9 @@
       "beschreibung": "Einführung in grundlegende Tischtennis-Materialthemen.",
       "kategorie": "Materialkunde",
       "sortierung": 1,
-      "pdf": "",
-      "pdfDateiname": "",
-      "aktualisiertAm": "2026-09-05T19:00:36.6123191Z"
+      "pdf": "content/galerie/1-grundlagen-1788637337805.pdf",
+      "pdfDateiname": "1-grundlagen-1788637337805.pdf",
+      "aktualisiertAm": "2026-09-05T19:42:17.800Z"
     },
     {
       "id": "holzarten",
@@ -20,9 +20,9 @@
       "beschreibung": "Übersicht zu Holzarten im Tischtennisschläger-Aufbau.",
       "kategorie": "Materialkunde",
       "sortierung": 2,
-      "pdf": "",
-      "pdfDateiname": "",
-      "aktualisiertAm": "2026-09-05T19:00:36.6190366Z"
+      "pdf": "content/galerie/2-holzarten-1788637351898.pdf",
+      "pdfDateiname": "2-holzarten-1788637351898.pdf",
+      "aktualisiertAm": "2026-09-05T19:42:31.894Z"
     },
     {
       "id": "belaege",
@@ -30,9 +30,9 @@
       "beschreibung": "Informationen zu Tischtennis-Belägen.",
       "kategorie": "Materialkunde",
       "sortierung": 3,
-      "pdf": "",
-      "pdfDateiname": "",
-      "aktualisiertAm": "2026-09-05T19:00:36.6191284Z"
+      "pdf": "content/galerie/3-belage-1788637359154.pdf",
+      "pdfDateiname": "3-belage-1788637359154.pdf",
+      "aktualisiertAm": "2026-09-05T19:42:39.149Z"
     },
     {
       "id": "kunstfasern",
@@ -40,9 +40,9 @@
       "beschreibung": "Materialkunde zu Kunstfasern im Tischtennis.",
       "kategorie": "Materialkunde",
       "sortierung": 4,
-      "pdf": "",
-      "pdfDateiname": "",
-      "aktualisiertAm": "2026-09-05T19:00:36.6191826Z"
+      "pdf": "content/galerie/4-kunstfasern-1788637367125.pdf",
+      "pdfDateiname": "4-kunstfasern-1788637367125.pdf",
+      "aktualisiertAm": "2026-09-05T19:42:47.119Z"
     }
   ],
   "sourcePath": "G:\\Projekte\\TTC-Spielbericht-Agent\\public\\exports\\website-galerie.json"
