@@ -1,8 +1,8 @@
 {
   "exportTyp": "ttc-website-spielberichte",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-09-05T19:11:08.215Z",
-  "anzahl": 1,
+  "erstelltAm": "2026-09-05T19:36:06.756Z",
+  "anzahl": 12,
   "spielberichte": [
     {
       "id": "import-ttc-erste-2026-09-04-ttc-ofenstadt-velten-gegen-hohen-neuendorfer-sv-ii",
@@ -38,6 +38,4078 @@
         "baelle": "555:488",
         "saetze": "34:21"
       }
+    },
+    {
+      "id": "import-2026-04-24-the-eagles-gegen-ttc-ofenstadt-velten",
+      "slug": "2026-04-24-the-eagles-gegen-ttc-ofenstadt-velten",
+      "titel": "The Eagles gegen TTC Ofenstadt Velten",
+      "datum": "2026-04-24",
+      "datumDeutsch": "24. April 2026",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "The Eagles",
+      "heimAuswaerts": "Auswärtsspiel",
+      "heimMannschaft": "The Eagles",
+      "gastMannschaft": "TTC Ofenstadt Velten",
+      "ergebnis": "4:10",
+      "teaser": "Erste zeigt klare Linie gegen The Eagles",
+      "text": "Erste zeigt klare Linie gegen The Eagles\n\nTTC Ofenstadt Velten hat sich auswärts gegen The Eagles mit 4:10 durchgesetzt. Die Erste zeigte über weite Strecken einen konzentrierten Auftritt und brachte das Spiel verdient nach Hause.\n\nDie Zahlen unterstreichen den verdienten Auftritt: 4:10 Spiele, 16:35 Sätze und 383:521 Bälle. Auch die engeren Phasen mit 2 Fünfsatzspiele und 16 knappe Sätze wurden konzentriert gelöst.\n\nEntscheidend war, dass der TTC in den engen Phasen immer wieder Antworten fand: 1:7: Volker Henning behält die Nerven und holt den fünfsatzpunkt zum 1:7.\n\nStarke Akzente setzten Volker Henning mit 4 gewonnenen Spielen, darunter 1 Fünfsatz-Erfolg; Dirk Müller mit 3 gewonnenen Spielen; Marko Winter mit 3 gewonnenen Spielen; Marcel Gewies mit 2 gewonnenen Spielen. Trotzdem bleibt der wichtigste Punkt: Dieser Abend wurde nicht von Einzelnen getragen, sondern als Mannschaft erarbeitet.\n\nDie Zahlen runden das Bild ab: 4:10 Spiele, 16:35 Sätze und 383:521 Bälle.\n\nUnterm Strich steht ein Auswärtssieg, der genau zu dieser Mannschaft passt: stolz, bodenständig, fair — und bis zum letzten Punkt gemeinsam.",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": false,
+      "bild": "",
+      "geprueftAm": "2026-07-18T16:47:57.078Z",
+      "veroeffentlichtAm": "2026-07-18T16:47:57.078Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-07-18",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "383:521",
+        "saetze": "16:35"
+      },
+      "teamId": "ttc-erste",
+      "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+      "importStatus": "geprueft",
+      "aufstellungHeim": [
+        {
+          "position": 1,
+          "name": "Lars Nennemann"
+        },
+        {
+          "position": 2,
+          "name": "Martin Schulz"
+        },
+        {
+          "position": 3,
+          "name": "Elias Rhode"
+        },
+        {
+          "position": 4,
+          "name": "Philipp Wei - x"
+        }
+      ],
+      "aufstellungGast": [
+        {
+          "position": 1,
+          "name": "Volker Henning"
+        },
+        {
+          "position": 2,
+          "name": "Marko Winter"
+        },
+        {
+          "position": 3,
+          "name": "Dirk Müller"
+        },
+        {
+          "position": 4,
+          "name": "Marcel Gewies"
+        }
+      ],
+      "spielverlauf": [
+        {
+          "nummer": 1,
+          "typ": "Doppel",
+          "paarung": "D1-D1",
+          "heim": [
+            "Lars Nennemann",
+            "Martin Schulz"
+          ],
+          "gast": [
+            "Marko Winter",
+            "Volker Henning"
+          ],
+          "saetze": [
+            "10:12",
+            "11:9",
+            "5:11",
+            "9:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "0:1",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 2,
+          "typ": "Doppel",
+          "paarung": "D2-D2",
+          "heim": [
+            "Elias Rhode",
+            "Philipp Wei - x"
+          ],
+          "gast": [
+            "Marcel Gewies",
+            "Dirk Müller"
+          ],
+          "saetze": [
+            "9:11",
+            "4:11",
+            "4:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "0:2",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 3,
+          "typ": "Einzel",
+          "paarung": "1-2",
+          "heim": [
+            "Lars Nennemann"
+          ],
+          "gast": [
+            "Volker Henning"
+          ],
+          "saetze": [
+            "10:12",
+            "5:11",
+            "2:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "0:3",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 4,
+          "typ": "Einzel",
+          "paarung": "2-1",
+          "heim": [
+            "Martin Schulz"
+          ],
+          "gast": [
+            "Marko Winter"
+          ],
+          "saetze": [
+            "4:11",
+            "3:11",
+            "3:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "0:4",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 5,
+          "typ": "Einzel",
+          "paarung": "3-4",
+          "heim": [
+            "Elias Rhode"
+          ],
+          "gast": [
+            "Dirk Müller"
+          ],
+          "saetze": [
+            "4:11",
+            "12:10",
+            "11:9",
+            "11:8"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "1:4",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 6,
+          "typ": "Einzel",
+          "paarung": "4-3",
+          "heim": [
+            "Philipp Wei - x"
+          ],
+          "gast": [
+            "Marcel Gewies"
+          ],
+          "saetze": [
+            "3:11",
+            "2:11",
+            "4:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "1:5",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 7,
+          "typ": "Einzel",
+          "paarung": "1-1",
+          "heim": [
+            "Lars Nennemann"
+          ],
+          "gast": [
+            "Marko Winter"
+          ],
+          "saetze": [
+            "6:11",
+            "7:11",
+            "12:14"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "1:6",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 8,
+          "typ": "Einzel",
+          "paarung": "2-2",
+          "heim": [
+            "Martin Schulz"
+          ],
+          "gast": [
+            "Volker Henning"
+          ],
+          "saetze": [
+            "6:11",
+            "16:14",
+            "11:3",
+            "9:11",
+            "2:11"
+          ],
+          "satzErgebnis": "2:3",
+          "sieger": "gast",
+          "zwischenstand": "1:7",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 9,
+          "typ": "Einzel",
+          "paarung": "3-3",
+          "heim": [
+            "Elias Rhode"
+          ],
+          "gast": [
+            "Marcel Gewies"
+          ],
+          "saetze": [
+            "10:12",
+            "11:2",
+            "3:11",
+            "13:11",
+            "12:10"
+          ],
+          "satzErgebnis": "3:2",
+          "sieger": "heim",
+          "zwischenstand": "2:7",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 10,
+          "typ": "Einzel",
+          "paarung": "4-4",
+          "heim": [
+            "Philipp Wei - x"
+          ],
+          "gast": [
+            "Dirk Müller"
+          ],
+          "saetze": [
+            "8:11",
+            "2:11",
+            "1:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "2:8",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 11,
+          "typ": "Einzel",
+          "paarung": "3-1",
+          "heim": [
+            "Elias Rhode"
+          ],
+          "gast": [
+            "Marko Winter"
+          ],
+          "saetze": [
+            "11:5",
+            "9:11",
+            "11:7",
+            "11:8"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "3:8",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 12,
+          "typ": "Einzel",
+          "paarung": "1-3",
+          "heim": [
+            "Lars Nennemann"
+          ],
+          "gast": [
+            "Marcel Gewies"
+          ],
+          "saetze": [
+            "11:7",
+            "13:11",
+            "8:11",
+            "11:7"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "4:8",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 13,
+          "typ": "Einzel",
+          "paarung": "2-4",
+          "heim": [
+            "Martin Schulz"
+          ],
+          "gast": [
+            "Dirk Müller"
+          ],
+          "saetze": [
+            "8:11",
+            "8:11",
+            "11:9",
+            "7:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "4:9",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 14,
+          "typ": "Einzel",
+          "paarung": "4-2",
+          "heim": [
+            "Philipp Wei - x"
+          ],
+          "gast": [
+            "Volker Henning"
+          ],
+          "saetze": [
+            "4:11",
+            "4:11",
+            "1:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "4:10",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        }
+      ]
+    },
+    {
+      "id": "import-2026-04-22-ttc-ofenstadt-velten-gegen-ttv-templin-ii",
+      "slug": "2026-04-22-ttc-ofenstadt-velten-gegen-ttv-templin-ii",
+      "titel": "TTC Ofenstadt Velten gegen TTV Templin II",
+      "datum": "2026-04-22",
+      "datumDeutsch": "22. April 2026",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "TTV Templin II",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten",
+      "gastMannschaft": "TTV Templin II",
+      "ergebnis": "8:6",
+      "teaser": "Erste belohnt sich nach engem Kampf gegen TTV Templin II",
+      "text": "Erste belohnt sich nach engem Kampf gegen TTV Templin II\n\nTTC Ofenstadt Velten hat sich zu Hause gegen TTV Templin II mit 8:6 durchgesetzt. Das war einer dieser Abende, an denen am Ende nicht nur das Ergebnis zählt, sondern auch der Weg dorthin: ruhig bleiben, Rückschläge wegstecken, füreinander Punkte holen.\n\nWie eng dieser Abend war, zeigen nicht nur die einzelnen Ergebnisse: 1 Fünfsatzspiel, 12 Sätze mit nur zwei Punkten Unterschied und die Ballbilanz von 466:469 erzählen von einem Spiel, das bis tief in die letzten Ballwechsel offen blieb.\n\nEinen einzelnen Wendepunkt herauszugreifen, wäre bei diesem Spiel fast zu wenig - der Erfolg entstand aus vielen kleinen Momenten.\n\nStarke Akzente setzten Marko Winter mit 4 gewonnenen Spielen; Kevin Sieverding mit 2 gewonnenen Spielen; Kimi Winter mit 2 gewonnenen Spielen; Olaf Butzlaff mit 1 gewonnenen Spiel. Trotzdem bleibt der wichtigste Punkt: Dieser Abend wurde nicht von Einzelnen getragen, sondern als Mannschaft erarbeitet.\n\nDie Zahlen runden das Bild ab: 8:6 Spiele, 29:23 Sätze und 466:469 Bälle.\n\nUnterm Strich steht ein Heimsieg, der genau zu dieser Mannschaft passt: stolz, bodenständig, fair - und bis zum letzten Punkt gemeinsam.",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": false,
+      "bild": "",
+      "geprueftAm": "2026-07-18T19:27:39.977Z",
+      "veroeffentlichtAm": "2026-07-18T19:27:39.977Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-07-18",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "466:469",
+        "saetze": "29:23"
+      },
+      "teamId": "ttc-erste",
+      "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+      "importStatus": "geprueft",
+      "aufstellungHeim": [
+        {
+          "position": 1,
+          "name": "Marko Winter"
+        },
+        {
+          "position": 2,
+          "name": "Kevin Sieverding"
+        },
+        {
+          "position": 3,
+          "name": "Kimi Winter"
+        },
+        {
+          "position": 4,
+          "name": "Olaf Butzlaff"
+        }
+      ],
+      "aufstellungGast": [
+        {
+          "position": 1,
+          "name": "Jörg Lehmann"
+        },
+        {
+          "position": 2,
+          "name": "André Sellin"
+        },
+        {
+          "position": 3,
+          "name": "Andreas von Hübschmann"
+        },
+        {
+          "position": 4,
+          "name": "Karsten Iwanek"
+        }
+      ],
+      "spielverlauf": [
+        {
+          "nummer": 1,
+          "typ": "Doppel",
+          "paarung": "D1-D1",
+          "heim": [
+            "Marko Winter",
+            "Kimi Winter"
+          ],
+          "gast": [
+            "André Sellin",
+            "Jörg Lehmann"
+          ],
+          "saetze": [
+            "11:6",
+            "11:8",
+            "3:11",
+            "11:7"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "1:0",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 2,
+          "typ": "Doppel",
+          "paarung": "D2-D2",
+          "heim": [
+            "Kevin Sieverding",
+            "Olaf Butzlaff"
+          ],
+          "gast": [
+            "Karsten Iwanek",
+            "Andreas von Hübschmann"
+          ],
+          "saetze": [
+            "7:11",
+            "8:11",
+            "11:8",
+            "8:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "1:1",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 3,
+          "typ": "Einzel",
+          "paarung": "1-2",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "Jörg Lehmann"
+          ],
+          "saetze": [
+            "11:8",
+            "11:6",
+            "12:10"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "2:1",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 4,
+          "typ": "Einzel",
+          "paarung": "2-1",
+          "heim": [
+            "Kevin Sieverding"
+          ],
+          "gast": [
+            "André Sellin"
+          ],
+          "saetze": [
+            "12:10",
+            "11:6",
+            "11:3"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "3:1",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 5,
+          "typ": "Einzel",
+          "paarung": "3-4",
+          "heim": [
+            "Kimi Winter"
+          ],
+          "gast": [
+            "Andreas von Hübschmann"
+          ],
+          "saetze": [
+            "11:8",
+            "11:8",
+            "9:11",
+            "11:4"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "4:1",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 6,
+          "typ": "Einzel",
+          "paarung": "4-3",
+          "heim": [
+            "Olaf Butzlaff"
+          ],
+          "gast": [
+            "Karsten Iwanek"
+          ],
+          "saetze": [
+            "9:11",
+            "6:11",
+            "6:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "4:2",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 7,
+          "typ": "Einzel",
+          "paarung": "1-1",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "André Sellin"
+          ],
+          "saetze": [
+            "11:8",
+            "11:8",
+            "13:11"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "5:2",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 8,
+          "typ": "Einzel",
+          "paarung": "2-2",
+          "heim": [
+            "Kevin Sieverding"
+          ],
+          "gast": [
+            "Jörg Lehmann"
+          ],
+          "saetze": [
+            "4:11",
+            "2:11",
+            "12:10",
+            "8:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "5:3",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 9,
+          "typ": "Einzel",
+          "paarung": "3-3",
+          "heim": [
+            "Kimi Winter"
+          ],
+          "gast": [
+            "Karsten Iwanek"
+          ],
+          "saetze": [
+            "9:11",
+            "5:11",
+            "11:7",
+            "2:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "5:4",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 10,
+          "typ": "Einzel",
+          "paarung": "4-4",
+          "heim": [
+            "Olaf Butzlaff"
+          ],
+          "gast": [
+            "Andreas von Hübschmann"
+          ],
+          "saetze": [
+            "13:11",
+            "11:3",
+            "3:11",
+            "11:4"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "6:4",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 11,
+          "typ": "Einzel",
+          "paarung": "3-1",
+          "heim": [
+            "Kimi Winter"
+          ],
+          "gast": [
+            "André Sellin"
+          ],
+          "saetze": [
+            "4:11",
+            "11:9",
+            "11:7",
+            "6:11",
+            "6:11"
+          ],
+          "satzErgebnis": "2:3",
+          "sieger": "gast",
+          "zwischenstand": "6:5",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 12,
+          "typ": "Einzel",
+          "paarung": "1-3",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "Karsten Iwanek"
+          ],
+          "saetze": [
+            "9:11",
+            "11:5",
+            "11:6",
+            "11:7"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "7:5",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 13,
+          "typ": "Einzel",
+          "paarung": "2-4",
+          "heim": [
+            "Kevin Sieverding"
+          ],
+          "gast": [
+            "Andreas von Hübschmann"
+          ],
+          "saetze": [
+            "13:11",
+            "11:9",
+            "6:11",
+            "11:8"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "8:5",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 14,
+          "typ": "Einzel",
+          "paarung": "4-2",
+          "heim": [
+            "Olaf Butzlaff"
+          ],
+          "gast": [
+            "Jörg Lehmann"
+          ],
+          "saetze": [
+            "5:11",
+            "5:11",
+            "8:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "8:6",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        }
+      ]
+    },
+    {
+      "id": "import-2026-03-03-ttv-furstenberg-havel-ii-gegen-ttc-ofenstadt-velten",
+      "slug": "2026-03-03-ttv-furstenberg-havel-ii-gegen-ttc-ofenstadt-velten",
+      "titel": "TTV Fürstenberg/Havel II gegen TTC Ofenstadt Velten",
+      "datum": "2026-03-03",
+      "datumDeutsch": "03. März 2026",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "TTV Fürstenberg/Havel II",
+      "heimAuswaerts": "Auswärtsspiel",
+      "heimMannschaft": "TTV Fürstenberg/Havel II",
+      "gastMannschaft": "TTC Ofenstadt Velten",
+      "ergebnis": "10:4",
+      "teaser": "Ehrlicher Abend gegen starke Gäste aus TTV Fürstenberg/Havel II",
+      "text": "Ehrlicher Abend gegen starke Gäste aus TTV Fürstenberg/Havel II\n\nTTC Ofenstadt Velten musste sich auswärts gegen TTV Fürstenberg/Havel II mit 10:4 geschlagen geben. Manchmal ist ein Spiel schnell ehrlich. Gegen TTV Fürstenberg/Havel II lief nicht alles zusammen, trotzdem gab es Szenen, auf denen sich aufbauen lässt.\n\nDie Zahlen ordnen den Abend ehrlich ein: 10:4 Spiele, 35:18 Sätze und 525:448 Bälle. Einzelne enge Momente gab es trotzdem: 2 Fünfsatzspiele und 16 knappe Sätze zeigen, dass nicht jeder Durchgang klar weg war. Am Gesamtbild ändert das wenig: TTV Fürstenberg/Havel II war über weite Strecken stabiler.\n\nDie engen Phasen zeigen, wie nah der TTC dran war: 7:4: Marko Winter behält die Nerven und holt den fünfsatzpunkt zum 7:4.\n\nStarke Akzente setzten Marko Winter mit 3 gewonnenen Spielen, darunter 1 Fünfsatz-Erfolg; Volker Henning mit 2 gewonnenen Spielen. Trotzdem bleibt der wichtigste Punkt: Dieser Abend wurde nicht von Einzelnen getragen, sondern als Mannschaft erarbeitet.\n\nDie Zahlen runden das Bild ab: 10:4 Spiele, 35:18 Sätze und 525:448 Bälle.\n\nDer Blick geht nach vorn: fair gratulieren, sauber auswerten und im nächsten Spiel wieder angreifen.",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": false,
+      "bild": "",
+      "geprueftAm": "2026-07-18T16:46:56.786Z",
+      "veroeffentlichtAm": "2026-07-18T16:46:56.786Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-07-18",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "525:448",
+        "saetze": "35:18"
+      },
+      "teamId": "ttc-erste",
+      "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+      "importStatus": "geprueft",
+      "aufstellungHeim": [
+        {
+          "position": 1,
+          "name": "Martin Dehn"
+        },
+        {
+          "position": 2,
+          "name": "David Röwer"
+        },
+        {
+          "position": 3,
+          "name": "Robin Jung"
+        },
+        {
+          "position": 4,
+          "name": "Albek Schaow"
+        }
+      ],
+      "aufstellungGast": [
+        {
+          "position": 1,
+          "name": "Leon Patrick Henning"
+        },
+        {
+          "position": 2,
+          "name": "Marko Winter"
+        },
+        {
+          "position": 3,
+          "name": "Marcel Gewies"
+        },
+        {
+          "position": 4,
+          "name": "Volker Henning"
+        }
+      ],
+      "spielverlauf": [
+        {
+          "nummer": 1,
+          "typ": "Doppel",
+          "paarung": "D1-D1",
+          "heim": [
+            "Martin Dehn",
+            "David Röwer"
+          ],
+          "gast": [
+            "Marko Winter",
+            "Volker Henning"
+          ],
+          "saetze": [
+            "7:11",
+            "9:11",
+            "11:5",
+            "7:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "0:1",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 2,
+          "typ": "Doppel",
+          "paarung": "D2-D2",
+          "heim": [
+            "Robin Jung",
+            "Albek Schaow"
+          ],
+          "gast": [
+            "Leon Patrick Henning",
+            "Marcel Gewies"
+          ],
+          "saetze": [
+            "11:7",
+            "11:7",
+            "11:4"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "1:1",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 3,
+          "typ": "Einzel",
+          "paarung": "1-2",
+          "heim": [
+            "Martin Dehn"
+          ],
+          "gast": [
+            "Leon Patrick Henning"
+          ],
+          "saetze": [
+            "11:3",
+            "12:10",
+            "11:7"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "2:1",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 4,
+          "typ": "Einzel",
+          "paarung": "2-1",
+          "heim": [
+            "David Röwer"
+          ],
+          "gast": [
+            "Marko Winter"
+          ],
+          "saetze": [
+            "9:11",
+            "11:4",
+            "12:14",
+            "6:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "2:2",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 5,
+          "typ": "Einzel",
+          "paarung": "3-4",
+          "heim": [
+            "Robin Jung"
+          ],
+          "gast": [
+            "Marcel Gewies"
+          ],
+          "saetze": [
+            "14:12",
+            "9:11",
+            "11:8",
+            "11:9"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "3:2",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 6,
+          "typ": "Einzel",
+          "paarung": "4-3",
+          "heim": [
+            "Albek Schaow"
+          ],
+          "gast": [
+            "Volker Henning"
+          ],
+          "saetze": [
+            "11:8",
+            "11:6",
+            "12:10"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "4:2",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 7,
+          "typ": "Einzel",
+          "paarung": "1-1",
+          "heim": [
+            "Martin Dehn"
+          ],
+          "gast": [
+            "Marko Winter"
+          ],
+          "saetze": [
+            "7:11",
+            "11:7",
+            "11:9",
+            "11:4"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "5:2",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 8,
+          "typ": "Einzel",
+          "paarung": "2-2",
+          "heim": [
+            "David Röwer"
+          ],
+          "gast": [
+            "Leon Patrick Henning"
+          ],
+          "saetze": [
+            "11:6",
+            "11:5",
+            "6:11",
+            "11:6"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "6:2",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 9,
+          "typ": "Einzel",
+          "paarung": "3-3",
+          "heim": [
+            "Robin Jung"
+          ],
+          "gast": [
+            "Volker Henning"
+          ],
+          "saetze": [
+            "2:11",
+            "14:12",
+            "6:11",
+            "6:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "6:3",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 10,
+          "typ": "Einzel",
+          "paarung": "4-4",
+          "heim": [
+            "Albek Schaow"
+          ],
+          "gast": [
+            "Marcel Gewies"
+          ],
+          "saetze": [
+            "11:7",
+            "11:4",
+            "11:6"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "7:3",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 11,
+          "typ": "Einzel",
+          "paarung": "3-1",
+          "heim": [
+            "Robin Jung"
+          ],
+          "gast": [
+            "Marko Winter"
+          ],
+          "saetze": [
+            "6:11",
+            "11:13",
+            "11:8",
+            "11:8",
+            "9:11"
+          ],
+          "satzErgebnis": "2:3",
+          "sieger": "gast",
+          "zwischenstand": "7:4",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 12,
+          "typ": "Einzel",
+          "paarung": "1-3",
+          "heim": [
+            "Martin Dehn"
+          ],
+          "gast": [
+            "Volker Henning"
+          ],
+          "saetze": [
+            "9:11",
+            "12:10",
+            "11:4",
+            "11:7"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "8:4",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 13,
+          "typ": "Einzel",
+          "paarung": "2-4",
+          "heim": [
+            "David Röwer"
+          ],
+          "gast": [
+            "Marcel Gewies"
+          ],
+          "saetze": [
+            "11:4",
+            "12:10",
+            "11:5"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "9:4",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 14,
+          "typ": "Einzel",
+          "paarung": "4-2",
+          "heim": [
+            "Albek Schaow"
+          ],
+          "gast": [
+            "Leon Patrick Henning"
+          ],
+          "saetze": [
+            "11:7",
+            "6:11",
+            "11:9",
+            "3:11",
+            "11:7"
+          ],
+          "satzErgebnis": "3:2",
+          "sieger": "heim",
+          "zwischenstand": "10:4",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        }
+      ]
+    },
+    {
+      "id": "import-2026-02-15-spielbericht-mytischtennis-de-news-click-tt-ranglisten-statistiken-training-serv-gegen-ttc-ofenstadt-velten",
+      "slug": "2026-02-15-ttc-rotation-leegebruch-iv-gegen-ttc-ofenstadt-velten",
+      "titel": "TTC Rotation Leegebruch IV gegen TTC Ofenstadt Velten",
+      "datum": "2026-02-15",
+      "datumDeutsch": "15. Februar 2026",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "TTC Rotation Leegebruch IV",
+      "heimAuswaerts": "Auswärtsspiel",
+      "heimMannschaft": "TTC Rotation Leegebruch IV",
+      "gastMannschaft": "TTC Ofenstadt Velten",
+      "ergebnis": "9:5",
+      "teaser": "Erste kämpft bis zum Schluss, wird aber nicht belohnt",
+      "text": "Erste kämpft bis zum Schluss, wird aber nicht belohnt\n\nTTC Ofenstadt Velten musste sich auswärts gegen TTC Rotation Leegebruch IV mit 9:5 geschlagen geben. Es gibt Niederlagen, die kurz nachhallen. Diese gehört dazu: Die Erste war nah dran, hatte ihre Momente, musste am Ende aber dem Gegner gratulieren.\n\nWie eng dieser Abend war, zeigen nicht nur die einzelnen Ergebnisse: 3 Fünfsatzspiele, 15 Sätze mit nur zwei Punkten Unterschied und die Ballbilanz von 540:510 erzählen von einem Spiel, das bis tief in die letzten Ballwechsel offen blieb.\n\nEinen einzelnen Wendepunkt herauszugreifen, wäre bei diesem Spiel fast zu wenig — der Erfolg entstand aus vielen kleinen Momenten.\n\nStarke Akzente setzten Marko Winter mit 2 gewonnenen Spielen; Kimi Winter mit 1 gewonnenen Spiel; Leon Patrick Henning mit 1 gewonnenen Spiel; Volker Henning mit 1 gewonnenen Spiel. Trotzdem bleibt der wichtigste Punkt: Dieser Abend wurde nicht von Einzelnen getragen, sondern als Mannschaft erarbeitet.\n\nDie Zahlen runden das Bild ab: 9:5 Spiele, 31:26 Sätze und 540:510 Bälle.\n\nAuch wenn das Ergebnis am Ende weh tut: Einsatz, Moral und die engen Phasen gehören mit in diesen Bericht.",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": false,
+      "bild": "",
+      "geprueftAm": "2026-07-18T19:28:28.912Z",
+      "veroeffentlichtAm": "2026-07-18T19:28:28.912Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-07-18",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "540:510",
+        "saetze": "31:26"
+      },
+      "teamId": "ttc-erste",
+      "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+      "importStatus": "geprueft",
+      "aufstellungHeim": [
+        {
+          "position": 1,
+          "name": "Janik Tilgner"
+        },
+        {
+          "position": 2,
+          "name": "Melvin Szymanski"
+        },
+        {
+          "position": 3,
+          "name": "Olaf Kölle"
+        },
+        {
+          "position": 4,
+          "name": "Matthias Müller"
+        }
+      ],
+      "aufstellungGast": [
+        {
+          "position": 1,
+          "name": "Leon Patrick Henning"
+        },
+        {
+          "position": 2,
+          "name": "Marko Winter"
+        },
+        {
+          "position": 3,
+          "name": "Kimi Winter"
+        },
+        {
+          "position": 4,
+          "name": "Volker Henning"
+        }
+      ],
+      "spielverlauf": [
+        {
+          "nummer": 1,
+          "typ": "Doppel",
+          "paarung": "D1-D1",
+          "heim": [
+            "Janik Tilgner",
+            "Melvin Szymanski"
+          ],
+          "gast": [
+            "Marko Winter",
+            "Volker Henning"
+          ],
+          "saetze": [
+            "11:7",
+            "7:11",
+            "11:8",
+            "11:7"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "1:0",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 2,
+          "typ": "Doppel",
+          "paarung": "D2-D2",
+          "heim": [
+            "Olaf Kölle",
+            "Matthias Müller"
+          ],
+          "gast": [
+            "Leon Patrick Henning",
+            "Kimi Winter"
+          ],
+          "saetze": [
+            "11:7",
+            "11:2",
+            "8:11",
+            "9:11",
+            "11:6"
+          ],
+          "satzErgebnis": "3:2",
+          "sieger": "heim",
+          "zwischenstand": "2:0",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 3,
+          "typ": "Einzel",
+          "paarung": "1-2",
+          "heim": [
+            "Janik Tilgner"
+          ],
+          "gast": [
+            "Leon Patrick Henning"
+          ],
+          "saetze": [
+            "11:5",
+            "8:11",
+            "11:7",
+            "6:11",
+            "11:8"
+          ],
+          "satzErgebnis": "3:2",
+          "sieger": "heim",
+          "zwischenstand": "3:0",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 4,
+          "typ": "Einzel",
+          "paarung": "2-1",
+          "heim": [
+            "Melvin Szymanski"
+          ],
+          "gast": [
+            "Marko Winter"
+          ],
+          "saetze": [
+            "4:11",
+            "10:12",
+            "11:6",
+            "6:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "3:1",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 5,
+          "typ": "Einzel",
+          "paarung": "3-4",
+          "heim": [
+            "Olaf Kölle"
+          ],
+          "gast": [
+            "Kimi Winter"
+          ],
+          "saetze": [
+            "11:5",
+            "11:9",
+            "8:11",
+            "11:4"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "4:1",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 6,
+          "typ": "Einzel",
+          "paarung": "4-3",
+          "heim": [
+            "Matthias Müller"
+          ],
+          "gast": [
+            "Volker Henning"
+          ],
+          "saetze": [
+            "11:7",
+            "2:11",
+            "12:10",
+            "11:6"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "5:1",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 7,
+          "typ": "Einzel",
+          "paarung": "1-1",
+          "heim": [
+            "Janik Tilgner"
+          ],
+          "gast": [
+            "Marko Winter"
+          ],
+          "saetze": [
+            "11:5",
+            "9:11",
+            "11:7",
+            "9:11",
+            "11:9"
+          ],
+          "satzErgebnis": "3:2",
+          "sieger": "heim",
+          "zwischenstand": "6:1",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 8,
+          "typ": "Einzel",
+          "paarung": "2-2",
+          "heim": [
+            "Melvin Szymanski"
+          ],
+          "gast": [
+            "Leon Patrick Henning"
+          ],
+          "saetze": [
+            "16:14",
+            "11:6",
+            "7:11",
+            "11:7"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "7:1",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 9,
+          "typ": "Einzel",
+          "paarung": "3-3",
+          "heim": [
+            "Olaf Kölle"
+          ],
+          "gast": [
+            "Volker Henning"
+          ],
+          "saetze": [
+            "8:11",
+            "10:12",
+            "7:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "7:2",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 10,
+          "typ": "Einzel",
+          "paarung": "4-4",
+          "heim": [
+            "Matthias Müller"
+          ],
+          "gast": [
+            "Kimi Winter"
+          ],
+          "saetze": [
+            "11:5",
+            "8:11",
+            "8:11",
+            "8:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "7:3",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 11,
+          "typ": "Einzel",
+          "paarung": "3-1",
+          "heim": [
+            "Olaf Kölle"
+          ],
+          "gast": [
+            "Marko Winter"
+          ],
+          "saetze": [
+            "8:11",
+            "11:9",
+            "10:12",
+            "6:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "7:4",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 12,
+          "typ": "Einzel",
+          "paarung": "1-3",
+          "heim": [
+            "Janik Tilgner"
+          ],
+          "gast": [
+            "Volker Henning"
+          ],
+          "saetze": [
+            "11:9",
+            "11:9",
+            "11:7"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "8:4",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 13,
+          "typ": "Einzel",
+          "paarung": "2-4",
+          "heim": [
+            "Melvin Szymanski"
+          ],
+          "gast": [
+            "Kimi Winter"
+          ],
+          "saetze": [
+            "9:11",
+            "11:9",
+            "11:6",
+            "11:8"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "9:4",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 14,
+          "typ": "Einzel",
+          "paarung": "4-2",
+          "heim": [
+            "Matthias Müller"
+          ],
+          "gast": [
+            "Leon Patrick Henning"
+          ],
+          "saetze": [
+            "11:7",
+            "7:11",
+            "6:11",
+            "5:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "9:5",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        }
+      ]
+    },
+    {
+      "id": "import-2025-12-05-ttc-ofenstadt-velten-gegen-the-eagles",
+      "slug": "2025-12-05-ttc-ofenstadt-velten-gegen-the-eagles",
+      "titel": "TTC Ofenstadt Velten gegen The Eagles",
+      "datum": "2025-12-05",
+      "datumDeutsch": "05. Dezember 2025",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "The Eagles",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten",
+      "gastMannschaft": "The Eagles",
+      "ergebnis": "13:1",
+      "teaser": "Erste zeigt klare Linie gegen The Eagles",
+      "text": "Erste zeigt klare Linie gegen The Eagles\n\nTTC Ofenstadt Velten hat sich zu Hause gegen The Eagles mit 13:1 durchgesetzt. Die Erste zeigte über weite Strecken einen konzentrierten Auftritt und brachte das Spiel verdient nach Hause.\n\nDie Zahlen unterstreichen den verdienten Auftritt: 13:1 Spiele, 41:9 Sätze und 530:273 Bälle. Auch die engeren Phasen mit 1 Fünfsatzspiel und 11 knappe Sätze wurden konzentriert gelöst.\n\nEinen einzelnen Wendepunkt herauszugreifen, wäre bei diesem Spiel fast zu wenig — der Erfolg entstand aus vielen kleinen Momenten.\n\nStarke Akzente setzten Leon Patrick Henning mit 4 gewonnenen Spielen; Marko Winter mit 4 gewonnenen Spielen; Volker Henning mit 4 gewonnenen Spielen; Marcel Gewies mit 3 gewonnenen Spielen. Trotzdem bleibt der wichtigste Punkt: Dieser Abend wurde nicht von Einzelnen getragen, sondern als Mannschaft erarbeitet.\n\nDie Zahlen runden das Bild ab: 13:1 Spiele, 41:9 Sätze und 530:273 Bälle.\n\nUnterm Strich steht ein Heimsieg, der genau zu dieser Mannschaft passt: stolz, bodenständig, fair — und bis zum letzten Punkt gemeinsam.",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": false,
+      "bild": "",
+      "geprueftAm": "2026-07-18T19:41:43.340Z",
+      "veroeffentlichtAm": "2026-07-18T19:41:43.340Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-07-18",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "530:273",
+        "saetze": "41:9"
+      },
+      "teamId": "ttc-erste",
+      "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+      "importStatus": "geprueft",
+      "aufstellungHeim": [
+        {
+          "position": 1,
+          "name": "Marko Winter"
+        },
+        {
+          "position": 2,
+          "name": "Leon Patrick Henning"
+        },
+        {
+          "position": 3,
+          "name": "Marcel Gewies"
+        },
+        {
+          "position": 4,
+          "name": "Volker Henning"
+        }
+      ],
+      "aufstellungGast": [
+        {
+          "position": 1,
+          "name": "Lars Nennemann"
+        },
+        {
+          "position": 2,
+          "name": "Martin Schulz"
+        },
+        {
+          "position": 3,
+          "name": "Jannis Mohnke"
+        },
+        {
+          "position": 4,
+          "name": "Elias Rhode"
+        }
+      ],
+      "spielverlauf": [
+        {
+          "nummer": 1,
+          "typ": "Doppel",
+          "paarung": "D1-D1",
+          "heim": [
+            "Marko Winter",
+            "Volker Henning"
+          ],
+          "gast": [
+            "Lars Nennemann",
+            "Jannis Mohnke"
+          ],
+          "saetze": [
+            "11:0",
+            "11:0",
+            "11:0"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "1:0",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 2,
+          "typ": "Doppel",
+          "paarung": "D2-D2",
+          "heim": [
+            "Leon Patrick Henning",
+            "Marcel Gewies"
+          ],
+          "gast": [
+            "Martin Schulz",
+            "Elias Rhode"
+          ],
+          "saetze": [
+            "11:3",
+            "11:2",
+            "11:5"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "2:0",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 3,
+          "typ": "Einzel",
+          "paarung": "1-2",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "Lars Nennemann"
+          ],
+          "saetze": [
+            "11:7",
+            "14:12",
+            "3:11",
+            "11:3"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "3:0",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 4,
+          "typ": "Einzel",
+          "paarung": "2-1",
+          "heim": [
+            "Leon Patrick Henning"
+          ],
+          "gast": [
+            "Martin Schulz"
+          ],
+          "saetze": [
+            "11:4",
+            "9:11",
+            "11:8",
+            "11:8"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "4:0",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 5,
+          "typ": "Einzel",
+          "paarung": "3-4",
+          "heim": [
+            "Marcel Gewies"
+          ],
+          "gast": [
+            "Jannis Mohnke"
+          ],
+          "saetze": [
+            "11:0",
+            "11:0",
+            "11:0"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "5:0",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 6,
+          "typ": "Einzel",
+          "paarung": "4-3",
+          "heim": [
+            "Volker Henning"
+          ],
+          "gast": [
+            "Elias Rhode"
+          ],
+          "saetze": [
+            "11:6",
+            "11:1",
+            "11:7"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "6:0",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 7,
+          "typ": "Einzel",
+          "paarung": "1-1",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "Martin Schulz"
+          ],
+          "saetze": [
+            "11:9",
+            "9:11",
+            "11:5",
+            "12:10"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "7:0",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 8,
+          "typ": "Einzel",
+          "paarung": "2-2",
+          "heim": [
+            "Leon Patrick Henning"
+          ],
+          "gast": [
+            "Lars Nennemann"
+          ],
+          "saetze": [
+            "11:7",
+            "11:9",
+            "10:12",
+            "11:5"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "8:0",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 9,
+          "typ": "Einzel",
+          "paarung": "3-3",
+          "heim": [
+            "Marcel Gewies"
+          ],
+          "gast": [
+            "Elias Rhode"
+          ],
+          "saetze": [
+            "11:6",
+            "9:11",
+            "10:12",
+            "11:6",
+            "7:11"
+          ],
+          "satzErgebnis": "2:3",
+          "sieger": "gast",
+          "zwischenstand": "8:1",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 10,
+          "typ": "Einzel",
+          "paarung": "4-4",
+          "heim": [
+            "Volker Henning"
+          ],
+          "gast": [
+            "Jannis Mohnke"
+          ],
+          "saetze": [
+            "11:0",
+            "11:0",
+            "11:0"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "9:1",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 11,
+          "typ": "Einzel",
+          "paarung": "3-1",
+          "heim": [
+            "Marcel Gewies"
+          ],
+          "gast": [
+            "Martin Schulz"
+          ],
+          "saetze": [
+            "11:2",
+            "11:4",
+            "9:11",
+            "11:8"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "10:1",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 12,
+          "typ": "Einzel",
+          "paarung": "1-3",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "Elias Rhode"
+          ],
+          "saetze": [
+            "8:11",
+            "11:3",
+            "12:10",
+            "11:6"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "11:1",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 13,
+          "typ": "Einzel",
+          "paarung": "2-4",
+          "heim": [
+            "Leon Patrick Henning"
+          ],
+          "gast": [
+            "Jannis Mohnke"
+          ],
+          "saetze": [
+            "11:0",
+            "11:0",
+            "11:0"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "12:1",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 14,
+          "typ": "Einzel",
+          "paarung": "4-2",
+          "heim": [
+            "Volker Henning"
+          ],
+          "gast": [
+            "Lars Nennemann"
+          ],
+          "saetze": [
+            "11:5",
+            "11:4",
+            "11:7"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "13:1",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        }
+      ]
+    },
+    {
+      "id": "import-2025-11-21-ttc-ofenstadt-velten-gegen-ttv-templin-ii",
+      "slug": "2025-11-21-ttc-ofenstadt-velten-gegen-ttv-templin-ii",
+      "titel": "TTC Ofenstadt Velten gegen TTV Templin II",
+      "datum": "2025-11-21",
+      "datumDeutsch": "21. November 2025",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "TTV Templin II",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten",
+      "gastMannschaft": "TTV Templin II",
+      "ergebnis": "13:1",
+      "teaser": "13:1 gegen TTV Templin II.",
+      "text": "",
+      "autor": "",
+      "agentId": "",
+      "redaktionsquelle": "kein gespeicherter Website-Text",
+      "websiteVeroeffentlicht": false,
+      "bild": "",
+      "geprueftAm": "2026-07-18T16:45:33.677Z",
+      "veroeffentlichtAm": "2026-07-18T16:45:33.677Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-07-18",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "504:357",
+        "saetze": "39:9"
+      },
+      "teamId": "ttc-erste",
+      "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+      "importStatus": "geprueft",
+      "aufstellungHeim": [
+        {
+          "position": 1,
+          "name": "Marko Winter"
+        },
+        {
+          "position": 2,
+          "name": "Leon Patrick Henning"
+        },
+        {
+          "position": 3,
+          "name": "Marcel Gewies"
+        },
+        {
+          "position": 4,
+          "name": "Volker Henning"
+        }
+      ],
+      "aufstellungGast": [
+        {
+          "position": 1,
+          "name": "Karsten Iwanek"
+        },
+        {
+          "position": 2,
+          "name": "Jörg Lehmann"
+        },
+        {
+          "position": 3,
+          "name": "Thomas Urban"
+        },
+        {
+          "position": 4,
+          "name": "Andreas von Hübschmann"
+        }
+      ],
+      "spielverlauf": [
+        {
+          "nummer": 1,
+          "typ": "Doppel",
+          "paarung": "D1-D1",
+          "heim": [
+            "Marko Winter",
+            "Volker Henning"
+          ],
+          "gast": [
+            "Andreas von Hübschmann",
+            "Thomas Urban"
+          ],
+          "saetze": [
+            "8:11",
+            "7:11",
+            "11:9",
+            "11:6",
+            "11:8"
+          ],
+          "satzErgebnis": "3:2",
+          "sieger": "heim",
+          "zwischenstand": "1:0",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 2,
+          "typ": "Doppel",
+          "paarung": "D2-D2",
+          "heim": [
+            "Leon Patrick Henning",
+            "Marcel Gewies"
+          ],
+          "gast": [
+            "Jörg Lehmann",
+            "Karsten Iwanek"
+          ],
+          "saetze": [
+            "11:9",
+            "12:10",
+            "11:6"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "2:0",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 3,
+          "typ": "Einzel",
+          "paarung": "1-2",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "Karsten Iwanek"
+          ],
+          "saetze": [
+            "11:9",
+            "11:9",
+            "11:8"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "3:0",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 4,
+          "typ": "Einzel",
+          "paarung": "2-1",
+          "heim": [
+            "Leon Patrick Henning"
+          ],
+          "gast": [
+            "Jörg Lehmann"
+          ],
+          "saetze": [
+            "12:10",
+            "7:11",
+            "11:9",
+            "11:8"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "4:0",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 5,
+          "typ": "Einzel",
+          "paarung": "3-4",
+          "heim": [
+            "Marcel Gewies"
+          ],
+          "gast": [
+            "Thomas Urban"
+          ],
+          "saetze": [
+            "11:8",
+            "11:6",
+            "11:5"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "5:0",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 6,
+          "typ": "Einzel",
+          "paarung": "4-3",
+          "heim": [
+            "Volker Henning"
+          ],
+          "gast": [
+            "Andreas von Hübschmann"
+          ],
+          "saetze": [
+            "11:3",
+            "11:2",
+            "13:11"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "6:0",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 7,
+          "typ": "Einzel",
+          "paarung": "1-1",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "Jörg Lehmann"
+          ],
+          "saetze": [
+            "7:11",
+            "5:11",
+            "14:16"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "6:1",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 8,
+          "typ": "Einzel",
+          "paarung": "2-2",
+          "heim": [
+            "Leon Patrick Henning"
+          ],
+          "gast": [
+            "Karsten Iwanek"
+          ],
+          "saetze": [
+            "11:5",
+            "11:5",
+            "12:10"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "7:1",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 9,
+          "typ": "Einzel",
+          "paarung": "3-3",
+          "heim": [
+            "Marcel Gewies"
+          ],
+          "gast": [
+            "Andreas von Hübschmann"
+          ],
+          "saetze": [
+            "11:5",
+            "11:4",
+            "11:2"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "8:1",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 10,
+          "typ": "Einzel",
+          "paarung": "4-4",
+          "heim": [
+            "Volker Henning"
+          ],
+          "gast": [
+            "Thomas Urban"
+          ],
+          "saetze": [
+            "11:4",
+            "11:2",
+            "11:9"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "9:1",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 11,
+          "typ": "Einzel",
+          "paarung": "3-1",
+          "heim": [
+            "Marcel Gewies"
+          ],
+          "gast": [
+            "Jörg Lehmann"
+          ],
+          "saetze": [
+            "2:11",
+            "9:11",
+            "11:5",
+            "11:2",
+            "11:7"
+          ],
+          "satzErgebnis": "3:2",
+          "sieger": "heim",
+          "zwischenstand": "10:1",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 12,
+          "typ": "Einzel",
+          "paarung": "1-3",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "Andreas von Hübschmann"
+          ],
+          "saetze": [
+            "11:7",
+            "11:9",
+            "11:9"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "11:1",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 13,
+          "typ": "Einzel",
+          "paarung": "2-4",
+          "heim": [
+            "Leon Patrick Henning"
+          ],
+          "gast": [
+            "Thomas Urban"
+          ],
+          "saetze": [
+            "11:5",
+            "9:11",
+            "11:5",
+            "11:4"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "12:1",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 14,
+          "typ": "Einzel",
+          "paarung": "4-2",
+          "heim": [
+            "Volker Henning"
+          ],
+          "gast": [
+            "Karsten Iwanek"
+          ],
+          "saetze": [
+            "13:11",
+            "11:5",
+            "11:2"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "13:1",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        }
+      ]
+    },
+    {
+      "id": "import-2025-10-13-ttc-ofenstadt-velten-gegen-ttv-furstenberg-havel-ii",
+      "slug": "2025-10-13-ttc-ofenstadt-velten-gegen-ttv-furstenberg-havel-ii",
+      "titel": "TTC Ofenstadt Velten gegen TTV Fürstenberg/Havel II",
+      "datum": "2025-10-13",
+      "datumDeutsch": "13. Oktober 2025",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "TTV Fürstenberg/Havel II",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten",
+      "gastMannschaft": "TTV Fürstenberg/Havel II",
+      "ergebnis": "8:6",
+      "teaser": "8:6 gegen TTV Fürstenberg/Havel II.",
+      "text": "",
+      "autor": "",
+      "agentId": "",
+      "redaktionsquelle": "kein gespeicherter Website-Text",
+      "websiteVeroeffentlicht": false,
+      "bild": "",
+      "geprueftAm": "2026-07-18T20:39:15.050Z",
+      "veroeffentlichtAm": "2026-07-18T20:39:15.050Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-07-18",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "541:519",
+        "saetze": "30:25"
+      },
+      "teamId": "ttc-erste",
+      "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+      "importStatus": "geprueft",
+      "aufstellungHeim": [
+        {
+          "position": 1,
+          "name": "Marko Winter"
+        },
+        {
+          "position": 2,
+          "name": "Leon Patrick Henning"
+        },
+        {
+          "position": 3,
+          "name": "Marcel Gewies"
+        },
+        {
+          "position": 4,
+          "name": "Isabelle Dahlmann"
+        }
+      ],
+      "aufstellungGast": [
+        {
+          "position": 1,
+          "name": "Richard Schulz"
+        },
+        {
+          "position": 2,
+          "name": "David Röwer"
+        },
+        {
+          "position": 3,
+          "name": "Stefan Kienast"
+        },
+        {
+          "position": 4,
+          "name": "Albek Schaow"
+        }
+      ],
+      "spielverlauf": [
+        {
+          "nummer": 1,
+          "typ": "Doppel",
+          "paarung": "D1-D1",
+          "heim": [
+            "Marko Winter",
+            "Volker Henning"
+          ],
+          "gast": [
+            "David Röwer",
+            "Albek Schaow"
+          ],
+          "saetze": [
+            "11:5",
+            "11:7",
+            "5:11",
+            "9:11",
+            "13:15"
+          ],
+          "satzErgebnis": "2:3",
+          "sieger": "gast",
+          "zwischenstand": "0:1",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 2,
+          "typ": "Doppel",
+          "paarung": "D2-D2",
+          "heim": [
+            "Marcel Gewies",
+            "Isabelle Dahlmann"
+          ],
+          "gast": [
+            "Richard Schulz",
+            "Stefan Kienast"
+          ],
+          "saetze": [
+            "9:11",
+            "11:6",
+            "6:11",
+            "14:12",
+            "9:11"
+          ],
+          "satzErgebnis": "2:3",
+          "sieger": "gast",
+          "zwischenstand": "0:2",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 3,
+          "typ": "Einzel",
+          "paarung": "1-2",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "Richard Schulz"
+          ],
+          "saetze": [
+            "11:8",
+            "11:8",
+            "11:2"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "1:2",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 4,
+          "typ": "Einzel",
+          "paarung": "2-1",
+          "heim": [
+            "Leon Patrick Henning"
+          ],
+          "gast": [
+            "David Röwer"
+          ],
+          "saetze": [
+            "10:12",
+            "9:11",
+            "11:8",
+            "11:7",
+            "11:8"
+          ],
+          "satzErgebnis": "3:2",
+          "sieger": "heim",
+          "zwischenstand": "2:2",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 5,
+          "typ": "Einzel",
+          "paarung": "3-4",
+          "heim": [
+            "Marcel Gewies"
+          ],
+          "gast": [
+            "Stefan Kienast"
+          ],
+          "saetze": [
+            "11:7",
+            "11:8",
+            "11:9"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "3:2",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 6,
+          "typ": "Einzel",
+          "paarung": "4-3",
+          "heim": [
+            "Isabelle Dahlmann"
+          ],
+          "gast": [
+            "Albek Schaow"
+          ],
+          "saetze": [
+            "6:11",
+            "6:11",
+            "11:6",
+            "7:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "3:3",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 7,
+          "typ": "Einzel",
+          "paarung": "1-1",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "David Röwer"
+          ],
+          "saetze": [
+            "12:10",
+            "14:12",
+            "11:5"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "4:3",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 8,
+          "typ": "Einzel",
+          "paarung": "2-2",
+          "heim": [
+            "Leon Patrick Henning"
+          ],
+          "gast": [
+            "Richard Schulz"
+          ],
+          "saetze": [
+            "7:11",
+            "13:11",
+            "11:9",
+            "11:8"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "5:3",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 9,
+          "typ": "Einzel",
+          "paarung": "3-3",
+          "heim": [
+            "Marcel Gewies"
+          ],
+          "gast": [
+            "Albek Schaow"
+          ],
+          "saetze": [
+            "6:11",
+            "3:11",
+            "8:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "5:4",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 10,
+          "typ": "Einzel",
+          "paarung": "4-4",
+          "heim": [
+            "Isabelle Dahlmann"
+          ],
+          "gast": [
+            "Stefan Kienast"
+          ],
+          "saetze": [
+            "9:11",
+            "11:9",
+            "9:11",
+            "10:12"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "5:5",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 11,
+          "typ": "Einzel",
+          "paarung": "3-1",
+          "heim": [
+            "Marcel Gewies"
+          ],
+          "gast": [
+            "David Röwer"
+          ],
+          "saetze": [
+            "8:11",
+            "5:11",
+            "9:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "5:6",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 12,
+          "typ": "Einzel",
+          "paarung": "1-3",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "Albek Schaow"
+          ],
+          "saetze": [
+            "11:13",
+            "11:8",
+            "8:11",
+            "11:3",
+            "11:7"
+          ],
+          "satzErgebnis": "3:2",
+          "sieger": "heim",
+          "zwischenstand": "6:6",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 13,
+          "typ": "Einzel",
+          "paarung": "2-4",
+          "heim": [
+            "Leon Patrick Henning"
+          ],
+          "gast": [
+            "Stefan Kienast"
+          ],
+          "saetze": [
+            "11:8",
+            "11:7",
+            "11:8"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "7:6",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        },
+        {
+          "nummer": 14,
+          "typ": "Einzel",
+          "paarung": "4-2",
+          "heim": [
+            "Isabelle Dahlmann"
+          ],
+          "gast": [
+            "Richard Schulz"
+          ],
+          "saetze": [
+            "8:11",
+            "8:11",
+            "14:12",
+            "11:8",
+            "12:10"
+          ],
+          "satzErgebnis": "3:2",
+          "sieger": "heim",
+          "zwischenstand": "8:6",
+          "analyseHinweis": "aus offiziellem Spielbericht (myTischtennis) neu importiert"
+        }
+      ]
+    },
+    {
+      "id": "ttc-2025-2026-1-leegebruch-heim",
+      "slug": "2025-10-08-ttc-ofenstadt-velten-gegen-ttc-rotation-leegebruch-iv",
+      "titel": "TTC Ofenstadt Velten gegen TTC Rotation Leegebruch IV",
+      "datum": "2025-10-08",
+      "datumDeutsch": "08. Oktober 2025",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "TTC Rotation Leegebruch IV",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten",
+      "gastMannschaft": "TTC Rotation Leegebruch IV",
+      "ergebnis": "8:6",
+      "teaser": "Was für ein Abend in Velten: Die erste Mannschaft des TTC Ofenstadt Velten hat sich im Heimspiel gegen TTC Rotation Leegebruch IV mit 8:6 durchgebissen und dabei genau die Mischung gezeigt, die enge Spiele entscheidet — Teamgeist, Nervenstärke und die Bereitschaft, auch nach Rückschlägen wieder aufzustehen.",
+      "text": "Was für ein Abend in Velten: Die erste Mannschaft des TTC Ofenstadt Velten hat sich im Heimspiel gegen TTC Rotation Leegebruch IV mit 8:6 durchgebissen und dabei genau die Mischung gezeigt, die enge Spiele entscheidet — Teamgeist, Nervenstärke und die Bereitschaft, auch nach Rückschlägen wieder aufzustehen.\n\nSchon der Start hatte es in sich. Marko Winter und Volker Henning lagen im ersten Doppel bereits mit 0:2 Sätzen zurück, kämpften sich aber Punkt für Punkt zurück in die Partie und drehten das Spiel im Entscheidungssatz mit 11:9. Das war mehr als nur der erste Punkt: Es war ein Signal. Marcel Gewies und Isabelle Dahlmann legten anschließend mit einem konzentrierten 3:0 nach und brachten den TTC früh mit 2:0 in Führung.\n\nAls Marko sein erstes Einzel klar gewann und Volker gegen Bodo Mey nachlegte, stand es zwischenzeitlich 4:1. Doch Leegebruch zeigte, warum man in dieser Liga nie zu früh durchatmen darf. Michael Kaps verkürzte, danach gingen zwei enge Fünfsatzspiele an die Gäste: Marko unterlag Janik Tilgner hauchdünn mit 9:11 im fünften Satz, Marcel musste sich Melvin Szymanski ebenfalls im Entscheidungssatz geschlagen geben. Aus 4:2 wurde 4:4 — das Spiel war plötzlich wieder komplett offen.\n\nGenau in diesem Moment blieb der TTC ruhig. Volker Henning setzte mit einem starken 3:0 gegen Michael Kaps das nächste Ausrufezeichen, Isabelle Dahlmann erhöhte souverän auf 6:4. Leegebruch kam noch einmal heran, doch dann folgte eines der Schlüsselspiele des Abends: Marko Winter gegen Michael Kaps. Nach 2:0-Satzführung musste Marko den Ausgleich hinnehmen, blieb im fünften Satz aber eiskalt und holte mit 11:2 den wichtigen siebten Punkt.\n\nMarcel Gewies machte anschließend mit einem klaren 3:0 gegen Bodo Mey den Heimsieg perfekt. Dass das letzte Einzel noch an Leegebruch ging, änderte nichts mehr am verdienten 8:6-Erfolg.\n\n30:23 Sätze und 511:458 Bälle zeigen: Dieser Sieg war kein Spaziergang, sondern hart erarbeitet. Gerade deshalb fühlt er sich so wertvoll an. Die Mannschaft hat geführt, gewackelt, reagiert — und am Ende gemeinsam geliefert.\n\nDer Entwurf sollte vor Veröffentlichung noch mit der offiziellen Spielquelle sowie den TTR-Daten abgeglichen werden.",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": false,
+      "bild": "",
+      "geprueftAm": "2026-07-18T17:07:07.375Z",
+      "veroeffentlichtAm": "2026-07-18T17:07:07.375Z",
+      "quellen": [],
+      "summen": {
+        "baelle": "511:458",
+        "saetze": "30:23",
+        "endstand": "8:6"
+      },
+      "teamId": "ttc-erste",
+      "spielcharakter": "knapper Heimsieg nach starkem Schlussspurt",
+      "importStatus": "geprueft",
+      "aufstellungHeim": [
+        {
+          "position": 1,
+          "name": "Marko Winter"
+        },
+        {
+          "position": 2,
+          "name": "Marcel Gewies"
+        },
+        {
+          "position": 3,
+          "name": "Volker Henning"
+        },
+        {
+          "position": 4,
+          "name": "Isabelle Dahlmann"
+        }
+      ],
+      "aufstellungGast": [
+        {
+          "position": 1,
+          "name": "Janik Tilgner"
+        },
+        {
+          "position": 2,
+          "name": "Melvin Szymanski"
+        },
+        {
+          "position": 3,
+          "name": "Michael Kaps"
+        },
+        {
+          "position": 4,
+          "name": "Bodo Mey"
+        }
+      ],
+      "spielverlauf": [
+        {
+          "nummer": 1,
+          "typ": "Doppel",
+          "paarung": "D1-D1",
+          "heim": [
+            "Marko Winter",
+            "Volker Henning"
+          ],
+          "gast": [
+            "Janik Tilgner",
+            "Melvin Szymanski"
+          ],
+          "saetze": [
+            "5:11",
+            "8:11",
+            "13:11",
+            "11:6",
+            "11:9"
+          ],
+          "satzErgebnis": "3:2",
+          "sieger": "heim",
+          "zwischenstand": "1:0",
+          "analyseHinweis": "starkes Comeback nach 0:2-Satzrückstand"
+        },
+        {
+          "nummer": 2,
+          "typ": "Doppel",
+          "paarung": "D2-D2",
+          "heim": [
+            "Marcel Gewies",
+            "Isabelle Dahlmann"
+          ],
+          "gast": [
+            "Michael Kaps",
+            "Bodo Mey"
+          ],
+          "saetze": [
+            "11:9",
+            "11:9",
+            "11:5"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "2:0",
+          "analyseHinweis": "wichtiger klarer Doppelpunkt"
+        },
+        {
+          "nummer": 3,
+          "typ": "Einzel",
+          "paarung": "1-2",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "Melvin Szymanski"
+          ],
+          "saetze": [
+            "11:2",
+            "11:7",
+            "11:8"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "3:0",
+          "analyseHinweis": "klarer Auftakterfolg"
+        },
+        {
+          "nummer": 4,
+          "typ": "Einzel",
+          "paarung": "2-1",
+          "heim": [
+            "Marcel Gewies"
+          ],
+          "gast": [
+            "Janik Tilgner"
+          ],
+          "saetze": [
+            "7:11",
+            "11:5",
+            "2:11",
+            "6:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "3:1",
+          "analyseHinweis": "erster Gegenpunkt"
+        },
+        {
+          "nummer": 5,
+          "typ": "Einzel",
+          "paarung": "3-4",
+          "heim": [
+            "Volker Henning"
+          ],
+          "gast": [
+            "Bodo Mey"
+          ],
+          "saetze": [
+            "11:5",
+            "11:6",
+            "10:12",
+            "11:5"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "4:1",
+          "analyseHinweis": "TTC baut Führung aus"
+        },
+        {
+          "nummer": 6,
+          "typ": "Einzel",
+          "paarung": "4-3",
+          "heim": [
+            "Isabelle Dahlmann"
+          ],
+          "gast": [
+            "Michael Kaps"
+          ],
+          "saetze": [
+            "8:11",
+            "7:11",
+            "5:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "4:2",
+          "analyseHinweis": "Leegebruch bleibt dran"
+        },
+        {
+          "nummer": 7,
+          "typ": "Einzel",
+          "paarung": "1-1",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "Janik Tilgner"
+          ],
+          "saetze": [
+            "12:10",
+            "8:11",
+            "9:11",
+            "11:9",
+            "9:11"
+          ],
+          "satzErgebnis": "2:3",
+          "sieger": "gast",
+          "zwischenstand": "4:3",
+          "analyseHinweis": "knappes Fünfsatzspiel mit hoher Bedeutung"
+        },
+        {
+          "nummer": 8,
+          "typ": "Einzel",
+          "paarung": "2-2",
+          "heim": [
+            "Marcel Gewies"
+          ],
+          "gast": [
+            "Melvin Szymanski"
+          ],
+          "saetze": [
+            "8:11",
+            "11:6",
+            "5:11",
+            "11:9",
+            "7:11"
+          ],
+          "satzErgebnis": "2:3",
+          "sieger": "gast",
+          "zwischenstand": "4:4",
+          "analyseHinweis": "Leegebruch gleicht aus"
+        },
+        {
+          "nummer": 9,
+          "typ": "Einzel",
+          "paarung": "3-3",
+          "heim": [
+            "Volker Henning"
+          ],
+          "gast": [
+            "Michael Kaps"
+          ],
+          "saetze": [
+            "11:5",
+            "11:5",
+            "12:10"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "5:4",
+          "analyseHinweis": "wichtige Reaktion nach dem Ausgleich"
+        },
+        {
+          "nummer": 10,
+          "typ": "Einzel",
+          "paarung": "4-4",
+          "heim": [
+            "Isabelle Dahlmann"
+          ],
+          "gast": [
+            "Bodo Mey"
+          ],
+          "saetze": [
+            "11:3",
+            "11:7",
+            "11:6"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "6:4",
+          "analyseHinweis": "souveräner Punkt zur erneuten Zwei-Punkte-Führung"
+        },
+        {
+          "nummer": 11,
+          "typ": "Einzel",
+          "paarung": "3-1",
+          "heim": [
+            "Volker Henning"
+          ],
+          "gast": [
+            "Janik Tilgner"
+          ],
+          "saetze": [
+            "3:11",
+            "7:11",
+            "15:13",
+            "7:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "6:5",
+          "analyseHinweis": "Leegebruch verkürzt erneut"
+        },
+        {
+          "nummer": 12,
+          "typ": "Einzel",
+          "paarung": "1-3",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "Michael Kaps"
+          ],
+          "saetze": [
+            "11:4",
+            "11:7",
+            "10:12",
+            "13:15",
+            "11:2"
+          ],
+          "satzErgebnis": "3:2",
+          "sieger": "heim",
+          "zwischenstand": "7:5",
+          "analyseHinweis": "Schlüsselspiel nach vergebenem 2:0-Satzvorsprung, klarer fünfter Satz"
+        },
+        {
+          "nummer": 13,
+          "typ": "Einzel",
+          "paarung": "2-4",
+          "heim": [
+            "Marcel Gewies"
+          ],
+          "gast": [
+            "Bodo Mey"
+          ],
+          "saetze": [
+            "11:2",
+            "11:4",
+            "11:5"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "8:5",
+          "analyseHinweis": "entscheidender achter Punkt"
+        },
+        {
+          "nummer": 14,
+          "typ": "Einzel",
+          "paarung": "4-2",
+          "heim": [
+            "Isabelle Dahlmann"
+          ],
+          "gast": [
+            "Melvin Szymanski"
+          ],
+          "saetze": [
+            "10:12",
+            "6:11",
+            "13:15"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "8:6",
+          "analyseHinweis": "Schlusspunkt zum Endstand"
+        }
+      ]
+    },
+    {
+      "id": "import-2025-09-30-lindower-sv-grun-weiss-gegen-ttc-ofenstadt-velten",
+      "slug": "2025-09-30-lindower-sv-grun-wei-x-gegen-ttc-ofenstadt-velten",
+      "titel": "Lindower SV Grün-Wei - x gegen TTC Ofenstadt Velten",
+      "datum": "2025-09-30",
+      "datumDeutsch": "30. September 2025",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "Lindower SV Grün-Wei - x",
+      "heimAuswaerts": "Auswärtsspiel",
+      "heimMannschaft": "Lindower SV Grün-Wei - x",
+      "gastMannschaft": "TTC Ofenstadt Velten",
+      "ergebnis": "6:8",
+      "teaser": "6:8 gegen Lindower SV Grün-Wei - x.",
+      "text": "",
+      "autor": "",
+      "agentId": "",
+      "redaktionsquelle": "kein gespeicherter Website-Text",
+      "websiteVeroeffentlicht": false,
+      "bild": "",
+      "geprueftAm": "2026-07-18T16:35:45.303Z",
+      "veroeffentlichtAm": "2026-07-18T16:35:45.303Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-07-18",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "537:562",
+        "saetze": "26:32"
+      },
+      "teamId": "ttc-erste",
+      "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+      "importStatus": "geprueft",
+      "aufstellungHeim": [
+        {
+          "position": 1,
+          "name": "Yasan Nouh"
+        },
+        {
+          "position": 2,
+          "name": "Taim Nouh"
+        },
+        {
+          "position": 3,
+          "name": "Markus Quenter"
+        },
+        {
+          "position": 4,
+          "name": "Maya Wilke"
+        }
+      ],
+      "aufstellungGast": [
+        {
+          "position": 1,
+          "name": "Marcel Gewies"
+        },
+        {
+          "position": 2,
+          "name": "Marko Winter"
+        },
+        {
+          "position": 3,
+          "name": "Isabelle Dahlmann"
+        },
+        {
+          "position": 4,
+          "name": "Volker Henning"
+        }
+      ],
+      "spielverlauf": [
+        {
+          "nummer": 1,
+          "typ": "Doppel",
+          "paarung": "D1-D1",
+          "heim": [
+            "Yasan Nouh",
+            "Taim Nouh"
+          ],
+          "gast": [
+            "Marko Winter",
+            "Volker Henning"
+          ],
+          "saetze": [
+            "11:2",
+            "7:11",
+            "11:7",
+            "11:9"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "1:0",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 2,
+          "typ": "Doppel",
+          "paarung": "D2-D2",
+          "heim": [
+            "Markus Quenter",
+            "Maya Wilke"
+          ],
+          "gast": [
+            "Marcel Gewies",
+            "Isabelle Dahlmann"
+          ],
+          "saetze": [
+            "11:3",
+            "8:11",
+            "11:13",
+            "11:13"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "1:1",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 3,
+          "typ": "Einzel",
+          "paarung": "1-2",
+          "heim": [
+            "Yasan Nouh"
+          ],
+          "gast": [
+            "Marcel Gewies"
+          ],
+          "saetze": [
+            "11:7",
+            "11:9",
+            "14:16",
+            "2:11",
+            "11:7"
+          ],
+          "satzErgebnis": "3:2",
+          "sieger": "heim",
+          "zwischenstand": "2:1",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 4,
+          "typ": "Einzel",
+          "paarung": "2-1",
+          "heim": [
+            "Taim Nouh"
+          ],
+          "gast": [
+            "Marko Winter"
+          ],
+          "saetze": [
+            "11:8",
+            "11:9",
+            "6:11",
+            "8:11",
+            "7:11"
+          ],
+          "satzErgebnis": "2:3",
+          "sieger": "gast",
+          "zwischenstand": "2:2",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 5,
+          "typ": "Einzel",
+          "paarung": "3-4",
+          "heim": [
+            "Markus Quenter"
+          ],
+          "gast": [
+            "Isabelle Dahlmann"
+          ],
+          "saetze": [
+            "12:10",
+            "4:11",
+            "8:11",
+            "8:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "2:3",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 6,
+          "typ": "Einzel",
+          "paarung": "4-3",
+          "heim": [
+            "Maya Wilke"
+          ],
+          "gast": [
+            "Volker Henning"
+          ],
+          "saetze": [
+            "5:11",
+            "11:9",
+            "3:11",
+            "11:5",
+            "11:5"
+          ],
+          "satzErgebnis": "3:2",
+          "sieger": "heim",
+          "zwischenstand": "3:3",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 7,
+          "typ": "Einzel",
+          "paarung": "1-1",
+          "heim": [
+            "Yasan Nouh"
+          ],
+          "gast": [
+            "Marko Winter"
+          ],
+          "saetze": [
+            "12:14",
+            "11:8",
+            "11:13",
+            "15:13",
+            "8:11"
+          ],
+          "satzErgebnis": "2:3",
+          "sieger": "gast",
+          "zwischenstand": "3:4",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 8,
+          "typ": "Einzel",
+          "paarung": "2-2",
+          "heim": [
+            "Taim Nouh"
+          ],
+          "gast": [
+            "Marcel Gewies"
+          ],
+          "saetze": [
+            "11:8",
+            "7:11",
+            "11:4",
+            "11:6"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "4:4",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 9,
+          "typ": "Einzel",
+          "paarung": "3-3",
+          "heim": [
+            "Markus Quenter"
+          ],
+          "gast": [
+            "Volker Henning"
+          ],
+          "saetze": [
+            "9:11",
+            "5:11",
+            "8:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "4:5",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 10,
+          "typ": "Einzel",
+          "paarung": "4-4",
+          "heim": [
+            "Maya Wilke"
+          ],
+          "gast": [
+            "Isabelle Dahlmann"
+          ],
+          "saetze": [
+            "9:11",
+            "11:13",
+            "7:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "4:6",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 11,
+          "typ": "Einzel",
+          "paarung": "3-1",
+          "heim": [
+            "Markus Quenter"
+          ],
+          "gast": [
+            "Marko Winter"
+          ],
+          "saetze": [
+            "9:11",
+            "6:11",
+            "4:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "4:7",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 12,
+          "typ": "Einzel",
+          "paarung": "1-3",
+          "heim": [
+            "Yasan Nouh"
+          ],
+          "gast": [
+            "Volker Henning"
+          ],
+          "saetze": [
+            "11:7",
+            "10:12",
+            "11:7",
+            "7:11",
+            "11:9"
+          ],
+          "satzErgebnis": "3:2",
+          "sieger": "heim",
+          "zwischenstand": "5:7",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 13,
+          "typ": "Einzel",
+          "paarung": "2-4",
+          "heim": [
+            "Taim Nouh"
+          ],
+          "gast": [
+            "Isabelle Dahlmann"
+          ],
+          "saetze": [
+            "11:7",
+            "11:8",
+            "11:6"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "6:7",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        },
+        {
+          "nummer": 14,
+          "typ": "Einzel",
+          "paarung": "4-2",
+          "heim": [
+            "Maya Wilke"
+          ],
+          "gast": [
+            "Marcel Gewies"
+          ],
+          "saetze": [
+            "5:11",
+            "8:11",
+            "11:8",
+            "14:12",
+            "5:11"
+          ],
+          "satzErgebnis": "2:3",
+          "sieger": "gast",
+          "zwischenstand": "6:8",
+          "analyseHinweis": "aus eingefügtem Spielbericht erkannt"
+        }
+      ]
+    },
+    {
+      "id": "ttc-2025-2026-1-boetzow-heim",
+      "slug": "2025-09-19-ttc-ofenstadt-velten-gegen-tt-freunde-botzow-ii",
+      "titel": "TTC Ofenstadt Velten gegen TT-Freunde Bötzow II",
+      "datum": "2025-09-19",
+      "datumDeutsch": "19. September 2025",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2025/26 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "TT-Freunde Bötzow II",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten",
+      "gastMannschaft": "TT-Freunde Bötzow II",
+      "ergebnis": "3:11",
+      "teaser": "Die erste Mannschaft des TTC Ofenstadt Velten musste sich im Heimspiel gegen TT-Freunde Bötzow II deutlich mit 3:11 geschlagen geben. Das Ergebnis fällt klar aus — und trotzdem erzählt der Spielverlauf mehr als nur eine einseitige Zahlentafel.",
+      "text": "Die erste Mannschaft des TTC Ofenstadt Velten musste sich im Heimspiel gegen TT-Freunde Bötzow II deutlich mit 3:11 geschlagen geben. Das Ergebnis fällt klar aus — und trotzdem erzählt der Spielverlauf mehr als nur eine einseitige Zahlentafel.\n\nBötzow erwischte den besseren Start und setzte den TTC direkt unter Druck. Schon das erste Doppel war hart umkämpft: Marko Winter und Volker Henning hielten gegen Kenneth Domdey und Marcus Kasper voll dagegen, mussten sich aber im fünften Satz mit 11:13 geschlagen geben. Auch das zweite Doppel ging an die Gäste, sodass Ofenstadt früh einem 0:2 hinterherlief.\n\nIn den ersten Einzeln blieb Bötzow konsequent. Marko Winter, Marcel Gewies, Volker Henning und Kevin Sieverding kamen zwar immer wieder in einzelne Sätze hinein, doch die entscheidenden Phasen gehörten zunächst den Gästen. Besonders bitter: Mehrere enge Satzenden kippten nicht auf die TTC-Seite. Nach acht Spielen stand es 0:8.\n\nDass die Mannschaft den Abend trotzdem nicht einfach abschenkte, zeigte danach vor allem Volker Henning. Mit einem 3:1 gegen Marcus Kasper holte er den ersten Punkt für den TTC. Später legte er in einem starken Fünfsatzspiel gegen Kenneth Domdey nach und belohnte sich für einen kämpferischen Auftritt. Auch Marko Winter setzte noch ein Ausrufezeichen: Gegen Marcus Kasper gewann er einen engen Fünfsatzkrimi mit 13:11 im Entscheidungssatz.\n\nAm Ende blieb es bei einer klaren 3:11-Niederlage. 21:38 Sätze und 497:588 Bälle zeigen, dass Bötzow insgesamt verdient gewann. Für den TTC bleiben aber auch Ansatzpunkte: einzelne enge Spiele, drei gewonnene Fünfsatzpartien beziehungsweise starke Reaktionen in der zweiten Hälfte und die Erkenntnis, dass selbst an einem schwierigen Abend weitergekämpft wurde.\n\nDer Entwurf sollte vor Veröffentlichung noch mit der offiziellen Spielquelle sowie möglichen TTR-Daten abgeglichen werden.",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": false,
+      "bild": "",
+      "geprueftAm": "2026-07-18T17:06:50.538Z",
+      "veroeffentlichtAm": "2026-07-18T17:06:50.538Z",
+      "quellen": [],
+      "summen": {
+        "baelle": "497:588",
+        "saetze": "21:38",
+        "endstand": "3:11"
+      },
+      "teamId": "ttc-erste",
+      "spielcharakter": "klare Niederlage mit mehreren engen Fünfsatzspielen",
+      "importStatus": "geprueft",
+      "aufstellungHeim": [
+        {
+          "position": 1,
+          "name": "Marko Winter"
+        },
+        {
+          "position": 2,
+          "name": "Marcel Gewies"
+        },
+        {
+          "position": 3,
+          "name": "Volker Henning"
+        },
+        {
+          "position": 4,
+          "name": "Kevin Sieverding"
+        }
+      ],
+      "aufstellungGast": [
+        {
+          "position": 1,
+          "name": "Kenneth Domdey"
+        },
+        {
+          "position": 2,
+          "name": "Andreas Ewert"
+        },
+        {
+          "position": 3,
+          "name": "Marcus Kasper"
+        },
+        {
+          "position": 4,
+          "name": "Hartmut Watschke"
+        }
+      ],
+      "spielverlauf": [
+        {
+          "nummer": 1,
+          "typ": "Doppel",
+          "paarung": "D1-D1",
+          "heim": [
+            "Marko Winter",
+            "Volker Henning"
+          ],
+          "gast": [
+            "Kenneth Domdey",
+            "Marcus Kasper"
+          ],
+          "saetze": [
+            "13:11",
+            "4:11",
+            "11:9",
+            "4:11",
+            "11:13"
+          ],
+          "satzErgebnis": "2:3",
+          "sieger": "gast",
+          "zwischenstand": "0:1",
+          "analyseHinweis": "knapp verlorenes Auftaktdoppel im Entscheidungssatz"
+        },
+        {
+          "nummer": 2,
+          "typ": "Doppel",
+          "paarung": "D2-D2",
+          "heim": [
+            "Marcel Gewies",
+            "Kevin Sieverding"
+          ],
+          "gast": [
+            "Andreas Ewert",
+            "Hartmut Watschke"
+          ],
+          "saetze": [
+            "7:11",
+            "4:11",
+            "4:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "0:2",
+          "analyseHinweis": "Bötzow startet mit beiden Doppeln erfolgreich"
+        },
+        {
+          "nummer": 3,
+          "typ": "Einzel",
+          "paarung": "1-2",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "Andreas Ewert"
+          ],
+          "saetze": [
+            "11:6",
+            "9:11",
+            "8:11",
+            "8:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "0:3",
+          "analyseHinweis": "TTC bleibt trotz gutem Start ohne Punkt"
+        },
+        {
+          "nummer": 4,
+          "typ": "Einzel",
+          "paarung": "2-1",
+          "heim": [
+            "Marcel Gewies"
+          ],
+          "gast": [
+            "Kenneth Domdey"
+          ],
+          "saetze": [
+            "5:11",
+            "5:11",
+            "11:9",
+            "10:12"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "0:4",
+          "analyseHinweis": "enger vierter Satz verhindert möglichen Anschluss"
+        },
+        {
+          "nummer": 5,
+          "typ": "Einzel",
+          "paarung": "3-4",
+          "heim": [
+            "Volker Henning"
+          ],
+          "gast": [
+            "Hartmut Watschke"
+          ],
+          "saetze": [
+            "3:11",
+            "5:11",
+            "5:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "0:5",
+          "analyseHinweis": "Bötzow baut die Führung klar aus"
+        },
+        {
+          "nummer": 6,
+          "typ": "Einzel",
+          "paarung": "4-3",
+          "heim": [
+            "Kevin Sieverding"
+          ],
+          "gast": [
+            "Marcus Kasper"
+          ],
+          "saetze": [
+            "4:11",
+            "5:11",
+            "11:6",
+            "9:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "0:6",
+          "analyseHinweis": "Kevin holt einen Satz, Bötzow bleibt aber konsequent"
+        },
+        {
+          "nummer": 7,
+          "typ": "Einzel",
+          "paarung": "1-1",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "Kenneth Domdey"
+          ],
+          "saetze": [
+            "4:11",
+            "8:11",
+            "11:4",
+            "10:12"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "0:7",
+          "analyseHinweis": "weiterer enger vierter Satz geht an die Gäste"
+        },
+        {
+          "nummer": 8,
+          "typ": "Einzel",
+          "paarung": "2-2",
+          "heim": [
+            "Marcel Gewies"
+          ],
+          "gast": [
+            "Andreas Ewert"
+          ],
+          "saetze": [
+            "10:12",
+            "10:12",
+            "11:9",
+            "11:6",
+            "4:11"
+          ],
+          "satzErgebnis": "2:3",
+          "sieger": "gast",
+          "zwischenstand": "0:8",
+          "analyseHinweis": "hart umkämpftes Fünfsatzspiel, aber kein TTC-Punkt"
+        },
+        {
+          "nummer": 9,
+          "typ": "Einzel",
+          "paarung": "3-3",
+          "heim": [
+            "Volker Henning"
+          ],
+          "gast": [
+            "Marcus Kasper"
+          ],
+          "saetze": [
+            "11:6",
+            "11:6",
+            "9:11",
+            "11:7"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "1:8",
+          "analyseHinweis": "erster TTC-Punkt durch Volker Henning"
+        },
+        {
+          "nummer": 10,
+          "typ": "Einzel",
+          "paarung": "4-4",
+          "heim": [
+            "Kevin Sieverding"
+          ],
+          "gast": [
+            "Hartmut Watschke"
+          ],
+          "saetze": [
+            "11:9",
+            "7:11",
+            "8:11",
+            "11:6",
+            "6:11"
+          ],
+          "satzErgebnis": "2:3",
+          "sieger": "gast",
+          "zwischenstand": "1:9",
+          "analyseHinweis": "Kevin kämpft sich in den fünften Satz, Bötzow holt den Punkt"
+        },
+        {
+          "nummer": 11,
+          "typ": "Einzel",
+          "paarung": "3-1",
+          "heim": [
+            "Volker Henning"
+          ],
+          "gast": [
+            "Kenneth Domdey"
+          ],
+          "saetze": [
+            "6:11",
+            "11:9",
+            "11:9",
+            "8:11",
+            "11:8"
+          ],
+          "satzErgebnis": "3:2",
+          "sieger": "heim",
+          "zwischenstand": "2:9",
+          "analyseHinweis": "starkes Fünfsatzspiel von Volker gegen die gegnerische Nummer eins"
+        },
+        {
+          "nummer": 12,
+          "typ": "Einzel",
+          "paarung": "1-3",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "Marcus Kasper"
+          ],
+          "saetze": [
+            "4:11",
+            "11:9",
+            "8:11",
+            "11:3",
+            "13:11"
+          ],
+          "satzErgebnis": "3:2",
+          "sieger": "heim",
+          "zwischenstand": "3:9",
+          "analyseHinweis": "Marko gewinnt einen engen Fünfsatzkrimi"
+        },
+        {
+          "nummer": 13,
+          "typ": "Einzel",
+          "paarung": "2-4",
+          "heim": [
+            "Marcel Gewies"
+          ],
+          "gast": [
+            "Hartmut Watschke"
+          ],
+          "saetze": [
+            "7:11",
+            "8:11",
+            "5:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "3:10",
+          "analyseHinweis": "Bötzow erreicht den zehnten Punkt"
+        },
+        {
+          "nummer": 14,
+          "typ": "Einzel",
+          "paarung": "4-2",
+          "heim": [
+            "Kevin Sieverding"
+          ],
+          "gast": [
+            "Andreas Ewert"
+          ],
+          "saetze": [
+            "11:8",
+            "8:11",
+            "11:9",
+            "12:14",
+            "10:12"
+          ],
+          "satzErgebnis": "2:3",
+          "sieger": "gast",
+          "zwischenstand": "3:11",
+          "analyseHinweis": "sehr enges letztes Einzel, Entscheidung mit 10:12 im fünften Satz"
+        }
+      ]
+    },
+    {
+      "id": "ttc-2024-2025-1-boetzow-iii-heim",
+      "slug": "2024-09-27-ttc-ofenstadt-velten-gegen-tt-freunde-botzow-iii",
+      "titel": "TTC Ofenstadt Velten gegen TT-Freunde Bötzow III",
+      "datum": "2024-09-27",
+      "datumDeutsch": "27. September 2024",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2024/25 - 2. Landesklasse Herren Gruppe 1",
+      "gegner": "TT-Freunde Bötzow III",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten",
+      "gastMannschaft": "TT-Freunde Bötzow III",
+      "ergebnis": "6:8",
+      "teaser": "Knapp dran, stark gekämpft — und am Ende doch mit leeren Händen: Der TTC Ofenstadt Velten musste sich im Heimspiel der Saison 2024/25 gegen TT-Freunde Bötzow III mit 6:8 geschlagen geben. Das Ergebnis war bitter, weil die Partie über weite Strecken völlig offen war und mehrfach in beide Richtungen kippen konnte.",
+      "text": "Knapp dran, stark gekämpft — und am Ende doch mit leeren Händen: Der TTC Ofenstadt Velten musste sich im Heimspiel der Saison 2024/25 gegen TT-Freunde Bötzow III mit 6:8 geschlagen geben. Das Ergebnis war bitter, weil die Partie über weite Strecken völlig offen war und mehrfach in beide Richtungen kippen konnte.\n\nNach dem verlorenen ersten Doppel sorgten Marko Winter und Volker Henning mit einem Fünfsatzsieg im zweiten Doppel für den frühen Ausgleich. Danach wurde schnell klar: Dieser Abend würde über Nerven, enge Sätze und kleine Wendepunkte entschieden.\n\nMarcel Gewies hatte gegen Martin Dreiocker nach einem spektakulären 19:17 im ersten Satz und einer 2:0-Satzführung den Punkt schon greifbar, musste das Spiel aber noch im fünften Satz abgeben. Bötzow zog auf 3:1 davon, ehe Volker Henning mit einem klaren 3:0 gegen Michael Schumacher verkürzte. Isabelle Dahlmann lieferte anschließend eines der kämpferischen Highlights des Abends: Nach wechselhaftem Verlauf gewann sie gegen Cheyenne Domdey mit 13:11 im Entscheidungssatz und stellte auf 3:3.\n\nAuch danach blieb es ein ständiges Hin und Her. Bötzow legte vor, Marko Winter glich gegen Martin Dreiocker aus, Volker Henning brachte den TTC mit einem souveränen 3:0 sogar erstmals mit 5:4 in Führung. Doch die Gäste blieben dran und drehten die Partie erneut.\n\nBeim Stand von 5:6 hielt Marcel Gewies den TTC mit einem starken Fünfsatzsieg gegen Cheyenne Domdey weiter im Spiel. Danach wurde es endgültig eng: Marko Winter kämpfte gegen Michael Schumacher über fünf Sätze, musste den entscheidenden Punkt aber abgeben. Im letzten Einzel machte Bötzow den 8:6-Auswärtssieg perfekt.\n\n25:31 Sätze und 502:518 Bälle zeigen, wie nah diese Begegnung tatsächlich war. Für den TTC bleibt eine knappe Niederlage, die weh tut — aber auch eine, aus der man viel Positives mitnehmen kann: Moral, mehrere starke Reaktionen und die Fähigkeit, nach Rückständen immer wieder zurückzukommen.\n\nDer Entwurf sollte vor Veröffentlichung noch mit der offiziellen Spielquelle sowie möglichen TTR-Daten abgeglichen werden.",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": false,
+      "bild": "",
+      "geprueftAm": "2026-07-18T17:06:41.204Z",
+      "veroeffentlichtAm": "2026-07-18T17:06:41.204Z",
+      "quellen": [],
+      "summen": {
+        "baelle": "502:518",
+        "saetze": "25:31",
+        "endstand": "6:8"
+      },
+      "teamId": "ttc-erste",
+      "spielcharakter": "knappe Niederlage mit mehreren Wendepunkten",
+      "importStatus": "geprueft",
+      "aufstellungHeim": [
+        {
+          "position": 1,
+          "name": "Marcel Gewies"
+        },
+        {
+          "position": 2,
+          "name": "Marko Winter"
+        },
+        {
+          "position": 3,
+          "name": "Volker Henning"
+        },
+        {
+          "position": 4,
+          "name": "Isabelle Dahlmann"
+        }
+      ],
+      "aufstellungGast": [
+        {
+          "position": 1,
+          "name": "Hartmut Watschke"
+        },
+        {
+          "position": 2,
+          "name": "Martin Dreiocker"
+        },
+        {
+          "position": 3,
+          "name": "Cheyenne Domdey"
+        },
+        {
+          "position": 4,
+          "name": "Michael Schumacher"
+        }
+      ],
+      "spielverlauf": [
+        {
+          "nummer": 1,
+          "typ": "Doppel",
+          "paarung": "D1-D1",
+          "heim": [
+            "Marcel Gewies",
+            "Isabelle Dahlmann"
+          ],
+          "gast": [
+            "Martin Dreiocker",
+            "Michael Schumacher"
+          ],
+          "saetze": [
+            "10:12",
+            "7:11",
+            "7:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "0:1",
+          "analyseHinweis": "Bötzow startet mit dem ersten Doppelpunkt"
+        },
+        {
+          "nummer": 2,
+          "typ": "Doppel",
+          "paarung": "D2-D2",
+          "heim": [
+            "Marko Winter",
+            "Volker Henning"
+          ],
+          "gast": [
+            "Hartmut Watschke",
+            "Cheyenne Domdey"
+          ],
+          "saetze": [
+            "11:3",
+            "9:11",
+            "9:11",
+            "11:9",
+            "11:8"
+          ],
+          "satzErgebnis": "3:2",
+          "sieger": "heim",
+          "zwischenstand": "1:1",
+          "analyseHinweis": "wichtiger Fünfsatzpunkt zum Ausgleich"
+        },
+        {
+          "nummer": 3,
+          "typ": "Einzel",
+          "paarung": "1-2",
+          "heim": [
+            "Marcel Gewies"
+          ],
+          "gast": [
+            "Martin Dreiocker"
+          ],
+          "saetze": [
+            "19:17",
+            "11:8",
+            "4:11",
+            "1:11",
+            "6:11"
+          ],
+          "satzErgebnis": "2:3",
+          "sieger": "gast",
+          "zwischenstand": "1:2",
+          "analyseHinweis": "nach 2:0-Führung dreht Bötzow das Spiel"
+        },
+        {
+          "nummer": 4,
+          "typ": "Einzel",
+          "paarung": "2-1",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "Hartmut Watschke"
+          ],
+          "saetze": [
+            "7:11",
+            "12:14",
+            "9:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "1:3",
+          "analyseHinweis": "enger zweiter Satz, aber Gäste bauen Führung aus"
+        },
+        {
+          "nummer": 5,
+          "typ": "Einzel",
+          "paarung": "3-4",
+          "heim": [
+            "Volker Henning"
+          ],
+          "gast": [
+            "Michael Schumacher"
+          ],
+          "saetze": [
+            "11:6",
+            "11:2",
+            "11:9"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "2:3",
+          "analyseHinweis": "klarer TTC-Punkt durch Volker"
+        },
+        {
+          "nummer": 6,
+          "typ": "Einzel",
+          "paarung": "4-3",
+          "heim": [
+            "Isabelle Dahlmann"
+          ],
+          "gast": [
+            "Cheyenne Domdey"
+          ],
+          "saetze": [
+            "14:12",
+            "11:4",
+            "7:11",
+            "4:11",
+            "13:11"
+          ],
+          "satzErgebnis": "3:2",
+          "sieger": "heim",
+          "zwischenstand": "3:3",
+          "analyseHinweis": "starker Fünfsatzpunkt zum Ausgleich"
+        },
+        {
+          "nummer": 7,
+          "typ": "Einzel",
+          "paarung": "1-1",
+          "heim": [
+            "Marcel Gewies"
+          ],
+          "gast": [
+            "Hartmut Watschke"
+          ],
+          "saetze": [
+            "11:5",
+            "7:11",
+            "9:11",
+            "6:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "3:4",
+          "analyseHinweis": "Bötzow geht wieder in Führung"
+        },
+        {
+          "nummer": 8,
+          "typ": "Einzel",
+          "paarung": "2-2",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "Martin Dreiocker"
+          ],
+          "saetze": [
+            "11:7",
+            "12:10",
+            "7:11",
+            "11:3"
+          ],
+          "satzErgebnis": "3:1",
+          "sieger": "heim",
+          "zwischenstand": "4:4",
+          "analyseHinweis": "wichtiger Ausgleich durch Marko"
+        },
+        {
+          "nummer": 9,
+          "typ": "Einzel",
+          "paarung": "3-3",
+          "heim": [
+            "Volker Henning"
+          ],
+          "gast": [
+            "Cheyenne Domdey"
+          ],
+          "saetze": [
+            "11:1",
+            "11:6",
+            "11:7"
+          ],
+          "satzErgebnis": "3:0",
+          "sieger": "heim",
+          "zwischenstand": "5:4",
+          "analyseHinweis": "TTC geht erstmals in Führung"
+        },
+        {
+          "nummer": 10,
+          "typ": "Einzel",
+          "paarung": "4-4",
+          "heim": [
+            "Isabelle Dahlmann"
+          ],
+          "gast": [
+            "Michael Schumacher"
+          ],
+          "saetze": [
+            "11:9",
+            "9:11",
+            "8:11",
+            "5:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "5:5",
+          "analyseHinweis": "Bötzow gleicht erneut aus"
+        },
+        {
+          "nummer": 11,
+          "typ": "Einzel",
+          "paarung": "3-1",
+          "heim": [
+            "Volker Henning"
+          ],
+          "gast": [
+            "Hartmut Watschke"
+          ],
+          "saetze": [
+            "8:11",
+            "6:11",
+            "7:11"
+          ],
+          "satzErgebnis": "0:3",
+          "sieger": "gast",
+          "zwischenstand": "5:6",
+          "analyseHinweis": "Gäste drehen die Partie wieder"
+        },
+        {
+          "nummer": 12,
+          "typ": "Einzel",
+          "paarung": "1-3",
+          "heim": [
+            "Marcel Gewies"
+          ],
+          "gast": [
+            "Cheyenne Domdey"
+          ],
+          "saetze": [
+            "9:11",
+            "11:6",
+            "8:11",
+            "11:4",
+            "11:7"
+          ],
+          "satzErgebnis": "3:2",
+          "sieger": "heim",
+          "zwischenstand": "6:6",
+          "analyseHinweis": "Marcel hält den TTC mit einem Fünfsatzsieg im Spiel"
+        },
+        {
+          "nummer": 13,
+          "typ": "Einzel",
+          "paarung": "2-4",
+          "heim": [
+            "Marko Winter"
+          ],
+          "gast": [
+            "Michael Schumacher"
+          ],
+          "saetze": [
+            "4:11",
+            "11:9",
+            "6:11",
+            "11:4",
+            "3:11"
+          ],
+          "satzErgebnis": "2:3",
+          "sieger": "gast",
+          "zwischenstand": "6:7",
+          "analyseHinweis": "Schlüsselspiel im fünften Satz an Bötzow"
+        },
+        {
+          "nummer": 14,
+          "typ": "Einzel",
+          "paarung": "4-2",
+          "heim": [
+            "Isabelle Dahlmann"
+          ],
+          "gast": [
+            "Martin Dreiocker"
+          ],
+          "saetze": [
+            "7:11",
+            "6:11",
+            "11:6",
+            "6:11"
+          ],
+          "satzErgebnis": "1:3",
+          "sieger": "gast",
+          "zwischenstand": "6:8",
+          "analyseHinweis": "Bötzow entscheidet das Spiel im letzten Einzel"
+        }
+      ]
     }
   ],
   "sourcePath": "G:\\Projekte\\TTC-Spielbericht-Agent\\public\\exports\\website-spielberichte.json"
