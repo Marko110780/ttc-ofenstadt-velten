@@ -3,11 +3,11 @@
   "websiteExportPath": "G:\\Projekte\\TTC-Spielbericht-Agent\\public\\exports\\website-spielberichte.json",
   "websiteArtikelExportPath": "G:\\Projekte\\TTC-Spielbericht-Agent\\public\\exports\\website-artikel.json",
   "websiteSponsorenExportPath": "G:\\Projekte\\TTC-Spielbericht-Agent\\public\\exports\\website-sponsoren.json",
-  "syncedAt": "2026-08-13T21:33:24.758Z",
+  "syncedAt": "2026-09-05T06:39:17.921Z",
   "teams": 5,
-  "games": 19,
-  "publicReports": 11,
+  "games": 20,
+  "publicReports": 12,
   "publicArticles": 1,
   "sponsors": 9,
-  "previews": 22
+  "previews": 23
 }

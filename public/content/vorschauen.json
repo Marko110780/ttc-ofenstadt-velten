@@ -9,15 +9,15 @@
     "gegner": "Hohen Neuendorfer SV II",
     "heimAuswaerts": "Heimspiel",
     "liga": "LK2 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1015/Hohen_Neuendorfer_SV_II/mannschaften",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-07-19&date_end=2026-10-15",
-    "gescanntAm": "2026-07-19T08:09:10.512Z",
+    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3101788/Hohen_Neuendorfer_SV_II/spielerbilanzen/gesamt",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
+    "gescanntAm": "2026-09-02T15:51:45.545Z",
     "veroeffentlichungen": [
       {
         "kanal": "website",
         "status": "veroeffentlicht",
         "veroeffentlichtAm": "2026-07-19T10:54:02.534Z",
-        "text": "Vorschau: TTC Ofenstadt Velten gegen Hohen Neuendorfer SV II\n\nTTC Ofenstadt Velten tritt am Fr., 04.09.2026, 19:30 Uhr zu Hause gegen Hohen Neuendorfer SV II an (LK2 Erw).\n\nWir freuen uns auf ein spannendes Spiel und berichten im Anschluss über den Ausgang."
+        "text": "Vorschau: TTC Ofenstadt Velten gegen Hohen Neuendorfer SV II\n\nTTC Ofenstadt Velten tritt am Fr., 04.09.2026, 19:30 Uhr zu Hause gegen Hohen Neuendorfer SV II an (LK2 Erw).\n\nWir freuen uns auf ein spannendes Spiel und berichten im Anschluss über den Ausgang.\n\nEntwurf bitte vor Veröffentlichung prüfen."
       },
       {
         "kanal": "facebook",
@@ -38,6 +38,16 @@
       "quelle": "generiert",
       "erstelltVon": "Vera Grafik",
       "erstelltAm": "2026-07-19T11:57:19.235Z"
+    },
+    "gegnerKontext": {
+      "status": "keine_daten",
+      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3101788/Hohen_Neuendorfer_SV_II/spielerbilanzen/gesamt",
+      "gescanntAm": "2026-09-02T15:51:34.834Z",
+      "durchschnittQttr": null,
+      "besteSpieler": [],
+      "hinweise": [
+        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
+      ]
     }
   },
   {
@@ -70,6 +80,32 @@
     }
   },
   {
+    "id": "vorschau-2026-09-09-tsv-zehdenick-ii",
+    "teamId": "",
+    "teamName": "TTC Ofenstadt Velten III",
+    "datum": "2026-09-09",
+    "datumDeutsch": "Mi., 09.09.2026",
+    "uhrzeit": "19:30",
+    "gegner": "TSV Zehdenick II",
+    "heimAuswaerts": "Heimspiel",
+    "liga": "Kreispokal H",
+    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/Kreispokal_H/gruppe/521681/mannschaft/3102460/TSV_Zehdenick_II/spielerbilanzen/gesamt",
+    "gegnerKontext": {
+      "status": "keine_daten",
+      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/Kreispokal_H/gruppe/521681/mannschaft/3102460/TSV_Zehdenick_II/spielerbilanzen/gesamt",
+      "gescanntAm": "2026-09-02T15:51:35.045Z",
+      "durchschnittQttr": null,
+      "besteSpieler": [],
+      "hinweise": [
+        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
+      ]
+    },
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
+    "gescanntAm": "2026-09-02T15:51:45.546Z",
+    "veroeffentlichungen": [],
+    "bild": null
+  },
+  {
     "id": "vorschau-2026-09-11-sv-beetz-sommerfeld-ii",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten IV",
@@ -79,10 +115,20 @@
     "gegner": "SV Beetz-Sommerfeld II",
     "heimAuswaerts": "Heimspiel",
     "liga": "Kreispokal H",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1446/SV_Beetz-Sommerfeld_II/mannschaften",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-07-19&date_end=2026-10-15",
-    "gescanntAm": "2026-07-19T08:09:10.512Z",
+    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/Kreispokal_H/gruppe/521681/mannschaft/3102351/SV_Beetz-Sommerfeld_II/spielerbilanzen/gesamt",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
+    "gescanntAm": "2026-09-02T15:51:45.546Z",
     "veroeffentlichungen": [],
+    "gegnerKontext": {
+      "status": "keine_daten",
+      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/Kreispokal_H/gruppe/521681/mannschaft/3102351/SV_Beetz-Sommerfeld_II/spielerbilanzen/gesamt",
+      "gescanntAm": "2026-09-02T15:51:35.406Z",
+      "durchschnittQttr": null,
+      "besteSpieler": [],
+      "hinweise": [
+        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
+      ]
+    },
     "bild": null
   },
   {
@@ -95,17 +141,27 @@
     "gegner": "TTV Fürstenberg/Havel II",
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "LK2 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1020/TTV_F%C3%BCrstenberg--Havel_II/mannschaften",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-07-19&date_end=2026-10-15",
-    "gescanntAm": "2026-07-19T08:09:10.512Z",
+    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3102220/TTV_F%C3%BCrstenberg--Havel_II/spielerbilanzen/gesamt",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
+    "gescanntAm": "2026-09-02T15:51:45.546Z",
     "veroeffentlichungen": [
       {
         "kanal": "website",
         "status": "veroeffentlicht",
         "veroeffentlichtAm": "2026-07-19T14:00:39.000Z",
-        "text": "Vorschau: TTC Ofenstadt Velten bei TTV Fürstenberg/Havel II\n\nTTC Ofenstadt Velten tritt am Di., 15.09.2026, 19:00 Uhr auswärts bei TTV Fürstenberg/Havel II an (LK2 Erw).\n\nWir freuen uns auf ein spannendes Spiel und berichten im Anschluss über den Ausgang."
+        "text": "Vorschau: TTC Ofenstadt Velten bei TTV Fürstenberg/Havel II\n\nTTC Ofenstadt Velten tritt am Di., 15.09.2026, 19:00 Uhr auswärts bei TTV Fürstenberg/Havel II an (LK2 Erw).\n\nWir freuen uns auf ein spannendes Spiel und berichten im Anschluss über den Ausgang.\n\nEntwurf bitte vor Veröffentlichung prüfen."
       }
     ],
+    "gegnerKontext": {
+      "status": "keine_daten",
+      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3102220/TTV_F%C3%BCrstenberg--Havel_II/spielerbilanzen/gesamt",
+      "gescanntAm": "2026-09-02T15:51:34.810Z",
+      "durchschnittQttr": null,
+      "besteSpieler": [],
+      "hinweise": [
+        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
+      ]
+    },
     "bild": null
   },
   {
@@ -118,10 +174,20 @@
     "gegner": "TT-Freunde Bötzow IV",
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "KL Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1025/TT-Freunde_B%C3%B6tzow__IV/mannschaften",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-07-19&date_end=2026-10-15",
-    "gescanntAm": "2026-07-19T08:09:10.513Z",
+    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Erw/gruppe/521610/mannschaft/3102165/TT-Freunde_B%C3%B6tzow__IV/spielerbilanzen/gesamt",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
+    "gescanntAm": "2026-09-02T15:51:45.546Z",
     "veroeffentlichungen": [],
+    "gegnerKontext": {
+      "status": "keine_daten",
+      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Erw/gruppe/521610/mannschaft/3102165/TT-Freunde_B%C3%B6tzow__IV/spielerbilanzen/gesamt",
+      "gescanntAm": "2026-09-02T15:51:34.844Z",
+      "durchschnittQttr": null,
+      "besteSpieler": [],
+      "hinweise": [
+        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
+      ]
+    },
     "bild": null
   },
   {
@@ -134,10 +200,20 @@
     "gegner": "SV Beetz-Sommerfeld II",
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "KK4 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1446/SV_Beetz-Sommerfeld_II/mannschaften",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-07-19&date_end=2026-10-15",
-    "gescanntAm": "2026-07-19T08:09:10.512Z",
+    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK4_Erw/gruppe/521632/mannschaft/3101781/SV_Beetz-Sommerfeld_II/spielerbilanzen/gesamt",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
+    "gescanntAm": "2026-09-02T15:51:45.546Z",
     "veroeffentlichungen": [],
+    "gegnerKontext": {
+      "status": "keine_daten",
+      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK4_Erw/gruppe/521632/mannschaft/3101781/SV_Beetz-Sommerfeld_II/spielerbilanzen/gesamt",
+      "gescanntAm": "2026-09-02T15:51:35.334Z",
+      "durchschnittQttr": null,
+      "besteSpieler": [],
+      "hinweise": [
+        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
+      ]
+    },
     "bild": null
   },
   {
@@ -150,10 +226,20 @@
     "gegner": "TT-Freunde Bötzow II",
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "KL Jug15",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1025/TT-Freunde_B%C3%B6tzow__II/mannschaften",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-07-19&date_end=2026-10-15",
-    "gescanntAm": "2026-07-19T08:09:10.512Z",
+    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Jug15/gruppe/534037/mannschaft/3101603/TT-Freunde_B%C3%B6tzow__II/spielerbilanzen/gesamt",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
+    "gescanntAm": "2026-09-02T15:51:45.546Z",
     "veroeffentlichungen": [],
+    "gegnerKontext": {
+      "status": "keine_daten",
+      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Jug15/gruppe/534037/mannschaft/3101603/TT-Freunde_B%C3%B6tzow__II/spielerbilanzen/gesamt",
+      "gescanntAm": "2026-09-02T15:51:35.961Z",
+      "durchschnittQttr": null,
+      "besteSpieler": [],
+      "hinweise": [
+        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
+      ]
+    },
     "bild": null
   },
   {
@@ -166,10 +252,20 @@
     "gegner": "Kremmener SV III",
     "heimAuswaerts": "Heimspiel",
     "liga": "KK5 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1418/Kremmener_SV_III/mannschaften",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-07-19&date_end=2026-10-15",
-    "gescanntAm": "2026-07-19T08:09:10.512Z",
+    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK5_Erw/gruppe/521539/mannschaft/3101962/Kremmener_SV_III/spielerbilanzen/gesamt",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
+    "gescanntAm": "2026-09-02T15:51:45.546Z",
     "veroeffentlichungen": [],
+    "gegnerKontext": {
+      "status": "keine_daten",
+      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK5_Erw/gruppe/521539/mannschaft/3101962/Kremmener_SV_III/spielerbilanzen/gesamt",
+      "gescanntAm": "2026-09-02T15:51:36.088Z",
+      "durchschnittQttr": null,
+      "besteSpieler": [],
+      "hinweise": [
+        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
+      ]
+    },
     "bild": null
   },
   {
@@ -182,10 +278,20 @@
     "gegner": "SV Stahl Hennigsdorf II",
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "KL Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1406/SV_Stahl_Hennigsdorf_II/mannschaften",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-07-19&date_end=2026-10-15",
-    "gescanntAm": "2026-07-19T08:09:10.513Z",
+    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Erw/gruppe/521610/mannschaft/3101939/SV_Stahl_Hennigsdorf_II/spielerbilanzen/gesamt",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
+    "gescanntAm": "2026-09-02T15:51:45.546Z",
     "veroeffentlichungen": [],
+    "gegnerKontext": {
+      "status": "keine_daten",
+      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Erw/gruppe/521610/mannschaft/3101939/SV_Stahl_Hennigsdorf_II/spielerbilanzen/gesamt",
+      "gescanntAm": "2026-09-02T15:51:35.367Z",
+      "durchschnittQttr": null,
+      "besteSpieler": [],
+      "hinweise": [
+        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
+      ]
+    },
     "bild": null
   },
   {
@@ -198,10 +304,20 @@
     "gegner": "TT-Freunde Bötzow VIII",
     "heimAuswaerts": "Heimspiel",
     "liga": "KK4 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1025/TT-Freunde_B%C3%B6tzow__VIII/mannschaften",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-07-19&date_end=2026-10-15",
-    "gescanntAm": "2026-07-19T08:09:10.512Z",
+    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK4_Erw/gruppe/521632/mannschaft/3148508/TT-Freunde_B%C3%B6tzow__VIII/spielerbilanzen/gesamt",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
+    "gescanntAm": "2026-09-02T15:51:45.546Z",
     "veroeffentlichungen": [],
+    "gegnerKontext": {
+      "status": "keine_daten",
+      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK4_Erw/gruppe/521632/mannschaft/3148508/TT-Freunde_B%C3%B6tzow__VIII/spielerbilanzen/gesamt",
+      "gescanntAm": "2026-09-02T15:51:35.647Z",
+      "durchschnittQttr": null,
+      "besteSpieler": [],
+      "hinweise": [
+        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
+      ]
+    },
     "bild": null
   },
   {

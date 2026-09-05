@@ -1,9 +1,44 @@
 {
   "exportTyp": "ttc-website-spielberichte",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-08-13T21:33:10.351Z",
-  "anzahl": 11,
+  "erstelltAm": "2026-09-05T06:39:17.507Z",
+  "anzahl": 12,
   "spielberichte": [
+    {
+      "id": "import-ttc-erste-2026-09-04-ttc-ofenstadt-velten-gegen-hohen-neuendorfer-sv-ii",
+      "slug": "2026-09-04-ttc-ofenstadt-velten-gegen-hohen-neuendorfer-sv-ii",
+      "titel": "TTC Ofenstadt Velten gegen Hohen Neuendorfer SV II",
+      "datum": "2026-09-04",
+      "datumDeutsch": "04. September 2026",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2026/27 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "Hohen Neuendorfer SV II",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten",
+      "gastMannschaft": "Hohen Neuendorfer SV II",
+      "ergebnis": "9:5",
+      "teaser": "Erste zeigt klare Linie gegen Hohen Neuendorfer SV II",
+      "text": "Erste zeigt klare Linie gegen Hohen Neuendorfer SV II\n\nTTC Ofenstadt Velten hat sich zu Hause gegen Hohen Neuendorfer SV II mit 9:5 durchgesetzt. Die Erste zeigte über weite Strecken einen konzentrierten Auftritt und brachte das Spiel verdient nach Hause.\n\nDie Zahlen unterstreichen den verdienten Auftritt: 9:5 Spiele, 34:21 Sätze und 555:488 Bälle. Auch die engeren Phasen mit 3 Fünfsatzspiele und 20 knappe Sätze wurden konzentriert gelöst.\n\nEntscheidend war, dass der TTC in den engen Phasen immer wieder Antworten fand: 2:0: Kevin Sieverding und Marcel Gewies behalten die Nerven und holen den fünfsatzpunkt zum 2:0.\n\nStarke Akzente setzten Marko Winter mit 4 gewonnenen Spielen; Kevin Sieverding mit 3 gewonnenen Spielen, darunter 1 Fünfsatz-Erfolg; Marcel Gewies mit 2 gewonnenen Spielen, darunter 1 Fünfsatz-Erfolg; Volker Henning mit 2 gewonnenen Spielen. Trotzdem bleibt der wichtigste Punkt: Dieser Abend wurde nicht von Einzelnen getragen, sondern als Mannschaft erarbeitet.\n\nDie Zahlen runden das Bild ab: 9:5 Spiele, 34:21 Sätze und 555:488 Bälle.\n\nUnterm Strich steht ein Heimsieg, der genau zu dieser Mannschaft passt: stolz, bodenständig, fair — und bis zum letzten Punkt gemeinsam.",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": true,
+      "bild": "",
+      "geprueftAm": "",
+      "veroeffentlichtAm": "2026-09-05T06:39:17.495Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-09-05",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "555:488",
+        "saetze": "34:21"
+      }
+    },
     {
       "id": "import-2026-04-24-the-eagles-gegen-ttc-ofenstadt-velten",
       "slug": "2026-04-24-the-eagles-gegen-ttc-ofenstadt-velten",

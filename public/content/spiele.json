@@ -1,5 +1,29 @@
 [
   {
+    "id": "import-ttc-erste-2026-09-04-ttc-ofenstadt-velten-gegen-hohen-neuendorfer-sv-ii",
+    "teamId": "ttc-erste",
+    "datum": "2026-09-04",
+    "liga": "Landesbereich Ost 2026/27 - 2. Landesklasse Erwachsene Gruppe 1",
+    "gegner": "Hohen Neuendorfer SV II",
+    "heimAuswaerts": "Heimspiel",
+    "heimMannschaft": "TTC Ofenstadt Velten",
+    "gastMannschaft": "Hohen Neuendorfer SV II",
+    "ergebnis": "9:5",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "555:488",
+      "saetze": "34:21"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
     "id": "import-2026-04-24-the-eagles-gegen-ttc-ofenstadt-velten",
     "teamId": "ttc-erste",
     "datum": "2026-04-24",
