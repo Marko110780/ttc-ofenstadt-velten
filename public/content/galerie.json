@@ -1,0 +1,49 @@
+{
+  "exportTyp": "ttc-website-galerie",
+  "verein": "TTC Ofenstadt Velten",
+  "erstelltAm": "2026-09-05T19:11:08.220Z",
+  "anzahl": 4,
+  "dokumente": [
+    {
+      "id": "grundlagen",
+      "titel": "1. Grundlagen",
+      "beschreibung": "Einführung in grundlegende Tischtennis-Materialthemen.",
+      "kategorie": "Materialkunde",
+      "sortierung": 1,
+      "pdf": "",
+      "pdfDateiname": "",
+      "aktualisiertAm": "2026-09-05T19:00:36.6123191Z"
+    },
+    {
+      "id": "holzarten",
+      "titel": "2. Holzarten",
+      "beschreibung": "Übersicht zu Holzarten im Tischtennisschläger-Aufbau.",
+      "kategorie": "Materialkunde",
+      "sortierung": 2,
+      "pdf": "",
+      "pdfDateiname": "",
+      "aktualisiertAm": "2026-09-05T19:00:36.6190366Z"
+    },
+    {
+      "id": "belaege",
+      "titel": "3. Beläge",
+      "beschreibung": "Informationen zu Tischtennis-Belägen.",
+      "kategorie": "Materialkunde",
+      "sortierung": 3,
+      "pdf": "",
+      "pdfDateiname": "",
+      "aktualisiertAm": "2026-09-05T19:00:36.6191284Z"
+    },
+    {
+      "id": "kunstfasern",
+      "titel": "4. Kunstfasern",
+      "beschreibung": "Materialkunde zu Kunstfasern im Tischtennis.",
+      "kategorie": "Materialkunde",
+      "sortierung": 4,
+      "pdf": "",
+      "pdfDateiname": "",
+      "aktualisiertAm": "2026-09-05T19:00:36.6191826Z"
+    }
+  ],
+  "sourcePath": "G:\\Projekte\\TTC-Spielbericht-Agent\\public\\exports\\website-galerie.json"
+}
