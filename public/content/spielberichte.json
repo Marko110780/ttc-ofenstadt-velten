@@ -1,7 +1,7 @@
 {
   "exportTyp": "ttc-website-spielberichte",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-09-05T15:21:38.139Z",
+  "erstelltAm": "2026-09-05T15:22:00.931Z",
   "anzahl": 12,
   "spielberichte": [
     {
@@ -796,10 +796,10 @@
       "autor": "Rudi",
       "agentId": "rudi-website",
       "redaktionsquelle": "Rudi im Redaktionstool",
-      "websiteVeroeffentlicht": true,
+      "websiteVeroeffentlicht": false,
       "bild": "",
       "geprueftAm": "2026-07-18T16:46:56.786Z",
-      "veroeffentlichtAm": "2026-08-10T07:47:16.640Z",
+      "veroeffentlichtAm": "2026-07-18T16:46:56.786Z",
       "quellen": [
         {
           "typ": "copy_paste",
