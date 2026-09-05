@@ -69,6 +69,19 @@ function formatTime(value) {
   return `${value} Uhr`;
 }
 
+function todayIso() {
+  const now = new Date();
+  const year = now.getFullYear();
+  const month = String(now.getMonth() + 1).padStart(2, "0");
+  const day = String(now.getDate()).padStart(2, "0");
+  return `${year}-${month}-${day}`;
+}
+
+function isUpcomingPreview(preview) {
+  const date = String(preview?.datum || "");
+  return date >= todayIso();
+}
+
 function isGenericHighlight(highlight) {
   const text = normalizeText(highlight);
   return text.includes("aus eingefugtem spielbericht erkannt") || text.includes("aus offiziellem spielbericht");
@@ -118,6 +131,7 @@ function createReportItem(report) {
   const home = decodeText(report.heimMannschaft || "TTC Ofenstadt Velten");
   const away = decodeText(report.gastMannschaft || report.gegner || "Gegner offen");
   const highlights = (report.highlights || []).filter((highlight) => highlight && !isGenericHighlight(highlight)).slice(0, 3);
+  const teaser = decodeText(report.teaser || firstParagraph(report.text));
 
   article.innerHTML = `
     <div class="report-date">
@@ -130,7 +144,7 @@ function createReportItem(report) {
       ${
         highlights.length
           ? `<ul>${highlights.map((highlight) => `<li>${decodeText(highlight)}</li>`).join("")}</ul>`
-          : `<p class="muted">Zu diesem fertigen Bericht sind aktuell keine Highlights hinterlegt.</p>`
+          : `<p>${teaser}</p>`
       }
       <a class="inline-card-link" href="spielberichte.html">Zur Berichtsliste</a>
     </div>
@@ -264,7 +278,14 @@ function renderSponsors() {
 function renderHeroMatch() {
   const target = byId("hero-match");
   const next = state.previews[0];
-  if (!target || !next) return;
+  if (!target) return;
+  if (!next) {
+    target.innerHTML = `
+      <strong>Keine kommenden Spiele</strong>
+      <span>Der nächste Termin erscheint nach dem nächsten Redaktions-Snapshot.</span>
+    `;
+    return;
+  }
   target.innerHTML = `
     <strong>${decodeText(next.teamName || "TTC Ofenstadt Velten")}</strong>
     <span>${decodeText(next.heimAuswaerts === "Heimspiel" ? "gegen" : "bei")} ${decodeText(next.gegner)}</span>
@@ -290,18 +311,18 @@ function render() {
 }
 
 async function main() {
-  const [teams, previews, reports, articlesPayload, sponsorsPayload, syncStatus] = await Promise.all([
+  const [teams, previews, reportsPayload, articlesPayload, sponsorsPayload, syncStatus] = await Promise.all([
     loadJson("content/mannschaften.json", []),
     loadJson("content/vorschauen.json", []),
-    loadJson("content/spiele.json", []),
+    loadJson("content/spielberichte.json", { spielberichte: [] }),
     loadJson("content/artikel.json", { artikel: [] }),
     loadJson("content/sponsoren.json", { sponsoren: [] }),
     loadJson("content/sync-status.json", null)
   ]);
 
   state.teams = teams;
-  state.previews = previews;
-  state.reports = reports;
+  state.previews = previews.filter(isUpcomingPreview).sort((a, b) => String(a.datum || "").localeCompare(String(b.datum || "")));
+  state.reports = Array.isArray(reportsPayload?.spielberichte) ? reportsPayload.spielberichte : [];
   state.articles = Array.isArray(articlesPayload?.artikel) ? articlesPayload.artikel : [];
   state.sponsors = Array.isArray(sponsorsPayload?.sponsoren) ? sponsorsPayload.sponsoren : [];
   state.syncStatus = syncStatus;
@@ -309,3 +330,4 @@ async function main() {
 }
 
 main();
+

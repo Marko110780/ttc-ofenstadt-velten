@@ -38,6 +38,19 @@ function formatTime(value) {
   return `${value} Uhr`;
 }
 
+function todayIso() {
+  const now = new Date();
+  const year = now.getFullYear();
+  const month = String(now.getMonth() + 1).padStart(2, "0");
+  const day = String(now.getDate()).padStart(2, "0");
+  return `${year}-${month}-${day}`;
+}
+
+function isUpcomingPreview(preview) {
+  const date = String(preview?.datum || "");
+  return date >= todayIso();
+}
+
 async function loadJson(path, fallback) {
   try {
     const response = await fetch(path, { cache: "no-store" });
@@ -116,6 +129,7 @@ async function main() {
   }
 
   const sortedPreviews = previews
+    .filter(isUpcomingPreview)
     .sort((a, b) => String(a.datum || "").localeCompare(String(b.datum || "")))
     .slice(0, 8);
 
@@ -129,3 +143,4 @@ async function main() {
 }
 
 main();
+
