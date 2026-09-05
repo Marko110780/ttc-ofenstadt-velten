@@ -80,32 +80,6 @@
     }
   },
   {
-    "id": "vorschau-2026-09-09-tsv-zehdenick-ii",
-    "teamId": "",
-    "teamName": "TTC Ofenstadt Velten III",
-    "datum": "2026-09-09",
-    "datumDeutsch": "Mi., 09.09.2026",
-    "uhrzeit": "19:30",
-    "gegner": "TSV Zehdenick II",
-    "heimAuswaerts": "Heimspiel",
-    "liga": "Kreispokal H",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/Kreispokal_H/gruppe/521681/mannschaft/3102460/TSV_Zehdenick_II/spielerbilanzen/gesamt",
-    "gegnerKontext": {
-      "status": "keine_daten",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/Kreispokal_H/gruppe/521681/mannschaft/3102460/TSV_Zehdenick_II/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-02T15:51:35.045Z",
-      "durchschnittQttr": null,
-      "besteSpieler": [],
-      "hinweise": [
-        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
-      ]
-    },
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
-    "gescanntAm": "2026-09-02T15:51:45.546Z",
-    "veroeffentlichungen": [],
-    "bild": null
-  },
-  {
     "id": "vorschau-2026-09-11-sv-beetz-sommerfeld-ii",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten IV",

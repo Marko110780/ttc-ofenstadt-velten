@@ -51,6 +51,35 @@ function isUpcomingPreview(preview) {
   return date >= todayIso();
 }
 
+function normalizeText(value) {
+  return decodeText(value)
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "");
+}
+
+function previewIdentity(preview) {
+  return [
+    preview?.teamName,
+    preview?.gegner,
+    preview?.heimAuswaerts,
+    preview?.liga,
+    preview?.uhrzeit
+  ].map(normalizeText).join("|");
+}
+
+function dedupePreviews(previews) {
+  const byIdentity = new Map();
+  previews.forEach((preview) => {
+    const key = previewIdentity(preview);
+    const current = byIdentity.get(key);
+    if (!current || String(preview.datum || "") < String(current.datum || "")) {
+      byIdentity.set(key, preview);
+    }
+  });
+  return Array.from(byIdentity.values());
+}
+
 async function loadJson(path, fallback) {
   try {
     const response = await fetch(path, { cache: "no-store" });
@@ -128,8 +157,7 @@ async function main() {
     }
   }
 
-  const sortedPreviews = previews
-    .filter(isUpcomingPreview)
+  const sortedPreviews = dedupePreviews(previews.filter(isUpcomingPreview))
     .sort((a, b) => String(a.datum || "").localeCompare(String(b.datum || "")))
     .slice(0, 8);
 
@@ -143,4 +171,5 @@ async function main() {
 }
 
 main();
+
 

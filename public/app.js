@@ -82,6 +82,28 @@ function isUpcomingPreview(preview) {
   return date >= todayIso();
 }
 
+function previewIdentity(preview) {
+  return [
+    preview?.teamName,
+    preview?.gegner,
+    preview?.heimAuswaerts,
+    preview?.liga,
+    preview?.uhrzeit
+  ].map(normalizeText).join("|");
+}
+
+function dedupePreviews(previews) {
+  const byIdentity = new Map();
+  previews.forEach((preview) => {
+    const key = previewIdentity(preview);
+    const current = byIdentity.get(key);
+    if (!current || String(preview.datum || "") < String(current.datum || "")) {
+      byIdentity.set(key, preview);
+    }
+  });
+  return Array.from(byIdentity.values());
+}
+
 function isGenericHighlight(highlight) {
   const text = normalizeText(highlight);
   return text.includes("aus eingefugtem spielbericht erkannt") || text.includes("aus offiziellem spielbericht");
@@ -321,7 +343,8 @@ async function main() {
   ]);
 
   state.teams = teams;
-  state.previews = previews.filter(isUpcomingPreview).sort((a, b) => String(a.datum || "").localeCompare(String(b.datum || "")));
+  state.previews = dedupePreviews(previews.filter(isUpcomingPreview))
+    .sort((a, b) => String(a.datum || "").localeCompare(String(b.datum || "")));
   state.reports = Array.isArray(reportsPayload?.spielberichte) ? reportsPayload.spielberichte : [];
   state.articles = Array.isArray(articlesPayload?.artikel) ? articlesPayload.artikel : [];
   state.sponsors = Array.isArray(sponsorsPayload?.sponsoren) ? sponsorsPayload.sponsoren : [];
@@ -330,4 +353,5 @@ async function main() {
 }
 
 main();
+
 
