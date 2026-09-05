@@ -68,12 +68,24 @@ function previewIdentity(preview) {
   ].map(normalizeText).join("|");
 }
 
+function previewScanTime(preview) {
+  const time = new Date(preview?.gescanntAm || "").getTime();
+  return Number.isNaN(time) ? 0 : time;
+}
+
+function shouldReplacePreview(current, candidate) {
+  const currentScan = previewScanTime(current);
+  const candidateScan = previewScanTime(candidate);
+  if (candidateScan !== currentScan) return candidateScan > currentScan;
+  return String(candidate.datum || "") < String(current.datum || "");
+}
+
 function dedupePreviews(previews) {
   const byIdentity = new Map();
   previews.forEach((preview) => {
     const key = previewIdentity(preview);
     const current = byIdentity.get(key);
-    if (!current || String(preview.datum || "") < String(current.datum || "")) {
+    if (!current || shouldReplacePreview(current, preview)) {
       byIdentity.set(key, preview);
     }
   });
@@ -171,5 +183,6 @@ async function main() {
 }
 
 main();
+
 
 
