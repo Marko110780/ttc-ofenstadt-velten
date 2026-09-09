@@ -1,9 +1,44 @@
 {
   "exportTyp": "ttc-website-spielberichte",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-09-05T19:43:02.989Z",
-  "anzahl": 1,
+  "erstelltAm": "2026-09-09T21:19:02.686Z",
+  "anzahl": 2,
   "spielberichte": [
+    {
+      "id": "import-ttc-dritte-2026-09-09-ttc-ofenstadt-velten-iii-gegen-tsv-zehdenick-ii",
+      "slug": "2026-09-09-ttc-ofenstadt-velten-iii-gegen-tsv-zehdenick-ii",
+      "titel": "TTC Ofenstadt Velten III gegen TSV Zehdenick II",
+      "datum": "2026-09-09",
+      "datumDeutsch": "09. September 2026",
+      "mannschaft": "TTC Ofenstadt Velten III",
+      "liga": "Kreis Oberhavel Pokal 2026/27 - Kreispokal",
+      "gegner": "TSV Zehdenick II",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten III",
+      "gastMannschaft": "TSV Zehdenick II",
+      "ergebnis": "5:0",
+      "teaser": "Sieg gegen TSV Zehdenick II",
+      "text": "Sieg gegen TSV Zehdenick II\n\nTTC Ofenstadt Velten III hat zu Hause gegen TSV Zehdenick II mit 5:0 gewonnen. Der deutliche Endstand erzählt allerdings nicht die ganze Geschichte: zwei Begegnungen gingen über fünf Sätze.\n\nOlaf Butzlaff sorgte zum Auftakt mit einem 3:0 gegen Marko Radtke für die 1:0-Führung. Stefan Senftleben musste gegen Christian Wittich über fünf Sätze gehen. Das 3:2 brachte die 2:0-Führung.\n\nMit einem 3:0 gegen Gerd Arndt baute Uwe Schmidt die Führung auf 3:0 aus. Auch gegen Marko Radtke ging es für Stefan Senftleben über fünf Sätze. Das 3:2 brachte die 4:0-Führung.\n\nDen Schlusspunkt setzte Olaf Butzlaff: Das 3:0 gegen Gerd Arndt machte den 5:0-Endstand komplett.",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": true,
+      "bild": "",
+      "geprueftAm": "",
+      "veroeffentlichtAm": "2026-09-09T21:19:02.674Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-09-09",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "213:152",
+        "saetze": "15:4"
+      }
+    },
     {
       "id": "import-ttc-erste-2026-09-04-ttc-ofenstadt-velten-gegen-hohen-neuendorfer-sv-ii",
       "slug": "2026-09-04-ttc-ofenstadt-velten-gegen-hohen-neuendorfer-sv-ii",

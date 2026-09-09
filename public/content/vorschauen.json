@@ -93,15 +93,15 @@
     "gegnerKontext": {
       "status": "keine_daten",
       "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/Kreispokal_H/gruppe/521681/mannschaft/3102460/TSV_Zehdenick_II/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-02T15:51:35.045Z",
+      "gescanntAm": "2026-09-06T20:44:20.420Z",
       "durchschnittQttr": null,
       "besteSpieler": [],
       "hinweise": [
         "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
       ]
     },
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
-    "gescanntAm": "2026-09-02T15:51:45.546Z",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
+    "gescanntAm": "2026-09-06T20:44:32.249Z",
     "veroeffentlichungen": [],
     "bild": null
   },
@@ -116,13 +116,13 @@
     "heimAuswaerts": "Heimspiel",
     "liga": "Kreispokal H",
     "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/Kreispokal_H/gruppe/521681/mannschaft/3102351/SV_Beetz-Sommerfeld_II/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
-    "gescanntAm": "2026-09-02T15:51:45.546Z",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
+    "gescanntAm": "2026-09-06T20:44:32.250Z",
     "veroeffentlichungen": [],
     "gegnerKontext": {
       "status": "keine_daten",
       "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/Kreispokal_H/gruppe/521681/mannschaft/3102351/SV_Beetz-Sommerfeld_II/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-02T15:51:35.406Z",
+      "gescanntAm": "2026-09-06T20:44:20.474Z",
       "durchschnittQttr": null,
       "besteSpieler": [],
       "hinweise": [
@@ -142,8 +142,8 @@
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "LK2 Erw",
     "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3102220/TTV_F%C3%BCrstenberg--Havel_II/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
-    "gescanntAm": "2026-09-02T15:51:45.546Z",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
+    "gescanntAm": "2026-09-06T20:44:32.250Z",
     "veroeffentlichungen": [
       {
         "kanal": "website",
@@ -153,13 +153,37 @@
       }
     ],
     "gegnerKontext": {
-      "status": "keine_daten",
+      "status": "gefunden",
       "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3102220/TTV_F%C3%BCrstenberg--Havel_II/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-02T15:51:34.810Z",
-      "durchschnittQttr": null,
-      "besteSpieler": [],
+      "gescanntAm": "2026-09-06T20:44:20.948Z",
+      "durchschnittQttr": 0,
+      "besteSpieler": [
+        {
+          "name": "Hans-Jürgen Gragoll",
+          "qttrWert": 0,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PAAF1E811/spielerportrait"
+        },
+        {
+          "name": "Albek Schaow",
+          "qttrWert": 0,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PC0DAD02A/spielerportrait"
+        },
+        {
+          "name": "Maya Wilke",
+          "qttrWert": 0,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P11CCCF019/spielerportrait"
+        },
+        {
+          "name": "Marc-Leon Voß",
+          "qttrWert": 0,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PE6B98021/spielerportrait"
+        }
+      ],
       "hinweise": [
-        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
+        "Hans-Jürgen Gragoll: Kein Q-TTR-Wert auf der Profilseite gefunden.",
+        "Maya Wilke: Kein Q-TTR-Wert auf der Profilseite gefunden.",
+        "Albek Schaow: Kein Q-TTR-Wert auf der Profilseite gefunden.",
+        "Marc-Leon Voß: Kein Q-TTR-Wert auf der Profilseite gefunden."
       ]
     },
     "bild": null
@@ -175,13 +199,13 @@
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "KL Erw",
     "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Erw/gruppe/521610/mannschaft/3102165/TT-Freunde_B%C3%B6tzow__IV/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
-    "gescanntAm": "2026-09-02T15:51:45.546Z",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
+    "gescanntAm": "2026-09-06T20:44:32.250Z",
     "veroeffentlichungen": [],
     "gegnerKontext": {
       "status": "keine_daten",
       "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Erw/gruppe/521610/mannschaft/3102165/TT-Freunde_B%C3%B6tzow__IV/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-02T15:51:34.844Z",
+      "gescanntAm": "2026-09-06T20:44:20.158Z",
       "durchschnittQttr": null,
       "besteSpieler": [],
       "hinweise": [
@@ -201,13 +225,13 @@
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "KK4 Erw",
     "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK4_Erw/gruppe/521632/mannschaft/3101781/SV_Beetz-Sommerfeld_II/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
-    "gescanntAm": "2026-09-02T15:51:45.546Z",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
+    "gescanntAm": "2026-09-06T20:44:32.250Z",
     "veroeffentlichungen": [],
     "gegnerKontext": {
       "status": "keine_daten",
       "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK4_Erw/gruppe/521632/mannschaft/3101781/SV_Beetz-Sommerfeld_II/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-02T15:51:35.334Z",
+      "gescanntAm": "2026-09-06T20:44:20.083Z",
       "durchschnittQttr": null,
       "besteSpieler": [],
       "hinweise": [
@@ -227,13 +251,13 @@
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "KL Jug15",
     "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Jug15/gruppe/534037/mannschaft/3101603/TT-Freunde_B%C3%B6tzow__II/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
-    "gescanntAm": "2026-09-02T15:51:45.546Z",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
+    "gescanntAm": "2026-09-06T20:44:32.250Z",
     "veroeffentlichungen": [],
     "gegnerKontext": {
       "status": "keine_daten",
       "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Jug15/gruppe/534037/mannschaft/3101603/TT-Freunde_B%C3%B6tzow__II/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-02T15:51:35.961Z",
+      "gescanntAm": "2026-09-06T20:44:21.196Z",
       "durchschnittQttr": null,
       "besteSpieler": [],
       "hinweise": [
@@ -253,13 +277,13 @@
     "heimAuswaerts": "Heimspiel",
     "liga": "KK5 Erw",
     "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK5_Erw/gruppe/521539/mannschaft/3101962/Kremmener_SV_III/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
-    "gescanntAm": "2026-09-02T15:51:45.546Z",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
+    "gescanntAm": "2026-09-06T20:44:32.250Z",
     "veroeffentlichungen": [],
     "gegnerKontext": {
       "status": "keine_daten",
       "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK5_Erw/gruppe/521539/mannschaft/3101962/Kremmener_SV_III/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-02T15:51:36.088Z",
+      "gescanntAm": "2026-09-06T20:44:20.561Z",
       "durchschnittQttr": null,
       "besteSpieler": [],
       "hinweise": [
@@ -279,13 +303,13 @@
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "KL Erw",
     "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Erw/gruppe/521610/mannschaft/3101939/SV_Stahl_Hennigsdorf_II/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
-    "gescanntAm": "2026-09-02T15:51:45.546Z",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
+    "gescanntAm": "2026-09-06T20:44:32.250Z",
     "veroeffentlichungen": [],
     "gegnerKontext": {
       "status": "keine_daten",
       "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Erw/gruppe/521610/mannschaft/3101939/SV_Stahl_Hennigsdorf_II/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-02T15:51:35.367Z",
+      "gescanntAm": "2026-09-06T20:44:20.488Z",
       "durchschnittQttr": null,
       "besteSpieler": [],
       "hinweise": [
@@ -305,13 +329,13 @@
     "heimAuswaerts": "Heimspiel",
     "liga": "KK4 Erw",
     "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK4_Erw/gruppe/521632/mannschaft/3148508/TT-Freunde_B%C3%B6tzow__VIII/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
-    "gescanntAm": "2026-09-02T15:51:45.546Z",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
+    "gescanntAm": "2026-09-06T20:44:32.250Z",
     "veroeffentlichungen": [],
     "gegnerKontext": {
       "status": "keine_daten",
       "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK4_Erw/gruppe/521632/mannschaft/3148508/TT-Freunde_B%C3%B6tzow__VIII/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-02T15:51:35.647Z",
+      "gescanntAm": "2026-09-06T20:44:20.902Z",
       "durchschnittQttr": null,
       "besteSpieler": [],
       "hinweise": [
@@ -330,10 +354,44 @@
     "gegner": "TTV Templin",
     "heimAuswaerts": "Heimspiel",
     "liga": "LK2 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1003/TTV_Templin/mannschaften",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-07-19&date_end=2026-10-15",
-    "gescanntAm": "2026-07-19T08:09:10.512Z",
+    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3101633/TTV_Templin/spielerbilanzen/gesamt",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
+    "gescanntAm": "2026-09-06T20:44:32.250Z",
     "veroeffentlichungen": [],
+    "gegnerKontext": {
+      "status": "gefunden",
+      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3101633/TTV_Templin/spielerbilanzen/gesamt",
+      "gescanntAm": "2026-09-06T20:44:21.384Z",
+      "durchschnittQttr": 0,
+      "besteSpieler": [
+        {
+          "name": "Jörg Wesolowski",
+          "qttrWert": 0,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PAB11B01A/spielerportrait"
+        },
+        {
+          "name": "Frank Ruder",
+          "qttrWert": 0,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P10C901811/spielerportrait"
+        },
+        {
+          "name": "André van Leyen",
+          "qttrWert": 0,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P108496818/spielerportrait"
+        },
+        {
+          "name": "Leo Langfellner",
+          "qttrWert": 0,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PE1D94817/spielerportrait"
+        }
+      ],
+      "hinweise": [
+        "Jörg Wesolowski: Kein Q-TTR-Wert auf der Profilseite gefunden.",
+        "Frank Ruder: Kein Q-TTR-Wert auf der Profilseite gefunden.",
+        "André van Leyen: Kein Q-TTR-Wert auf der Profilseite gefunden.",
+        "Leo Langfellner: Kein Q-TTR-Wert auf der Profilseite gefunden."
+      ]
+    },
     "bild": null
   },
   {
@@ -346,10 +404,20 @@
     "gegner": "SG Empor Oranienburg VI",
     "heimAuswaerts": "Heimspiel",
     "liga": "KK5 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1017/SG_Empor_Oranienburg_VI/mannschaften",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-07-19&date_end=2026-10-15",
-    "gescanntAm": "2026-07-19T08:09:10.512Z",
+    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK5_Erw/gruppe/521539/mannschaft/3101648/SG_Empor_Oranienburg_VI/spielerbilanzen/gesamt",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
+    "gescanntAm": "2026-09-06T20:44:32.250Z",
     "veroeffentlichungen": [],
+    "gegnerKontext": {
+      "status": "keine_daten",
+      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK5_Erw/gruppe/521539/mannschaft/3101648/SG_Empor_Oranienburg_VI/spielerbilanzen/gesamt",
+      "gescanntAm": "2026-09-06T20:44:20.913Z",
+      "durchschnittQttr": null,
+      "besteSpieler": [],
+      "hinweise": [
+        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
+      ]
+    },
     "bild": null
   },
   {
@@ -362,10 +430,20 @@
     "gegner": "Hohen Neuendorfer SV II",
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "KL Jug15",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1015/Hohen_Neuendorfer_SV_II/mannschaften",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-07-19&date_end=2026-10-15",
-    "gescanntAm": "2026-07-19T08:09:10.512Z",
+    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Jug15/gruppe/534037/mannschaft/3102074/Hohen_Neuendorfer_SV_II/spielerbilanzen/gesamt",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
+    "gescanntAm": "2026-09-06T20:44:32.250Z",
     "veroeffentlichungen": [],
+    "gegnerKontext": {
+      "status": "keine_daten",
+      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Jug15/gruppe/534037/mannschaft/3102074/Hohen_Neuendorfer_SV_II/spielerbilanzen/gesamt",
+      "gescanntAm": "2026-09-06T20:44:21.307Z",
+      "durchschnittQttr": null,
+      "besteSpieler": [],
+      "hinweise": [
+        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
+      ]
+    },
     "bild": null
   },
   {

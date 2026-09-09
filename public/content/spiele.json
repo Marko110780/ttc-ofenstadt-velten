@@ -1,5 +1,29 @@
 [
   {
+    "id": "import-ttc-dritte-2026-09-09-ttc-ofenstadt-velten-iii-gegen-tsv-zehdenick-ii",
+    "teamId": "ttc-dritte",
+    "datum": "2026-09-09",
+    "liga": "Kreis Oberhavel Pokal 2026/27 - Kreispokal",
+    "gegner": "TSV Zehdenick II",
+    "heimAuswaerts": "Heimspiel",
+    "heimMannschaft": "TTC Ofenstadt Velten III",
+    "gastMannschaft": "TSV Zehdenick II",
+    "ergebnis": "5:0",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "213:152",
+      "saetze": "15:4"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
     "id": "import-ttc-erste-2026-09-04-ttc-ofenstadt-velten-gegen-hohen-neuendorfer-sv-ii",
     "teamId": "ttc-erste",
     "datum": "2026-09-04",
@@ -233,7 +257,7 @@
     "ergebnis": "13:1",
     "spielcharakter": "importiert und noch nicht redaktionell bewertet",
     "importStatus": "geprueft",
-    "geprueftAm": "2026-07-18T19:41:43.340Z",
+    "geprueftAm": "2026-07-18T19:41:43.34Z",
     "summen": {
       "baelle": "530:273",
       "saetze": "41:9"
@@ -329,7 +353,7 @@
     "ergebnis": "8:6",
     "spielcharakter": "importiert und noch nicht redaktionell bewertet",
     "importStatus": "geprueft",
-    "geprueftAm": "2026-07-18T20:39:15.050Z",
+    "geprueftAm": "2026-07-18T20:39:15.05Z",
     "summen": {
       "baelle": "541:519",
       "saetze": "30:25"
@@ -486,7 +510,7 @@
       "dateiname": "spiel-ttc-2024-2025-1-boetzow-iii-heim-generiert.svg",
       "quelle": "generiert",
       "erstelltVon": "Vera Grafik",
-      "erstelltAm": "2026-07-19T12:06:12.330Z"
+      "erstelltAm": "2026-07-19T12:06:12.33Z"
     },
     "highlights": [
       "Bötzow startet mit dem ersten Doppelpunkt",
