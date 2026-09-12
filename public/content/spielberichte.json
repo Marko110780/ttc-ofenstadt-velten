@@ -1,9 +1,44 @@
 {
   "exportTyp": "ttc-website-spielberichte",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-09-09T21:19:02.686Z",
-  "anzahl": 2,
+  "erstelltAm": "2026-09-12T09:27:37.814Z",
+  "anzahl": 3,
   "spielberichte": [
+    {
+      "id": "import-ttc-vierte-2026-09-11-ttc-ofenstadt-velten-iv-gegen-sv-beetz-sommerfeld-ii",
+      "slug": "2026-09-11-ttc-ofenstadt-velten-iv-gegen-sv-beetz-sommerfeld-ii",
+      "titel": "TTC Ofenstadt Velten IV gegen SV Beetz-Sommerfeld II",
+      "datum": "2026-09-11",
+      "datumDeutsch": "11. September 2026",
+      "mannschaft": "TTC Ofenstadt Velten IV",
+      "liga": "Kreis Oberhavel Pokal 2026/27 - Kreispokal",
+      "gegner": "SV Beetz-Sommerfeld II",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten IV",
+      "gastMannschaft": "SV Beetz-Sommerfeld II",
+      "ergebnis": "5:2",
+      "teaser": "Sieg gegen SV Beetz-Sommerfeld II",
+      "text": "Sieg gegen SV Beetz-Sommerfeld II\n\nTTC Ofenstadt Velten IV hat zu Hause gegen SV Beetz-Sommerfeld II mit 5:2 gewonnen.\n\nDiana Sabisch musste zum Auftakt gegen Stefan Leue eine 2:3-Niederlage hinnehmen. Everest Yang musste gegen Redel Mirko über fünf Sätze gehen. Das 3:2 brachte den Punkt für Velten. Damit stand das Endergebnis von 5:2 fest.\n\nStefan Senftleben und Everest Yang steuerten jeweils zwei Einzelsiege bei. Diana Sabisch steuerte einen Einzelsieg bei.",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": true,
+      "bild": "",
+      "geprueftAm": "",
+      "veroeffentlichtAm": "2026-09-12T09:27:37.796Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-09-12",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "269:230",
+        "saetze": "17:10"
+      }
+    },
     {
       "id": "import-ttc-dritte-2026-09-09-ttc-ofenstadt-velten-iii-gegen-tsv-zehdenick-ii",
       "slug": "2026-09-09-ttc-ofenstadt-velten-iii-gegen-tsv-zehdenick-ii",
