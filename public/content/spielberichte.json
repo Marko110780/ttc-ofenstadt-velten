@@ -1,9 +1,44 @@
 {
   "exportTyp": "ttc-website-spielberichte",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-09-12T09:27:37.814Z",
-  "anzahl": 3,
+  "erstelltAm": "2026-09-16T06:03:59.707Z",
+  "anzahl": 4,
   "spielberichte": [
+    {
+      "id": "import-ttc-erste-2026-09-15-ttv-furstenberg-havel-ii-gegen-ttc-ofenstadt-velten",
+      "slug": "2026-09-15-ttv-furstenberg-havel-ii-gegen-ttc-ofenstadt-velten",
+      "titel": "TTV Fürstenberg/Havel II gegen TTC Ofenstadt Velten",
+      "datum": "2026-09-15",
+      "datumDeutsch": "15. September 2026",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2026/27 - 2. Landesklasse Erwachsene Gruppe 1 TTV Fürstenberg/Havel II",
+      "gegner": "TTV Fürstenberg/Havel II",
+      "heimAuswaerts": "Auswärtsspiel",
+      "heimMannschaft": "TTV Fürstenberg/Havel II",
+      "gastMannschaft": "TTC Ofenstadt Velten",
+      "ergebnis": "6:8",
+      "teaser": "Sieg gegen TTV Fürstenberg/Havel II",
+      "text": "Sieg gegen TTV Fürstenberg/Havel II\n\nTTC Ofenstadt Velten hat auswärts gegen TTV Fürstenberg/Havel II mit 8:6 gewonnen.\n\nMarko Winter und Volker Henning mussten zum Auftakt gegen Hans-Jürgen Gragoll und Maya Wilke eine 0:3-Niederlage hinnehmen. Leon Patrick Henning und Torsten Leue mussten gegen Albek Schaow und Marc-Leon Voß über fünf Sätze gehen. Das 3:2 brachte den Punkt für Velten. Velten war damit beim 1:1 wieder gleichauf.\n\nVolker Henning musste gegen Marc-Leon Voß über fünf Sätze gehen. Das 3:2 brachte die 4:2-Führung. Erst im fünften Satz fiel die Entscheidung zwischen Marko Winter und Hans-Jürgen Gragoll: Der Punkt ging an TTV Fürstenberg/Havel II. Anschließend stand es 4:3 aus Veltener Sicht.\n\nDen Schlusspunkt setzte Leon Patrick Henning: Das 3:0 gegen Marc-Leon Voß machte den 8:6-Endstand komplett.\n\nLeon Patrick Henning und Volker Henning steuerten jeweils drei Einzelsiege bei. Torsten Leue steuerte einen Einzelsieg bei.",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": true,
+      "bild": "",
+      "geprueftAm": "",
+      "veroeffentlichtAm": "2026-09-16T06:03:59.688Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-09-16",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "509:516",
+        "saetze": "26:30"
+      }
+    },
     {
       "id": "import-ttc-vierte-2026-09-11-ttc-ofenstadt-velten-iv-gegen-sv-beetz-sommerfeld-ii",
       "slug": "2026-09-11-ttc-ofenstadt-velten-iv-gegen-sv-beetz-sommerfeld-ii",

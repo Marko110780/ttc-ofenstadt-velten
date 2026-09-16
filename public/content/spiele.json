@@ -1,5 +1,29 @@
 [
   {
+    "id": "import-ttc-erste-2026-09-15-ttv-furstenberg-havel-ii-gegen-ttc-ofenstadt-velten",
+    "teamId": "ttc-erste",
+    "datum": "2026-09-15",
+    "liga": "Landesbereich Ost 2026/27 - 2. Landesklasse Erwachsene Gruppe 1 TTV Fürstenberg/Havel II",
+    "gegner": "TTV Fürstenberg--Havel II",
+    "heimAuswaerts": "Auswärtsspiel",
+    "heimMannschaft": "TTV Fürstenberg--Havel II",
+    "gastMannschaft": "TTC Ofenstadt Velten",
+    "ergebnis": "6:8",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "509:516",
+      "saetze": "26:30"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
     "id": "import-ttc-vierte-2026-09-11-ttc-ofenstadt-velten-iv-gegen-sv-beetz-sommerfeld-ii",
     "teamId": "ttc-vierte",
     "datum": "2026-09-11",
