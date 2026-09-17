@@ -1,5 +1,29 @@
 [
   {
+    "id": "import-ttc-erste-2026-09-16-tt-freunde-botzow-iv-gegen-ttc-ofenstadt-velten-ii",
+    "teamId": "ttc-zweite",
+    "datum": "2026-09-16",
+    "liga": "Kreis Oberhavel 2026/27 - Kreisliga Erwachsene",
+    "gegner": "TT-Freunde Bötzow IV",
+    "heimAuswaerts": "Auswärtsspiel",
+    "heimMannschaft": "TT-Freunde Bötzow IV",
+    "gastMannschaft": "TTC Ofenstadt Velten II",
+    "ergebnis": "1:13",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "428:552",
+      "saetze": "13:41"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
     "id": "import-ttc-erste-2026-09-15-ttv-furstenberg-havel-ii-gegen-ttc-ofenstadt-velten",
     "teamId": "ttc-erste",
     "datum": "2026-09-15",

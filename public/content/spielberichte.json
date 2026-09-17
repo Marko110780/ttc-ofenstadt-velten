@@ -1,9 +1,44 @@
 {
   "exportTyp": "ttc-website-spielberichte",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-09-16T06:03:59.707Z",
-  "anzahl": 4,
+  "erstelltAm": "2026-09-17T10:24:02.077Z",
+  "anzahl": 5,
   "spielberichte": [
+    {
+      "id": "import-ttc-erste-2026-09-16-tt-freunde-botzow-iv-gegen-ttc-ofenstadt-velten-ii",
+      "slug": "2026-09-16-tt-freunde-botzow-iv-gegen-ttc-ofenstadt-velten-ii",
+      "titel": "TT-Freunde Bötzow IV gegen TTC Ofenstadt Velten II",
+      "datum": "2026-09-16",
+      "datumDeutsch": "16. September 2026",
+      "mannschaft": "TTC Ofenstadt Velten II",
+      "liga": "Kreis Oberhavel 2026/27 - Kreisliga Erwachsene",
+      "gegner": "TT-Freunde Bötzow IV",
+      "heimAuswaerts": "Auswärtsspiel",
+      "heimMannschaft": "TT-Freunde Bötzow IV",
+      "gastMannschaft": "TTC Ofenstadt Velten II",
+      "ergebnis": "1:13",
+      "teaser": "Sieg gegen TT-Freunde Bötzow IV",
+      "text": "Sieg gegen TT-Freunde Bötzow IV\n\nTTC Ofenstadt Velten II hat auswärts gegen TT-Freunde Bötzow IV mit 13:1 gewonnen. Mit zwei Siegen in den Doppeln legte Velten einen 2:0-Start hin.\n\nAlexander Schubert und Marcel Gewies lagen gegen Fabian Pahlke und Thomas Fietz bereits mit 1:2 Sätzen zurück. Doch die verbleibenden Durchgänge gingen an Velten: Aus dem Rückstand wurde ein 3:2-Erfolg zum 2:0. Die Entscheidung brachte Alexander Schubert: Mit dem 3:0 gegen Fabian Pahlke war Velten beim 8:1 nicht mehr einzuholen.\n\nSebastian Brychcy, Marcel Gewies und Alexander Schubert gewannen jeweils drei Einzel. Dirk Nentwig ergänzte zwei weitere Einzelsiege.",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": true,
+      "bild": "",
+      "geprueftAm": "",
+      "veroeffentlichtAm": "2026-09-17T10:24:01.980Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-09-17",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "428:552",
+        "saetze": "13:41"
+      }
+    },
     {
       "id": "import-ttc-erste-2026-09-15-ttv-furstenberg-havel-ii-gegen-ttc-ofenstadt-velten",
       "slug": "2026-09-15-ttv-furstenberg-havel-ii-gegen-ttc-ofenstadt-velten",
