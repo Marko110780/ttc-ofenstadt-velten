@@ -1,9 +1,44 @@
 {
   "exportTyp": "ttc-website-spielberichte",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-09-17T10:24:02.077Z",
-  "anzahl": 5,
+  "erstelltAm": "2026-09-21T14:27:46.847Z",
+  "anzahl": 6,
   "spielberichte": [
+    {
+      "id": "import-ttc-vierte-2026-09-18-ttc-ofenstadt-velten-iv-gegen-kremmener-sv-iii",
+      "slug": "2026-09-18-ttc-ofenstadt-velten-iv-gegen-kremmener-sv-iii",
+      "titel": "TTC Ofenstadt Velten IV gegen Kremmener SV III",
+      "datum": "2026-09-18",
+      "datumDeutsch": "18. September 2026",
+      "mannschaft": "TTC Ofenstadt Velten IV",
+      "liga": "Kreis Oberhavel 2026/27 - 5. Kreisklasse Erwachsene",
+      "gegner": "Kremmener SV III",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten IV",
+      "gastMannschaft": "Kremmener SV III",
+      "ergebnis": "11:3",
+      "teaser": "Sieg gegen Kremmener SV III",
+      "text": "Sieg gegen Kremmener SV III\n\nTTC Ofenstadt Velten IV hat zu Hause gegen Kremmener SV III mit 11:3 gewonnen. Mit zwei Siegen in den Doppeln legte Velten einen 2:0-Start hin.\n\nFünf Sätze brauchten Everest Yang und Diana Sabisch gegen Jürgen Gatzky und Enrico Schultz. Das 3:2 führte zum Zwischenstand von 1:0. Die Entscheidung brachte Everest Yang: Mit dem 3:0 gegen Enrico Schultz war Velten beim 8:0 nicht mehr einzuholen.\n\nDiana Sabisch und Everest Yang gewannen jeweils drei Einzel. Gergö Schulz ergänzte zwei weitere Einzelsiege.",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": true,
+      "bild": "",
+      "geprueftAm": "",
+      "veroeffentlichtAm": "2026-09-21T14:27:46.828Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-09-21",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "521:373",
+        "saetze": "36:13"
+      }
+    },
     {
       "id": "import-ttc-erste-2026-09-16-tt-freunde-botzow-iv-gegen-ttc-ofenstadt-velten-ii",
       "slug": "2026-09-16-tt-freunde-botzow-iv-gegen-ttc-ofenstadt-velten-ii",

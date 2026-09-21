@@ -1,5 +1,53 @@
 [
   {
+    "id": "import-ttc-vierte-2026-09-18-ttc-ofenstadt-velten-iv-gegen-kremmener-sv-iii",
+    "teamId": "ttc-vierte",
+    "datum": "2026-09-18",
+    "liga": "Kreis Oberhavel 2026/27 - 5. Kreisklasse Erwachsene",
+    "gegner": "Kremmener SV III",
+    "heimAuswaerts": "Heimspiel",
+    "heimMannschaft": "TTC Ofenstadt Velten IV",
+    "gastMannschaft": "Kremmener SV III",
+    "ergebnis": "11:3",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "521:373",
+      "saetze": "36:13"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
+    "id": "import-ttc-dritte-2026-09-17-sv-beetz-sommerfeld-ii-gegen-ttc-ofenstadt-velten-iii",
+    "teamId": "ttc-dritte",
+    "datum": "2026-09-17",
+    "liga": "Kreis Oberhavel 2026/27 - 4. Kreisklasse Erwachsene",
+    "gegner": "SV Beetz-Sommerfeld II",
+    "heimAuswaerts": "Auswärtsspiel",
+    "heimMannschaft": "SV Beetz-Sommerfeld II",
+    "gastMannschaft": "TTC Ofenstadt Velten III",
+    "ergebnis": "3:11",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "475:572",
+      "saetze": "17:38"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
     "id": "import-ttc-erste-2026-09-16-tt-freunde-botzow-iv-gegen-ttc-ofenstadt-velten-ii",
     "teamId": "ttc-zweite",
     "datum": "2026-09-16",
