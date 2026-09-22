@@ -1,5 +1,29 @@
 [
   {
+    "id": "import-ttc-zweite-2026-09-21-sv-stahl-hennigsdorf-ii-gegen-ttc-ofenstadt-velten-ii",
+    "teamId": "ttc-zweite",
+    "datum": "2026-09-21",
+    "liga": "Kreis Oberhavel 2026/27 - Kreisliga Erwachsene",
+    "gegner": "SV Stahl Hennigsdorf II",
+    "heimAuswaerts": "Auswärtsspiel",
+    "heimMannschaft": "SV Stahl Hennigsdorf II",
+    "gastMannschaft": "TTC Ofenstadt Velten II",
+    "ergebnis": "7:7",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "569:543",
+      "saetze": "30:29"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
     "id": "import-ttc-vierte-2026-09-18-ttc-ofenstadt-velten-iv-gegen-kremmener-sv-iii",
     "teamId": "ttc-vierte",
     "datum": "2026-09-18",

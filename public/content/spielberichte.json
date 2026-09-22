@@ -1,9 +1,44 @@
 {
   "exportTyp": "ttc-website-spielberichte",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-09-21T14:27:46.847Z",
-  "anzahl": 6,
+  "erstelltAm": "2026-09-22T07:28:31.724Z",
+  "anzahl": 7,
   "spielberichte": [
+    {
+      "id": "import-ttc-zweite-2026-09-21-sv-stahl-hennigsdorf-ii-gegen-ttc-ofenstadt-velten-ii",
+      "slug": "2026-09-21-sv-stahl-hennigsdorf-ii-gegen-ttc-ofenstadt-velten-ii",
+      "titel": "SV Stahl Hennigsdorf II gegen TTC Ofenstadt Velten II",
+      "datum": "2026-09-21",
+      "datumDeutsch": "21. September 2026",
+      "mannschaft": "TTC Ofenstadt Velten II",
+      "liga": "Kreis Oberhavel 2026/27 - Kreisliga Erwachsene",
+      "gegner": "SV Stahl Hennigsdorf II",
+      "heimAuswaerts": "Auswärtsspiel",
+      "heimMannschaft": "SV Stahl Hennigsdorf II",
+      "gastMannschaft": "TTC Ofenstadt Velten II",
+      "ergebnis": "7:7",
+      "teaser": "# Zweite rettet mit zwei Fünfsatzsiegen einen Punkt in Hennigsdorf",
+      "text": "# Zweite rettet mit zwei Fünfsatzsiegen einen Punkt in Hennigsdorf\n\nZwei Spiele standen noch aus, beide musste Velten gewinnen. Beim SV Stahl Hennigsdorf II lag unsere Zweite am Montagabend mit 5:7 zurück. Als Dirk Müller im vorletzten Einzel auch noch die ersten beiden Sätze abgab, war die Niederlage nahe. Doch Müller drehte seine Begegnung, anschließend gewann Alexander Schubert ebenfalls im Entscheidungssatz. Nach mehr als drei Stunden stand ein 7:7, für das Velten gleich mehrfach einen Rückstand aufholen musste.\n\nDabei hatte der Abend gut begonnen. Alexander Schubert und Marcel Gewies gewannen ihr Doppel gegen Rainer Krys und Hans-Jürgen Falke mit 3:0. Nach dem Ausgleich der Gastgeber brachte Schubert den TTC mit einem weiteren Dreisatzsieg gegen Krys erneut in Führung. Hennigsdorf antwortete allerdings mit drei Einzelerfolgen in Folge und zog auf 4:2 davon.\n\nDen Anschluss hielt zunächst Dirk Nentwig. Gegen Krys gewann er die ersten beiden Sätze, musste den Ausgleich hinnehmen und setzte sich schließlich mit 11:9 im fünften Durchgang durch. Später holte Marcel Gewies gegen Bennet Schiefelbein einen weiteren wichtigen Fünfsatzpunkt: Sein 12:10 im Entscheidungssatz verkürzte den Rückstand auf 4:5. Dirk Müller legte gegen Falke nach und stellte mit seinem 3:1 wieder Gleichstand her.\n\nDoch die Partie kippte erneut zugunsten der Gastgeber. Nentwig unterlag Schiefelbein denkbar knapp mit 14:16 im fünften Satz. Auch Gewies musste sich Krys über die volle Distanz geschlagen geben. Aus dem 5:5 war ein 5:7 geworden.\n\nNun war Müller gegen Alexander Storjohann gefordert. Mit 3:11 und 9:11 gingen die ersten beiden Sätze an den Hennigsdorfer. Müller gewann jedoch den dritten Durchgang mit 11:6, glich durch ein 11:8 aus und vollendete seine Aufholjagd mit 11:7. Velten hatte noch eine Chance auf das Unentschieden.\n\nDie nutzte Schubert im letzten Einzel gegen Falke. Zweimal ging er nach Sätzen in Führung, zweimal glich sein Gegner aus. Im fünften Durchgang setzte sich Schubert mit 11:7 durch und sicherte damit den siebten Veltener Punkt.\n\nSieben der zwölf Einzel wurden erst im fünften Satz entschieden. Besonders wertvoll waren am Ende die beiden abschließenden Erfolge von Müller und Schubert, die jeweils zwei Einzel gewannen. Nentwig und Gewies steuerten je einen Einzelsieg bei, hinzu kam der gemeinsame Doppelpunkt von Schubert und Gewies. So nahm unsere Zweite aus Hennigsdorf noch einen Punkt mit, obwohl sie kurz vor Schluss bereits mit dem Rücken zur Wand gestanden hatte.",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": true,
+      "bild": "",
+      "geprueftAm": "",
+      "veroeffentlichtAm": "2026-09-22T07:28:31.704Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-09-22",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "569:543",
+        "saetze": "30:29"
+      }
+    },
     {
       "id": "import-ttc-vierte-2026-09-18-ttc-ofenstadt-velten-iv-gegen-kremmener-sv-iii",
       "slug": "2026-09-18-ttc-ofenstadt-velten-iv-gegen-kremmener-sv-iii",
