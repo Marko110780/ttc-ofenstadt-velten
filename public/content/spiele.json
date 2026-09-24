@@ -1,5 +1,29 @@
 [
   {
+    "id": "import-ttc-dritte-2026-09-23-ttc-ofenstadt-velten-iii-gegen-tt-freunde-botzow-viii",
+    "teamId": "ttc-dritte",
+    "datum": "2026-09-23",
+    "liga": "Kreis Oberhavel 2026/27 - 4. Kreisklasse Erwachsene",
+    "gegner": "TT-Freunde Bötzow VIII",
+    "heimAuswaerts": "Heimspiel",
+    "heimMannschaft": "TTC Ofenstadt Velten III",
+    "gastMannschaft": "TT-Freunde Bötzow VIII",
+    "ergebnis": "13:1",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "541:369",
+      "saetze": "40:10"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
     "id": "import-ttc-zweite-2026-09-21-sv-stahl-hennigsdorf-ii-gegen-ttc-ofenstadt-velten-ii",
     "teamId": "ttc-zweite",
     "datum": "2026-09-21",

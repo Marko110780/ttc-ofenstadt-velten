@@ -1,9 +1,44 @@
 {
   "exportTyp": "ttc-website-spielberichte",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-09-22T07:28:31.724Z",
-  "anzahl": 7,
+  "erstelltAm": "2026-09-24T20:41:34.245Z",
+  "anzahl": 8,
   "spielberichte": [
+    {
+      "id": "import-ttc-dritte-2026-09-23-ttc-ofenstadt-velten-iii-gegen-tt-freunde-botzow-viii",
+      "slug": "2026-09-23-ttc-ofenstadt-velten-iii-gegen-tt-freunde-botzow-viii",
+      "titel": "TTC Ofenstadt Velten III gegen TT-Freunde Bötzow VIII",
+      "datum": "2026-09-23",
+      "datumDeutsch": "23. September 2026",
+      "mannschaft": "TTC Ofenstadt Velten III",
+      "liga": "Kreis Oberhavel 2026/27 - 4. Kreisklasse Erwachsene",
+      "gegner": "TT-Freunde Bötzow VIII",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten III",
+      "gastMannschaft": "TT-Freunde Bötzow VIII",
+      "ergebnis": "13:1",
+      "teaser": "## Deutlicher Heimsieg für unsere Dritte gegen Bötzow",
+      "text": "## Deutlicher Heimsieg für unsere Dritte gegen Bötzow\n\nUnsere 3. Mannschaft hat ihren erfolgreichen Saisonstart eindrucksvoll fortgesetzt. Im Heimspiel gegen die **TT-Freunde Bötzow VIII** setzte sich der TTC Ofenstadt Velten III deutlich mit **13:1** durch.\n\nBereits früh zeichnete sich ab, dass an diesem Abend vieles für unsere Mannschaft laufen würde. Mit konzentrierten Auftritten und einer geschlossenen Mannschaftsleistung erspielte sich das Team Punkt um Punkt und ließ den Gästen aus Bötzow nur wenig Raum.\n\nAm Ende stand ein auch in dieser Höhe klarer **13:1-Heimerfolg** auf der Anzeigetafel. Damit knüpft die Dritte direkt an den **11:3-Auswärtssieg beim SV Beetz-Sommerfeld II** aus der Vorwoche an und nimmt weiteren Schwung aus der noch jungen Saison mit.\n\nBereits am **Freitag, 2. Oktober**, wartet die nächste Aufgabe. Dann tritt der TTC Ofenstadt Velten III auswärts beim **SV Blau-Weiß Nassenheide III** an.\n\n🏓 **TTC Ofenstadt Velten III – TT-Freunde Bötzow VIII 13:1**\n\nStarke Leistung, Männer! 💪🏓",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": true,
+      "bild": "",
+      "geprueftAm": "",
+      "veroeffentlichtAm": "2026-09-24T20:41:34.222Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-09-24",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "541:369",
+        "saetze": "40:10"
+      }
+    },
     {
       "id": "import-ttc-zweite-2026-09-21-sv-stahl-hennigsdorf-ii-gegen-ttc-ofenstadt-velten-ii",
       "slug": "2026-09-21-sv-stahl-hennigsdorf-ii-gegen-ttc-ofenstadt-velten-ii",
