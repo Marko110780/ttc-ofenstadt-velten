@@ -1,9 +1,44 @@
 {
   "exportTyp": "ttc-website-spielberichte",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-09-26T10:56:45.146Z",
-  "anzahl": 10,
+  "erstelltAm": "2026-09-26T10:58:08.454Z",
+  "anzahl": 11,
   "spielberichte": [
+    {
+      "id": "import-ttc-erste-2026-09-26-hohen-neuendorfer-sv-ii-gegen-ttc-ofenstadt-velten",
+      "slug": "2026-09-26-hohen-neuendorfer-sv-ii-gegen-ttc-ofenstadt-velten",
+      "titel": "Hohen Neuendorfer SV II gegen TTC Ofenstadt Velten",
+      "datum": "2026-09-26",
+      "datumDeutsch": "26. September 2026",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Kreis Oberhavel 2026/27 - Staffel Süd",
+      "gegner": "Hohen Neuendorfer SV II",
+      "heimAuswaerts": "Auswärtsspiel",
+      "heimMannschaft": "Hohen Neuendorfer SV II",
+      "gastMannschaft": "TTC Ofenstadt Velten",
+      "ergebnis": "7:3",
+      "teaser": "## TTC-Nachwuchs verliert 3:7 in Hohen Neuendorf",
+      "text": "## TTC-Nachwuchs verliert 3:7 in Hohen Neuendorf\n\nUnser Nachwuchs musste sich beim **Hohen Neuendorfer SV II mit 3:7** geschlagen geben. Nach dem verlorenen Eingangsdoppel und zwei weiteren Niederlagen lag Velten zunächst mit 0:3 zurück.\n\nDann sorgte **Liana Winter** für die ersten Veltener Punkte. Sie gewann zunächst ein spannendes Fünfsatzspiel gegen Moritz Rechenberg und setzte sich anschließend auch gegen Sophie Repkow mit 3:1 durch.\n\nBeim Stand von 2:6 hatte **Milan-Benjamin Leue** gegen Moritz Rechenberg ebenfalls die Chance auf einen weiteren Punkt, musste sich aber im fünften Satz knapp mit 9:11 geschlagen geben. Den dritten Veltener Zähler holte erneut **Liana Winter** mit einem 3:1-Erfolg gegen Emma Stolle.\n\nNach gut zwei Stunden stand damit die **3:7-Auswärtsniederlage** fest. Trotz des Ergebnisses zeigte die Mannschaft mehrere enge und umkämpfte Spiele.",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": true,
+      "bild": "",
+      "geprueftAm": "",
+      "veroeffentlichtAm": "2026-09-26T10:58:08.431Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-09-26",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "377:329",
+        "saetze": "25:13"
+      }
+    },
     {
       "id": "import-ttc-vierte-2026-09-25-ttc-ofenstadt-velten-iv-gegen-sg-empor-oranienburg-vi",
       "slug": "2026-09-25-ttc-ofenstadt-velten-iv-gegen-sg-empor-oranienburg-vi",

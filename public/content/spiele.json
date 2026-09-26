@@ -1,5 +1,29 @@
 [
   {
+    "id": "import-ttc-erste-2026-09-26-hohen-neuendorfer-sv-ii-gegen-ttc-ofenstadt-velten",
+    "teamId": "ttc-erste",
+    "datum": "2026-09-26",
+    "liga": "Kreis Oberhavel 2026/27 - Staffel Süd",
+    "gegner": "Hohen Neuendorfer SV II",
+    "heimAuswaerts": "Auswärtsspiel",
+    "heimMannschaft": "Hohen Neuendorfer SV II",
+    "gastMannschaft": "TTC Ofenstadt Velten",
+    "ergebnis": "7:3",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "377:329",
+      "saetze": "25:13"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
     "id": "import-ttc-vierte-2026-09-25-ttc-ofenstadt-velten-iv-gegen-sg-empor-oranienburg-vi",
     "teamId": "ttc-vierte",
     "datum": "2026-09-25",
