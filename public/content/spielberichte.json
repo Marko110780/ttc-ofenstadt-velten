@@ -1,8 +1,8 @@
 {
   "exportTyp": "ttc-website-spielberichte",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-09-26T10:54:36.091Z",
-  "anzahl": 9,
+  "erstelltAm": "2026-09-26T10:56:45.146Z",
+  "anzahl": 10,
   "spielberichte": [
     {
       "id": "import-ttc-vierte-2026-09-25-ttc-ofenstadt-velten-iv-gegen-sg-empor-oranienburg-vi",
@@ -37,6 +37,41 @@
       "summen": {
         "baelle": "520:412",
         "saetze": "34:18"
+      }
+    },
+    {
+      "id": "import-ttc-erste-2026-09-25-ttc-ofenstadt-velten-gegen-ttv-templin",
+      "slug": "2026-09-25-ttc-ofenstadt-velten-gegen-ttv-templin",
+      "titel": "TTC Ofenstadt Velten gegen TTV Templin",
+      "datum": "2026-09-25",
+      "datumDeutsch": "25. September 2026",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2026/27 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "TTV Templin",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten",
+      "gastMannschaft": "TTV Templin",
+      "ergebnis": "2:12",
+      "teaser": "## TTC Ofenstadt Velten unterliegt TTV Templin mit 2:12",
+      "text": "## TTC Ofenstadt Velten unterliegt TTV Templin mit 2:12\n\nUnsere erste Mannschaft musste sich am Freitagabend dem **TTV Templin mit 2:12** geschlagen geben. Nach den beiden verlorenen Eingangsdoppeln geriet Velten früh ins Hintertreffen.\n\nDabei war das Ergebnis deutlicher, als es einige Spiele vermuten lassen. **Marko Winter** hatte sowohl Frank Ruder als auch Jörg Wesolowski jeweils im fünften Satz am Rande einer Niederlage, musste sich aber zweimal äußerst knapp geschlagen geben. Gegen André van Leyen gelang ihm schließlich mit **3:1** einer der beiden Veltener Punkte.\n\nDen zweiten Punkt holte **Leon Patrick Henning**, der sich gegen Frank Ruder mit **3:1** durchsetzen konnte. In den übrigen Begegnungen zeigte sich Templin jedoch insgesamt zu stark und brachte den deutlichen Auswärtssieg schließlich sicher nach Hause.\n\nNach 2 Stunden und 45 Minuten stand das **2:12** fest. Trotz des klaren Endergebnisses waren gerade im oberen Paarkreuz mehrere deutlich engere Spiele dabei, als es das Resultat vermuten lässt.",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": true,
+      "bild": "",
+      "geprueftAm": "",
+      "veroeffentlichtAm": "2026-09-26T10:56:45.121Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-09-26",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "407:533",
+        "saetze": "12:38"
       }
     },
     {
