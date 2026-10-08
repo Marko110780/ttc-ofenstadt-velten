@@ -165,7 +165,7 @@ async function main() {
     if (sortedArticles.length) {
       articleTarget.replaceChildren(...sortedArticles.map(createArticleItem));
     } else {
-      articleTarget.innerHTML = "<p class=\"muted\">Noch keine veröffentlichten Artikel aus dem Redaktionstool vorhanden.</p>";
+      articleTarget.innerHTML = "<p class=\"muted\">Zurzeit gibt es keine aktuellen Meldungen.</p>";
     }
   }
 
@@ -175,7 +175,7 @@ async function main() {
 
   if (!matchTarget) return;
   if (!sortedPreviews.length) {
-    matchTarget.innerHTML = "<p class=\"muted\">Keine kommenden Spiele im Redaktionsstand gefunden.</p>";
+    matchTarget.innerHTML = "<p class=\"muted\">Zurzeit sind keine kommenden Spiele angekündigt.</p>";
     return;
   }
 
