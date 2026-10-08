@@ -796,14 +796,14 @@
     "heimAuswaerts": "Heimspiel",
     "liga": "KK5 Erw",
     "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK5_Erw/gruppe/521539/mannschaft/3101944/TTV_F%C3%BCrstenberg--Havel_V/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-24&date_end=2026-10-15",
-    "gescanntAm": "2026-09-24T20:46:04.420Z",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-10-08&date_end=2026-10-29",
+    "gescanntAm": "2026-10-08T17:17:34.294Z",
     "veroeffentlichungen": [],
     "gegnerKontext": {
       "status": "gefunden",
       "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK5_Erw/gruppe/521539/mannschaft/3101944/TTV_F%C3%BCrstenberg--Havel_V/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-24T20:46:01.958Z",
-      "durchschnittQttr": 921,
+      "gescanntAm": "2026-10-08T17:17:31.387Z",
+      "durchschnittQttr": 910,
       "besteSpieler": [
         {
           "name": "Karl George",
@@ -816,14 +816,14 @@
           "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P135ABB01C/spielerportrait"
         },
         {
+          "name": "Marvin Thäns",
+          "qttrWert": 980,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P14B2A681E/spielerportrait"
+        },
+        {
           "name": "Fabio Protz",
           "qttrWert": 881,
           "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P12501F813/spielerportrait"
-        },
-        {
-          "name": "Kathrin Voß",
-          "qttrWert": 796,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P152A3101A/spielerportrait"
         }
       ],
       "hinweise": [
@@ -843,19 +843,185 @@
     "heimAuswaerts": "Heimspiel",
     "liga": "KL Erw",
     "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Erw/gruppe/521610/mannschaft/3101822/SV_Blau-Wei%C3%9F_Nassenheide/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-24&date_end=2026-10-15",
-    "gescanntAm": "2026-09-24T20:46:04.420Z",
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-10-08&date_end=2026-10-29",
+    "gescanntAm": "2026-10-08T17:17:34.294Z",
     "veroeffentlichungen": [],
     "gegnerKontext": {
-      "status": "keine_daten",
+      "status": "gefunden",
       "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Erw/gruppe/521610/mannschaft/3101822/SV_Blau-Wei%C3%9F_Nassenheide/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-24T20:46:01.901Z",
-      "durchschnittQttr": null,
-      "besteSpieler": [],
+      "gescanntAm": "2026-10-08T17:17:31.704Z",
+      "durchschnittQttr": 1261,
+      "besteSpieler": [
+        {
+          "name": "Mark Spieckermann",
+          "qttrWert": 1315,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P10D1FB817/spielerportrait"
+        },
+        {
+          "name": "Amina Kunicke",
+          "qttrWert": 1305,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PE9D6301E/spielerportrait"
+        },
+        {
+          "name": "Stephan Richter",
+          "qttrWert": 1267,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P132D38012/spielerportrait"
+        },
+        {
+          "name": "Tim Freiberg",
+          "qttrWert": 1242,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PDA4AC026/spielerportrait"
+        }
+      ],
       "hinweise": [
-        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
+        "Hinweis: Der \"TTR-Wert\" ist auf öffentlichen Profilseiten ohne Login nur ein Platzhalter (1234) und nicht der echte aktuelle Wert. Theo verwendet deshalb den öffentlich sichtbaren Q-TTR-Wert (Start-TTR der Saison) als Stärke-Indikator."
       ]
     },
+    "bild": null
+  },
+  {
+    "id": "vorschau-2026-10-16-psv-zehlendorf",
+    "teamId": "",
+    "teamName": "TTC Ofenstadt Velten",
+    "datum": "2026-10-16",
+    "datumDeutsch": "Fr., 16.10.2026",
+    "uhrzeit": "17:30",
+    "gegner": "PSV Zehlendorf",
+    "heimAuswaerts": "Heimspiel",
+    "liga": "KL Jug15",
+    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Jug15/gruppe/534037/mannschaft/3147748/PSV_Zehlendorf/spielerbilanzen/gesamt",
+    "gegnerKontext": {
+      "status": "gefunden",
+      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Jug15/gruppe/534037/mannschaft/3147748/PSV_Zehlendorf/spielerbilanzen/gesamt",
+      "gescanntAm": "2026-10-08T17:17:32.290Z",
+      "durchschnittQttr": 895,
+      "besteSpieler": [
+        {
+          "name": "Luis Dreiocker",
+          "qttrWert": 895,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P14D224019/spielerportrait"
+        },
+        {
+          "name": "Erik Wegel",
+          "qttrWert": 0,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P16B92A02D/spielerportrait"
+        },
+        {
+          "name": "Henrik Wegel",
+          "qttrWert": 0,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P161BA1024/spielerportrait"
+        },
+        {
+          "name": "Ivo Dreiocker",
+          "qttrWert": 0,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P16A93C019/spielerportrait"
+        }
+      ],
+      "hinweise": [
+        "Ivo Dreiocker: Kein Q-TTR-Wert auf der Profilseite gefunden.",
+        "Erik Wegel: Kein Q-TTR-Wert auf der Profilseite gefunden.",
+        "Maximilian Barthel: Kein Q-TTR-Wert auf der Profilseite gefunden.",
+        "Henrik Wegel: Kein Q-TTR-Wert auf der Profilseite gefunden.",
+        "Hinweis: Der \"TTR-Wert\" ist auf öffentlichen Profilseiten ohne Login nur ein Platzhalter (1234) und nicht der echte aktuelle Wert. Theo verwendet deshalb den öffentlich sichtbaren Q-TTR-Wert (Start-TTR der Saison) als Stärke-Indikator."
+      ]
+    },
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-10-08&date_end=2026-10-29",
+    "gescanntAm": "2026-10-08T17:17:34.294Z",
+    "veroeffentlichungen": [],
+    "bild": null
+  },
+  {
+    "id": "vorschau-2026-10-16-the-eagles",
+    "teamId": "",
+    "teamName": "TTC Ofenstadt Velten",
+    "datum": "2026-10-16",
+    "datumDeutsch": "Fr., 16.10.2026",
+    "uhrzeit": "19:30",
+    "gegner": "The Eagles",
+    "heimAuswaerts": "Heimspiel",
+    "liga": "LK2 Erw",
+    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3101407/The_Eagles/spielerbilanzen/gesamt",
+    "gegnerKontext": {
+      "status": "gefunden",
+      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3101407/The_Eagles/spielerbilanzen/gesamt",
+      "gescanntAm": "2026-10-08T17:17:31.920Z",
+      "durchschnittQttr": 1160,
+      "besteSpieler": [
+        {
+          "name": "Silvio Herbig",
+          "qttrWert": 1484,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PAA44201B/spielerportrait"
+        },
+        {
+          "name": "Lars Nennemann",
+          "qttrWert": 1296,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PA59A081E/spielerportrait"
+        },
+        {
+          "name": "Martin Schulz",
+          "qttrWert": 1261,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PDE71E01D/spielerportrait"
+        },
+        {
+          "name": "Jupp Hilgert",
+          "qttrWert": 902,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P11CCCE818/spielerportrait"
+        }
+      ],
+      "hinweise": [
+        "Hinweis: Der \"TTR-Wert\" ist auf öffentlichen Profilseiten ohne Login nur ein Platzhalter (1234) und nicht der echte aktuelle Wert. Theo verwendet deshalb den öffentlich sichtbaren Q-TTR-Wert (Start-TTR der Saison) als Stärke-Indikator."
+      ]
+    },
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-10-08&date_end=2026-10-29",
+    "gescanntAm": "2026-10-08T17:17:34.294Z",
+    "veroeffentlichungen": [],
+    "bild": null
+  },
+  {
+    "id": "vorschau-2026-10-18-motor-hennigsdorf-vii",
+    "teamId": "",
+    "teamName": "TTC Ofenstadt Velten III",
+    "datum": "2026-10-18",
+    "datumDeutsch": "So., 18.10.2026",
+    "uhrzeit": "14:00",
+    "gegner": "Motor Hennigsdorf VII",
+    "heimAuswaerts": "Auswärtsspiel",
+    "liga": "KK4 Erw",
+    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK4_Erw/gruppe/521632/mannschaft/3102064/Motor_Hennigsdorf_VII/spielerbilanzen/gesamt",
+    "gegnerKontext": {
+      "status": "gefunden",
+      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK4_Erw/gruppe/521632/mannschaft/3102064/Motor_Hennigsdorf_VII/spielerbilanzen/gesamt",
+      "gescanntAm": "2026-10-08T17:17:31.617Z",
+      "durchschnittQttr": 1076,
+      "besteSpieler": [
+        {
+          "name": "Christina Bartling",
+          "qttrWert": 1133,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P3C362019/spielerportrait"
+        },
+        {
+          "name": "Ingo Tornus",
+          "qttrWert": 1094,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PFDB4E81F/spielerportrait"
+        },
+        {
+          "name": "Sven Reichmann",
+          "qttrWert": 1081,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P14140501B/spielerportrait"
+        },
+        {
+          "name": "Frank Schönborn",
+          "qttrWert": 1063,
+          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PD0A7081C/spielerportrait"
+        }
+      ],
+      "hinweise": [
+        "Hinweis: Der \"TTR-Wert\" ist auf öffentlichen Profilseiten ohne Login nur ein Platzhalter (1234) und nicht der echte aktuelle Wert. Theo verwendet deshalb den öffentlich sichtbaren Q-TTR-Wert (Start-TTR der Saison) als Stärke-Indikator."
+      ]
+    },
+    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-10-08&date_end=2026-10-29",
+    "gescanntAm": "2026-10-08T17:17:34.294Z",
+    "veroeffentlichungen": [],
     "bild": null
   }
 ]
