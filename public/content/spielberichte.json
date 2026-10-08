@@ -1,9 +1,44 @@
 {
   "exportTyp": "ttc-website-spielberichte",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-10-08T16:18:24.502Z",
-  "anzahl": 14,
+  "erstelltAm": "2026-10-08T16:22:27.506Z",
+  "anzahl": 15,
   "spielberichte": [
+    {
+      "id": "import-ttc-dritte-2026-10-07-ttc-ofenstadt-velten-iii-gegen-ttc-rotation-leegebruch-v",
+      "slug": "2026-10-07-ttc-ofenstadt-velten-iii-gegen-ttc-rotation-leegebruch-v",
+      "titel": "TTC Ofenstadt Velten III gegen TTC Rotation Leegebruch V",
+      "datum": "2026-10-07",
+      "datumDeutsch": "07. Oktober 2026",
+      "mannschaft": "TTC Ofenstadt Velten III",
+      "liga": "Kreis Oberhavel 2026/27 - 4. Kreisklasse Erwachsene",
+      "gegner": "TTC Rotation Leegebruch V",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten III",
+      "gastMannschaft": "TTC Rotation Leegebruch V",
+      "ergebnis": "11:3",
+      "teaser": "Dritter Sieg in Folge! TTC Ofenstadt Velten III lässt Leegebruch beim 11:3 keine Chance\nTTC Ofenstadt Velten III",
+      "text": "Dritter Sieg in Folge! TTC Ofenstadt Velten III lässt Leegebruch beim 11:3 keine Chance\nTTC Ofenstadt Velten III\n\n11: 3\nTTC Rotation Leegebruch V\n\n\nDie dritte Mannschaft des TTC Ofenstadt Velten setzt ihre beeindruckende Erfolgsserie fort! Nach dem deutlichen 13:1 gegen die TT-Freunde Bötzow VIII und dem überzeugenden 10:4-Auswärtssieg in Nassenheide folgte am Mittwochabend der nächste Paukenschlag. Gegen den TTC Rotation Leegebruch V feierte unser Team einen souveränen 11:3-Heimsieg und damit den dritten Erfolg in Folge.\nStarker Auftakt in den Doppeln\nWie schon in den vergangenen Begegnungen erwischte unsere Dritte einen hervorragenden Start.\nStefan Senftleben und Olaf Butzlaff setzten sich gegen Marcus Voigt und Detlef Stamm mit 3:1 durch und sorgten für den ersten Punkt des Abends.\nDeutlich spannender machten es Uwe Schmidt und Alexander Schröter. Gegen Bodo Mey und Kjell Griesbach lagen die beiden bereits mit 0:2 Sätzen zurück. Doch an Aufgeben war nicht zu denken! Mit großem Kampfgeist drehten sie die Begegnung und gewannen die folgenden drei Sätze mit 11:6, 11:8 und 11:6.\nDamit ging unsere Mannschaft erneut mit einer wichtigen 2:0-Führung in die Einzel.\nVelten übernimmt die Kontrolle\nAuch in den Einzeln zeigte sich schnell, dass unsere Jungs an diesem Abend unbedingt gewinnen wollten.\nStefan Senftleben ließ Detlef Stamm beim klaren 3:0 keine Chance. Zwar musste Olaf Butzlaff anschließend gegen den stark aufspielenden Marcus Voigt eine 0:3-Niederlage hinnehmen, doch unser Team ließ sich davon nicht beeindrucken.\nUwe Schmidt dominierte seine Partie gegen Kjell Griesbach und gewann deutlich mit 3:0. Besonders der zweite Satz, den Uwe mit 11:2 für sich entschied, unterstrich seine Überlegenheit.\nAuch Alexander Schröter präsentierte sich in starker Verfassung. Gegen Bodo Mey setzte er sich souverän mit 3:0 durch und baute die Veltener Führung auf 5:1 aus.\nGeschlossene Mannschaftsleistung sichert den Sieg\nMarcus Voigt erwies sich an diesem Abend als stärkster Leegebrucher Spieler. Auch Stefan Senftleben musste sich ihm in drei Sätzen geschlagen geben.\nDoch in den folgenden Begegnungen übernahm Velten wieder das Kommando.\nOlaf Butzlaff bezwang Detlef Stamm mit 3:0, während Uwe Schmidt gegen Bodo Mey einen 3:1-Erfolg einfuhr. Alexander Schröter ließ Kjell Griesbach anschließend beim klaren 3:0 keine Chance.\nBeim Zwischenstand von 8:2 war die Vorentscheidung bereits gefallen.\nZwar konnte Marcus Voigt gegen Uwe Schmidt noch einmal für Leegebruch punkten, doch die letzten drei Begegnungen gehörten vollständig unserem TTC.\nStefan Senftleben gewann gegen Bodo Mey mit 3:1, Olaf Butzlaff bezwang Kjell Griesbach ebenfalls mit 3:1 und Alexander Schröter setzte mit einem deutlichen 3:0 gegen Detlef Stamm den Schlusspunkt zum 11:3-Endstand.\nFazit: Unsere Dritte bleibt auf Erfolgskurs!\nBesonders erfreulich war erneut die geschlossene Mannschaftsleistung. Alle vier Spieler trugen mit Einzelsiegen zum Erfolg bei, und auch beide Doppel gingen an unseren TTC.\nSpieler\tEinzel\tDoppel\nStefan Senftleben\t2:1\t1:0\nOlaf Butzlaff\t2:1\t1:0\nUwe Schmidt\t2:1\t1:0\nAlexander Schröter\t3:0\t1:0\nBesonders hervorzuheben ist Alexander Schröter, der mit drei Einzelsiegen und einem gewonnenen Doppel eine makellose Bilanz vorweisen konnte.\nDie letzten drei Begegnungen unserer Dritten:\nGegen Bötzow VIII\n13:1\n\n\nIn Nassenheide III\n10:4\n\n\nGegen Leegebruch V\n11:3\n\n\nGesamtbilanz\n34:8\n\n\nMit 34 gewonnenen und nur acht verlorenen Partien aus den vergangenen drei Begegnungen hat unsere Dritte eindrucksvoll ihre Stärke bewiesen.\nHerzlichen Glückwunsch an Stefan, Olaf, Uwe und Alexander! Drei Spiele, drei Siege – weiter so, Männer! 🏓🔥",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": true,
+      "bild": "",
+      "geprueftAm": "",
+      "veroeffentlichtAm": "2026-10-08T16:22:27.478Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-10-08",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "490:386",
+        "saetze": "33:15"
+      }
+    },
     {
       "id": "import-ttc-erste-2026-10-02-tt-freunde-botzow-iii-gegen-ttc-ofenstadt-velten",
       "slug": "2026-10-02-tt-freunde-botzow-iii-gegen-ttc-ofenstadt-velten",

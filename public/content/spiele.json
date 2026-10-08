@@ -1,5 +1,29 @@
 [
   {
+    "id": "import-ttc-dritte-2026-10-07-ttc-ofenstadt-velten-iii-gegen-ttc-rotation-leegebruch-v",
+    "teamId": "ttc-dritte",
+    "datum": "2026-10-07",
+    "liga": "Kreis Oberhavel 2026/27 - 4. Kreisklasse Erwachsene",
+    "gegner": "TTC Rotation Leegebruch V",
+    "heimAuswaerts": "Heimspiel",
+    "heimMannschaft": "TTC Ofenstadt Velten III",
+    "gastMannschaft": "TTC Rotation Leegebruch V",
+    "ergebnis": "11:3",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "490:386",
+      "saetze": "33:15"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
     "id": "import-ttc-erste-2026-10-02-tt-freunde-botzow-iii-gegen-ttc-ofenstadt-velten",
     "teamId": "ttc-erste",
     "datum": "2026-10-02",
