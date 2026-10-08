@@ -24,6 +24,30 @@
     ]
   },
   {
+    "id": "import-ttc-dritte-2026-10-02-sv-blau-weiss-nassenheide-iii-gegen-ttc-ofenstadt-velten-iii",
+    "teamId": "ttc-dritte",
+    "datum": "2026-10-02",
+    "liga": "Kreis Oberhavel 2026/27 - 4. Kreisklasse Erwachsene",
+    "gegner": "SV Blau-Weiß Nassenheide III",
+    "heimAuswaerts": "Auswärtsspiel",
+    "heimMannschaft": "SV Blau-Weiß Nassenheide III",
+    "gastMannschaft": "TTC Ofenstadt Velten III",
+    "ergebnis": "4:10",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "551:597",
+      "saetze": "23:37"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
     "id": "import-ttc-erste-2026-09-26-hohen-neuendorfer-sv-ii-gegen-ttc-ofenstadt-velten",
     "teamId": "ttc-erste",
     "datum": "2026-09-26",

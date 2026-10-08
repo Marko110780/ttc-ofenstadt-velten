@@ -1,8 +1,8 @@
 {
   "exportTyp": "ttc-website-spielberichte",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-10-08T16:12:07.863Z",
-  "anzahl": 12,
+  "erstelltAm": "2026-10-08T16:15:34.247Z",
+  "anzahl": 13,
   "spielberichte": [
     {
       "id": "import-ttc-erste-2026-10-02-tt-freunde-botzow-iii-gegen-ttc-ofenstadt-velten",
@@ -37,6 +37,41 @@
       "summen": {
         "baelle": "556:491",
         "saetze": "37:22"
+      }
+    },
+    {
+      "id": "import-ttc-dritte-2026-10-02-sv-blau-weiss-nassenheide-iii-gegen-ttc-ofenstadt-velten-iii",
+      "slug": "2026-10-02-sv-blau-wei-nassenheide-iii-gegen-ttc-ofenstadt-velten-iii",
+      "titel": "SV Blau-Weiß Nassenheide III gegen TTC Ofenstadt Velten III",
+      "datum": "2026-10-02",
+      "datumDeutsch": "02. Oktober 2026",
+      "mannschaft": "TTC Ofenstadt Velten III",
+      "liga": "Kreis Oberhavel 2026/27 - 4. Kreisklasse Erwachsene",
+      "gegner": "SV Blau-Weiß Nassenheide III",
+      "heimAuswaerts": "Auswärtsspiel",
+      "heimMannschaft": "SV Blau-Weiß Nassenheide III",
+      "gastMannschaft": "TTC Ofenstadt Velten III",
+      "ergebnis": "4:10",
+      "teaser": "TTC Ofenstadt Velten III siegt mit 10:4 in Nassenheide – starke Mannschaftsleistung!\nSV Blau-Weiß Nassenheide III",
+      "text": "TTC Ofenstadt Velten III siegt mit 10:4 in Nassenheide – starke Mannschaftsleistung!\nSV Blau-Weiß Nassenheide III\n\n4: 10\nTTC Ofenstadt Velten III\n\n\nDie dritte Mannschaft des TTC Ofenstadt Velten bleibt auf Erfolgskurs! Nach dem deutlichen 13:1-Heimsieg gegen die TT-Freunde Bötzow VIII gelang unserem Team am Freitagabend auch auswärts beim SV Blau-Weiß Nassenheide III ein überzeugender 10:4-Erfolg. Dabei war die Begegnung spannender, als es das Endergebnis vermuten lässt.\nPerfekter Auftakt in den Doppeln\nUnsere Mannschaft erwischte einen hervorragenden Start. Stefan Senftleben und Olaf Butzlaff setzten sich gegen Steffen Tolg und Uwe Bölke mit 3:1 durch.\nNoch spannender machten es Uwe Schmidt und Alexander Schröter. Nach einem 1:2-Satzrückstand kämpfte sich das Duo zurück und entschied den fünften Satz mit 12:10 für sich. Damit stand eine wichtige 2:0-Führung auf der Anzeigetafel.\nHart umkämpfte Einzel mit starken Leistungen\nIn den anschließenden Einzeln entwickelte sich ein abwechslungsreicher Schlagabtausch. Besonders Stefan Senftleben überzeugte zunächst mit einem klaren 3:0 gegen Uwe Bölke. Auch Uwe Schmidt ließ Martin Schottstädt beim 3:0-Erfolg keine Chance, wobei er die ersten beiden Sätze nervenstark mit 12:10 und 16:14 gewann.\nOlaf Butzlaff bewies ebenfalls starke Nerven. Gegen Uwe Bölke ging es über die volle Distanz. Den entscheidenden fünften Satz sicherte sich Olaf mit 15:13 und holte damit einen wichtigen Punkt für unser Team.\nAuch Alexander Schröter musste gegen Martin Schottstädt über fünf Sätze gehen, behielt aber mit 11:8 im Entscheidungssatz die Oberhand.\nZwischenzeitlich verkürzten die Gastgeber auf 4:6 und hielten die Begegnung damit offen. Doch unsere Mannschaft ließ sich nicht aus der Ruhe bringen.\nVier Siege zum Abschluss\nIn der entscheidenden Phase zeigte der TTC Ofenstadt Velten III seine ganze Stärke.\nUwe Schmidt bezwang Steffen Tolg nach einem spannenden Fünfsatzmatch mit 3:2. Alexander Schröter ließ anschließend Uwe Bölke beim deutlichen 3:0 keine Chance.\nDen Schlusspunkt setzte Olaf Butzlaff, der sich gegen Martin Schottstädt mit 3:1 durchsetzte und damit den 10:4-Auswärtssieg perfekt machte!\nFazit: Geschlossene Mannschaftsleistung\nBesonders erfreulich war die Ausgeglichenheit unseres Teams. Alle vier Spieler trugen mit Einzelsiegen zum Erfolg bei.\nSpieler\tEinzel\tDoppel\nStefan Senftleben\t1:2\t1:0\nOlaf Butzlaff\t2:1\t1:0\nUwe Schmidt\t3:0\t1:0\nAlexander Schröter\t2:1\t1:0\nMit zwei gewonnenen Doppeln und einer starken Leistung in den Einzeln sicherte sich unsere dritte Mannschaft verdient beide Punkte.\nNach dem 13:1-Erfolg gegen Bötzow VIII ist dies bereits der nächste deutliche Sieg für unsere Dritte. So kann es weitergehen!\nGlückwunsch an Stefan, Olaf, Uwe und Alexander! Weiter so, Männer! 🏓💪",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": true,
+      "bild": "",
+      "geprueftAm": "",
+      "veroeffentlichtAm": "2026-10-08T16:15:34.221Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-10-08",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "551:597",
+        "saetze": "23:37"
       }
     },
     {
