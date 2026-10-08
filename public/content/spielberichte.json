@@ -1,9 +1,44 @@
 {
   "exportTyp": "ttc-website-spielberichte",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-09-26T10:58:08.454Z",
-  "anzahl": 11,
+  "erstelltAm": "2026-10-08T16:12:07.863Z",
+  "anzahl": 12,
   "spielberichte": [
+    {
+      "id": "import-ttc-erste-2026-10-02-tt-freunde-botzow-iii-gegen-ttc-ofenstadt-velten",
+      "slug": "2026-10-02-tt-freunde-botzow-iii-gegen-ttc-ofenstadt-velten",
+      "titel": "TT-Freunde Bötzow III gegen TTC Ofenstadt Velten",
+      "datum": "2026-10-02",
+      "datumDeutsch": "02. Oktober 2026",
+      "mannschaft": "TTC Ofenstadt Velten",
+      "liga": "Landesbereich Ost 2026/27 - 2. Landesklasse Erwachsene Gruppe 1",
+      "gegner": "TT-Freunde Bötzow III",
+      "heimAuswaerts": "Auswärtsspiel",
+      "heimMannschaft": "TT-Freunde Bötzow III",
+      "gastMannschaft": "TTC Ofenstadt Velten",
+      "ergebnis": "10:4",
+      "teaser": "Starker Auftakt, bitteres Ende – TTC Ofenstadt Velten unterliegt in Bötzow mit 4:10\nTT-Freunde Bötzow III",
+      "text": "Starker Auftakt, bitteres Ende – TTC Ofenstadt Velten unterliegt in Bötzow mit 4:10\nTT-Freunde Bötzow III\n\n10: 4\nTTC Ofenstadt Velten\n\n\nDer TTC Ofenstadt Velten musste am Freitagabend bei den TT-Freunden Bötzow III eine deutliche 4:10-Niederlage hinnehmen. Dabei sah es zu Beginn der Begegnung noch nach einem erfolgreichen Auswärtsspiel aus. Mit einer starken Anfangsphase und einer zwischenzeitlichen 4:2-Führung brachte unser Team die Gastgeber zunächst ordentlich ins Schwitzen.\nTraumstart in den Doppeln\nBesser hätte die Partie kaum beginnen können. Beide Veltener Doppel bewiesen Nervenstärke und setzten sich jeweils im fünften Satz durch. Marko Winter und Volker Henning gewannen ebenso mit 3:2 wie Leon Patrick Henning und Kevin Sieverding. Damit ging unser TTC direkt mit 2:0 in Führung.\nAuch in den anschließenden Einzeln blieb es zunächst spannend. Marko Winter bezwang Karl-Ernst Kraack in fünf Sätzen, während Volker Henning gegen Michael Schumacher einen überzeugenden 3:1-Erfolg einfuhr. Nach sechs Begegnungen stand eine vielversprechende 4:2-Führung für Velten auf der Anzeigetafel.\nBötzow dreht die Partie\nDoch anschließend kippte die Begegnung. Die Gastgeber fanden zunehmend besser ins Spiel und entschieden vier Einzel in Folge für sich. Aus der Veltener Führung wurde ein 4:6-Rückstand.\nBesonders ärgerlich verlief die nächste Begegnung von Marko Winter gegen Martin Dreiocker. Trotz einer zwischenzeitlichen 2:1-Satzführung musste sich Winter noch mit 2:3 geschlagen geben.\nAuch Kevin Sieverding gegen Karl-Ernst Kraack und Leon Patrick Henning gegen Michael Schumacher lieferten sich packende Fünfsatzduelle. Beide Veltener kämpften bis zum Schluss, mussten jedoch jeweils eine knappe 2:3-Niederlage akzeptieren. Besonders bitter: Leon Patrick Henning verlor den entscheidenden fünften Satz denkbar knapp mit 10:12.\nAm Ende stand eine 4:10-Niederlage, die angesichts des starken Auftakts und mehrerer hart umkämpfter Begegnungen besonders schmerzte.\nFazit\nDas Ergebnis fällt deutlicher aus, als es die erste Hälfte des Spielverlaufs vermuten ließ. Nach der 4:2-Führung gelang unserem Team leider kein weiterer Punktgewinn. Gleich fünf Einzel gingen über die volle Distanz von fünf Sätzen – vier davon entschieden die Gastgeber für sich.\nTrotz der Niederlage nimmt der TTC Ofenstadt Velten wichtige Erkenntnisse mit. Der starke Start hat gezeigt, dass die Mannschaft auch auswärts konkurrenzfähig ist. Nun gilt es, die guten Leistungen über die gesamte Spieldauer abzurufen und in den kommenden Begegnungen wieder zu punkten.\nKopf hoch, Männer! Weiter geht's! 🏓🔥",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": true,
+      "bild": "",
+      "geprueftAm": "",
+      "veroeffentlichtAm": "2026-10-08T16:12:07.838Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-10-08",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "556:491",
+        "saetze": "37:22"
+      }
+    },
     {
       "id": "import-ttc-erste-2026-09-26-hohen-neuendorfer-sv-ii-gegen-ttc-ofenstadt-velten",
       "slug": "2026-09-26-hohen-neuendorfer-sv-ii-gegen-ttc-ofenstadt-velten",

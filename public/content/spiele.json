@@ -1,5 +1,29 @@
 [
   {
+    "id": "import-ttc-erste-2026-10-02-tt-freunde-botzow-iii-gegen-ttc-ofenstadt-velten",
+    "teamId": "ttc-erste",
+    "datum": "2026-10-02",
+    "liga": "Landesbereich Ost 2026/27 - 2. Landesklasse Erwachsene Gruppe 1",
+    "gegner": "TT-Freunde Bötzow III",
+    "heimAuswaerts": "Auswärtsspiel",
+    "heimMannschaft": "TT-Freunde Bötzow III",
+    "gastMannschaft": "TTC Ofenstadt Velten",
+    "ergebnis": "10:4",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "556:491",
+      "saetze": "37:22"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
     "id": "import-ttc-erste-2026-09-26-hohen-neuendorfer-sv-ii-gegen-ttc-ofenstadt-velten",
     "teamId": "ttc-erste",
     "datum": "2026-09-26",
