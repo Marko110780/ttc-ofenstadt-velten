@@ -1,8 +1,8 @@
 {
   "exportTyp": "ttc-website-spielberichte",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-10-08T16:15:34.247Z",
-  "anzahl": 13,
+  "erstelltAm": "2026-10-08T16:18:24.502Z",
+  "anzahl": 14,
   "spielberichte": [
     {
       "id": "import-ttc-erste-2026-10-02-tt-freunde-botzow-iii-gegen-ttc-ofenstadt-velten",
@@ -72,6 +72,41 @@
       "summen": {
         "baelle": "551:597",
         "saetze": "23:37"
+      }
+    },
+    {
+      "id": "import-ttc-vierte-2026-10-01-tsv-zehdenick-iv-gegen-ttc-ofenstadt-velten-iv",
+      "slug": "2026-10-01-tsv-zehdenick-iv-gegen-ttc-ofenstadt-velten-iv",
+      "titel": "TSV Zehdenick IV gegen TTC Ofenstadt Velten IV",
+      "datum": "2026-10-01",
+      "datumDeutsch": "01. Oktober 2026",
+      "mannschaft": "TTC Ofenstadt Velten IV",
+      "liga": "Kreis Oberhavel 2026/27 - 5. Kreisklasse Erwachsene",
+      "gegner": "TSV Zehdenick IV",
+      "heimAuswaerts": "Auswärtsspiel",
+      "heimMannschaft": "TSV Zehdenick IV",
+      "gastMannschaft": "TTC Ofenstadt Velten IV",
+      "ergebnis": "1:13",
+      "teaser": "Kantersieg in Zehdenick! TTC Ofenstadt Velten IV feiert überragenden 13:1-Auswärtserfolg\nTSV Zehdenick IV",
+      "text": "Kantersieg in Zehdenick! TTC Ofenstadt Velten IV feiert überragenden 13:1-Auswärtserfolg\nTSV Zehdenick IV\n\n1: 13\nTTC Ofenstadt Velten IV\n\n\nWas für ein Auftritt unserer vierten Mannschaft! Am Donnerstagabend ließ der TTC Ofenstadt Velten IV beim TSV Zehdenick IV kaum etwas anbrennen und sicherte sich mit einem beeindruckenden 13:1-Auswärtssieg die nächsten beiden Punkte in der 5. Kreisklasse.\nNach dem 10:4-Heimerfolg gegen die SG Empor Oranienburg VI in der Vorwoche legte unser Team noch einmal kräftig nach und überzeugte mit einer geschlossenen Mannschaftsleistung.\nTraumstart: Beide Doppel gehen nach Velten\nBereits zu Beginn machte unsere Vierte deutlich, dass sie die Punkte unbedingt mit nach Hause nehmen wollte.\nOlaf Butzlaff und Uwe Schmidt ließen Heiko Baumert und Burkhard Figul beim klaren 3:0-Erfolg keine Chance.\nAuch Stephan Hamburger und Gergö Schulz präsentierten sich bestens eingespielt und bezwangen Reinhard Hübner und Stacy Augstein ebenfalls souverän mit 3:0.\nDamit ging unser TTC früh mit 2:0 in Führung.\nVelten baut die Führung konsequent aus\nIn den anschließenden Einzeln setzte sich die starke Leistung nahtlos fort.\nUwe Schmidt eröffnete mit einem 3:1-Erfolg gegen Heiko Baumert, während Olaf Butzlaff Reinhard Hübner ebenfalls mit 3:1 bezwang.\nBesonders spannend wurde es bei Gergö Schulz. Gegen Stacy Augstein entwickelte sich ein hart umkämpftes Fünfsatzmatch. Nachdem Gergö den vierten Satz mit 15:17 abgeben musste, behielt er im Entscheidungssatz die Nerven und gewann mit 11:8.\nStephan Hamburger machte mit einem deutlichen 3:0 gegen Burkhard Figul das halbe Dutzend voll.\nAuch Olaf Butzlaff bewies gegen Heiko Baumert Nervenstärke. Drei der vier Sätze wurden erst in der Verlängerung entschieden. Besonders beeindruckend war der vierte Satz, den Olaf mit 17:15 gewann.\nNach sieben Begegnungen führte unsere Mannschaft bereits mit 7:0!\nEin Ehrenpunkt für Zehdenick – dann geht es weiter\nReinhard Hübner gelang gegen Uwe Schmidt mit einem 3:1-Erfolg der einzige Punktgewinn für die Gastgeber.\nDoch unsere Mannschaft ließ sich davon nicht beeindrucken.\nStephan Hamburger setzte sich gegen Stacy Augstein mit 3:1 durch, während Gergö Schulz gegen Burkhard Figul mit einem klaren 3:0 überzeugte.\nAnschließend ließ Olaf Butzlaff gegen Stacy Augstein beim 3:0 nichts anbrennen. Stephan Hamburger steuerte gegen Heiko Baumert einen weiteren 3:1-Sieg bei.\nFür einen spannenden Moment sorgte noch einmal Gergö Schulz gegen Reinhard Hübner. Nach einem 1:2-Satzrückstand kämpfte sich Gergö zurück und gewann die Partie im fünften Satz mit 11:6.\nDen Schlusspunkt setzte Uwe Schmidt, der Burkhard Figul mit 3:0 bezwang und damit den deutlichen 13:1-Endstand perfekt machte.\nFazit: Eine rundum starke Mannschaftsleistung\nUnsere vierte Mannschaft zeigte sich in Zehdenick von ihrer besten Seite. Besonders erfreulich: Alle vier Spieler steuerten jeweils drei Einzelsiege beziehungsweise zwei oder drei Einzelsiege bei und gewannen zudem ihre Doppel.\nSpieler\tEinzel\tDoppel\nOlaf Butzlaff\t3:0\t1:0\nUwe Schmidt\t2:1\t1:0\nStephan Hamburger\t3:0\t1:0\nGergö Schulz\t3:0\t1:0\nMit insgesamt 40:12 gewonnenen Sätzen unterstrich unser Team seine Überlegenheit.\nNach dem 10:4 gegen Oranienburg und dem jetzigen 13:1 in Zehdenick stehen aus diesen beiden Begegnungen beeindruckende 23 gewonnene Einzel- und Doppelpartien bei nur fünf Niederlagen zu Buche.\nHerzlichen Glückwunsch an Olaf, Uwe, Stephan und Gergö! So kann es weitergehen! 🏓🔥",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": true,
+      "bild": "",
+      "geprueftAm": "",
+      "veroeffentlichtAm": "2026-10-08T16:18:24.475Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-10-08",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "391:549",
+        "saetze": "12:40"
       }
     },
     {

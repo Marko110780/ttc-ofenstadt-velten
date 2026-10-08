@@ -48,6 +48,30 @@
     ]
   },
   {
+    "id": "import-ttc-vierte-2026-10-01-tsv-zehdenick-iv-gegen-ttc-ofenstadt-velten-iv",
+    "teamId": "ttc-vierte",
+    "datum": "2026-10-01",
+    "liga": "Kreis Oberhavel 2026/27 - 5. Kreisklasse Erwachsene",
+    "gegner": "TSV Zehdenick IV",
+    "heimAuswaerts": "Auswärtsspiel",
+    "heimMannschaft": "TSV Zehdenick IV",
+    "gastMannschaft": "TTC Ofenstadt Velten IV",
+    "ergebnis": "1:13",
+    "spielcharakter": "importiert und noch nicht redaktionell bewertet",
+    "importStatus": "importiert_ungeprueft",
+    "geprueftAm": "",
+    "summen": {
+      "baelle": "391:549",
+      "saetze": "12:40"
+    },
+    "bild": null,
+    "highlights": [
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt",
+      "aus eingefügtem Spielbericht erkannt"
+    ]
+  },
+  {
     "id": "import-ttc-erste-2026-09-26-hohen-neuendorfer-sv-ii-gegen-ttc-ofenstadt-velten",
     "teamId": "ttc-erste",
     "datum": "2026-09-26",
