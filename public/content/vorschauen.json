@@ -743,7 +743,7 @@
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten",
     "datum": "2026-10-09",
-    "datumDeutsch": "Fr., 09.10.2026",
+    "datumDeutsch": "2026-10-09",
     "uhrzeit": "19:30",
     "gegner": "TTC Rotation Leegebruch III",
     "heimAuswaerts": "Heimspiel",
@@ -783,6 +783,10 @@
         "Hinweis: Der \"TTR-Wert\" ist auf öffentlichen Profilseiten ohne Login nur ein Platzhalter (1234) und nicht der echte aktuelle Wert. Theo verwendet deshalb den öffentlich sichtbaren Q-TTR-Wert (Start-TTR der Saison) als Stärke-Indikator."
       ]
     },
+    "spielStatus": "abgesagt",
+    "websiteSichtbar": true,
+    "manuellVerwaltet": true,
+    "aktualisiertAm": "2026-10-09T07:54:01.290Z",
     "bild": null
   },
   {
