@@ -47,6 +47,7 @@ function todayIso() {
 }
 
 function isUpcomingPreview(preview) {
+  if (preview.websiteSichtbar === false) return false;
   const date = String(preview?.datum || "");
   return date >= todayIso();
 }
@@ -140,7 +141,7 @@ function createMatchItem(preview) {
       <span>${decodeText(preview.liga || "Liga offen")}</span>
     </div>
     <h2>${decodeText(preview.teamName || "TTC Ofenstadt Velten")} ${isHome ? "gegen" : "bei"} ${decodeText(preview.gegner || "Gegner offen")}</h2>
-    <p class="muted">${formatDate(preview.datum)} · ${formatTime(preview.uhrzeit)}</p>
+    <p class="muted">${preview.spielStatus === "abgesagt" ? "Abgesagt · " : preview.spielStatus === "verlegt" ? "Neuer Termin · " : ""}${formatDate(preview.datum)} · ${formatTime(preview.uhrzeit)}</p>
   `;
 
   return article;

@@ -273,7 +273,7 @@ async function main() {
     .filter((sponsor) => sponsor.logo)
     .sort((a, b) => Number(a.sortierung ?? 0) - Number(b.sortierung ?? 0) || String(a.name ?? "").localeCompare(String(b.name ?? ""), "de"));
 
-  const normalizedPreviews = sortByDateAsc(previews).map((preview) => ({
+  const normalizedPreviews = sortByDateAsc(previews.filter((preview) => preview.websiteSichtbar !== false)).map((preview) => ({
     ...preview,
     bild: normalizeImage(preview.bild)
   }));
