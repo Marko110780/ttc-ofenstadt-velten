@@ -1,9 +1,44 @@
 {
   "exportTyp": "ttc-website-spielberichte",
   "verein": "TTC Ofenstadt Velten",
-  "erstelltAm": "2026-10-09T07:54:01.327Z",
-  "anzahl": 15,
+  "erstelltAm": "2026-10-09T22:47:09.391Z",
+  "anzahl": 16,
   "spielberichte": [
+    {
+      "id": "import-ttc-vierte-2026-10-09-ttc-ofenstadt-velten-iv-gegen-ttv-furstenberg-havel-v",
+      "slug": "2026-10-09-ttc-ofenstadt-velten-iv-gegen-ttv-furstenberg-havel-v",
+      "titel": "TTC Ofenstadt Velten IV gegen TTV Fürstenberg/Havel V",
+      "datum": "2026-10-09",
+      "datumDeutsch": "09. Oktober 2026",
+      "mannschaft": "TTC Ofenstadt Velten IV",
+      "liga": "Kreis Oberhavel 2026/27 - 5. Kreisklasse Erwachsene",
+      "gegner": "TTV Fürstenberg/Havel V",
+      "heimAuswaerts": "Heimspiel",
+      "heimMannschaft": "TTC Ofenstadt Velten IV",
+      "gastMannschaft": "TTV Fürstenberg/Havel V",
+      "ergebnis": "14:0",
+      "teaser": "🏓 TTC Ofenstadt Velten IV feiert überragenden 14:0-Heimsieg!\n5. Kreisklasse · Saison 2026/27",
+      "text": "🏓 TTC Ofenstadt Velten IV feiert überragenden 14:0-Heimsieg!\n5. Kreisklasse · Saison 2026/27\n\nTTC Ofenstadt Velten IV\n\n14: 0\nTTV Fürstenberg/Havel V\n\n\nFreitag, 9. Oktober 2026 · Velten\nMakelloser Auftritt unserer vierten Mannschaft! Am Freitagabend ließ der TTC Ofenstadt Velten IV dem TTV Fürstenberg/Havel V in der heimischen Halle nicht den Hauch einer Chance. Mit einem beeindruckenden 14:0-Erfolg sicherte sich unser Team einen rundum gelungenen Tischtennisabend.\nBereits in den Doppeln stellten unsere Veltener die Weichen auf Sieg. Everest Yang und Diana Sabisch sowie Stephan Hamburger und Gergö Schulz gewannen ihre Begegnungen jeweils souverän mit 3:0 und sorgten für die frühe 2:0-Führung.\nAuch in den anschließenden Einzeln ließ unsere Mannschaft nichts anbrennen. Diana Sabisch, Everest Yang, Stephan Hamburger und Gergö Schulz überzeugten mit konzentrierten Leistungen und entschieden sämtliche zwölf Einzel für sich.\nBesonders beeindruckend: Von insgesamt 44 gespielten Sätzen gingen 42 an den TTC Ofenstadt Velten. Lediglich zwei Sätze konnten die Gäste aus Fürstenberg für sich verbuchen.\nEine geschlossene Mannschaftsleistung\nDiana Sabisch\t3:0 Einzel · 1:0 Doppel\nEverest Yang\t3:0 Einzel · 1:0 Doppel\nStephan Hamburger\t3:0 Einzel · 1:0 Doppel\nGergö Schulz\t3:0 Einzel · 1:0 Doppel\n\nNach gerade einmal 1 Stunde und 47 Minuten war der deutliche Heimsieg perfekt.\nHerzlichen Glückwunsch an unsere vierte Mannschaft zu dieser beeindruckenden Leistung! 💪🏓",
+      "autor": "Rudi",
+      "agentId": "rudi-website",
+      "redaktionsquelle": "Rudi im Redaktionstool",
+      "websiteVeroeffentlicht": true,
+      "bild": "",
+      "geprueftAm": "",
+      "veroeffentlichtAm": "2026-10-09T22:47:09.362Z",
+      "quellen": [
+        {
+          "typ": "copy_paste",
+          "name": "myTischtennis Spielbericht",
+          "abgerufenAm": "2026-10-09",
+          "status": "von Marko eingefügt"
+        }
+      ],
+      "summen": {
+        "baelle": "477:239",
+        "saetze": "42:2"
+      }
+    },
     {
       "id": "import-ttc-dritte-2026-10-07-ttc-ofenstadt-velten-iii-gegen-ttc-rotation-leegebruch-v",
       "slug": "2026-10-07-ttc-ofenstadt-velten-iii-gegen-ttc-rotation-leegebruch-v",
