@@ -1,9 +1,4 @@
 {
-  "sourceRoot": "G:\\Projekte\\TTC-Spielbericht-Agent\\data",
-  "websiteExportPath": "G:\\Projekte\\TTC-Spielbericht-Agent\\public\\exports\\website-spielberichte.json",
-  "websiteArtikelExportPath": "G:\\Projekte\\TTC-Spielbericht-Agent\\public\\exports\\website-artikel.json",
-  "websiteSponsorenExportPath": "G:\\Projekte\\TTC-Spielbericht-Agent\\public\\exports\\website-sponsoren.json",
-  "websiteGalerieExportPath": "G:\\Projekte\\TTC-Spielbericht-Agent\\public\\exports\\website-galerie.json",
   "syncedAt": "2026-10-09T22:47:10.974Z",
   "teams": 5,
   "games": 36,

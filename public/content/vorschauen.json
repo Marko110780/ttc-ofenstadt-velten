@@ -4,1028 +4,287 @@
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten",
     "datum": "2026-09-04",
-    "datumDeutsch": "Fr., 04.09.2026",
     "uhrzeit": "19:30",
     "gegner": "Hohen Neuendorfer SV II",
     "heimAuswaerts": "Heimspiel",
     "liga": "LK2 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3101788/Hohen_Neuendorfer_SV_II/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-02&date_end=2026-09-23",
-    "gescanntAm": "2026-09-02T15:51:45.545Z",
-    "veroeffentlichungen": [
-      {
-        "kanal": "website",
-        "status": "veroeffentlicht",
-        "veroeffentlichtAm": "2026-07-19T10:54:02.534Z",
-        "text": "Vorschau: TTC Ofenstadt Velten gegen Hohen Neuendorfer SV II\n\nTTC Ofenstadt Velten tritt am Fr., 04.09.2026, 19:30 Uhr zu Hause gegen Hohen Neuendorfer SV II an (LK2 Erw).\n\nWir freuen uns auf ein spannendes Spiel und berichten im Anschluss über den Ausgang.\n\nEntwurf bitte vor Veröffentlichung prüfen."
-      },
-      {
-        "kanal": "facebook",
-        "status": "veroeffentlicht",
-        "veroeffentlichtAm": "2026-07-19T11:57:35.954Z",
-        "text": "📅 Vorschau: TTC Ofenstadt Velten gegen Hohen Neuendorfer SV II\n\nam Fr., 04.09.2026, 19:30 Uhr geht's zu Hause gegen Hohen Neuendorfer SV II. Kommt vorbei und feuert uns an! 🏓\n\n#TTCOfenstadtVelten #Tischtennis"
-      },
-      {
-        "kanal": "instagram",
-        "status": "veroeffentlicht",
-        "veroeffentlichtAm": "2026-07-22T14:29:00.772Z",
-        "text": "Nächstes Spiel: TTC Ofenstadt Velten gegen Hohen Neuendorfer SV II 🏓\nam Fr., 04.09.2026, 19:30 Uhr\n\nWer ist dabei? 👇\n\n#TTCOfenstadt #Velten #Tischtennis #TableTennis"
-      }
-    ],
-    "bild": {
-      "pfad": "/content/bilder/vorschau-vorschau-2026-09-04-hohen-neuendorfer-sv-ii-generiert.svg",
-      "dateiname": "vorschau-vorschau-2026-09-04-hohen-neuendorfer-sv-ii-generiert.svg",
-      "quelle": "generiert",
-      "erstelltVon": "Vera Grafik",
-      "erstelltAm": "2026-07-19T11:57:19.235Z"
-    },
-    "gegnerKontext": {
-      "status": "keine_daten",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3101788/Hohen_Neuendorfer_SV_II/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-02T15:51:34.834Z",
-      "durchschnittQttr": null,
-      "besteSpieler": [],
-      "hinweise": [
-        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
-      ]
-    }
+    "gescanntAm": "2026-09-02T15:51:45.545Z"
   },
   {
     "id": "vorschau-2026-09-08-tsv-zehdenick-ii",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten III",
     "datum": "2026-09-08",
-    "datumDeutsch": "Di., 08.09.2026",
     "uhrzeit": "19:30",
     "gegner": "TSV Zehdenick II",
     "heimAuswaerts": "Heimspiel",
     "liga": "Kreispokal H",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1410/TSV_Zehdenick_II/mannschaften",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-07-19&date_end=2026-10-15",
-    "gescanntAm": "2026-07-19T08:09:10.512Z",
-    "veroeffentlichungen": [
-      {
-        "kanal": "tiktok",
-        "status": "veroeffentlicht",
-        "veroeffentlichtAm": "2026-07-19T12:04:18.422Z",
-        "text": "Nächstes Match: TTC Ofenstadt Velten III gegen TSV Zehdenick II 🏓\nam Di., 08.09.2026, 19:30 Uhr\n\n#TTCOfenstadt #Tischtennis #TableTennis"
-      }
-    ],
-    "bild": {
-      "pfad": "/content/bilder/vorschau-vorschau-2026-09-08-tsv-zehdenick-ii-generiert.svg",
-      "dateiname": "vorschau-vorschau-2026-09-08-tsv-zehdenick-ii-generiert.svg",
-      "quelle": "generiert",
-      "erstelltVon": "Vera Grafik",
-      "erstelltAm": "2026-07-19T12:04:05.363Z"
-    }
+    "gescanntAm": "2026-07-19T08:09:10.512Z"
   },
   {
     "id": "vorschau-2026-09-09-tsv-zehdenick-ii",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten III",
     "datum": "2026-09-09",
-    "datumDeutsch": "Mi., 09.09.2026",
     "uhrzeit": "19:30",
     "gegner": "TSV Zehdenick II",
     "heimAuswaerts": "Heimspiel",
     "liga": "Kreispokal H",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/Kreispokal_H/gruppe/521681/mannschaft/3102460/TSV_Zehdenick_II/spielerbilanzen/gesamt",
-    "gegnerKontext": {
-      "status": "keine_daten",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/Kreispokal_H/gruppe/521681/mannschaft/3102460/TSV_Zehdenick_II/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-06T20:44:20.420Z",
-      "durchschnittQttr": null,
-      "besteSpieler": [],
-      "hinweise": [
-        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
-      ]
-    },
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
-    "gescanntAm": "2026-09-06T20:44:32.249Z",
-    "veroeffentlichungen": [],
-    "bild": null
+    "gescanntAm": "2026-09-06T20:44:32.249Z"
   },
   {
     "id": "vorschau-2026-09-11-sv-beetz-sommerfeld-ii",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten IV",
     "datum": "2026-09-11",
-    "datumDeutsch": "Fr., 11.09.2026",
     "uhrzeit": "19:30",
     "gegner": "SV Beetz-Sommerfeld II",
     "heimAuswaerts": "Heimspiel",
     "liga": "Kreispokal H",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/Kreispokal_H/gruppe/521681/mannschaft/3102351/SV_Beetz-Sommerfeld_II/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
-    "gescanntAm": "2026-09-06T20:44:32.250Z",
-    "veroeffentlichungen": [],
-    "gegnerKontext": {
-      "status": "keine_daten",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/Kreispokal_H/gruppe/521681/mannschaft/3102351/SV_Beetz-Sommerfeld_II/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-06T20:44:20.474Z",
-      "durchschnittQttr": null,
-      "besteSpieler": [],
-      "hinweise": [
-        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
-      ]
-    },
-    "bild": null
+    "gescanntAm": "2026-09-06T20:44:32.250Z"
   },
   {
     "id": "vorschau-2026-09-15-ttv-furstenberg-havel-ii",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten",
     "datum": "2026-09-15",
-    "datumDeutsch": "Di., 15.09.2026",
     "uhrzeit": "19:00",
     "gegner": "TTV Fürstenberg/Havel II",
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "LK2 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3102220/TTV_F%C3%BCrstenberg--Havel_II/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
-    "gescanntAm": "2026-09-06T20:44:32.250Z",
-    "veroeffentlichungen": [
-      {
-        "kanal": "website",
-        "status": "veroeffentlicht",
-        "veroeffentlichtAm": "2026-07-19T14:00:39.000Z",
-        "text": "Vorschau: TTC Ofenstadt Velten bei TTV Fürstenberg/Havel II\n\nTTC Ofenstadt Velten tritt am Di., 15.09.2026, 19:00 Uhr auswärts bei TTV Fürstenberg/Havel II an (LK2 Erw).\n\nWir freuen uns auf ein spannendes Spiel und berichten im Anschluss über den Ausgang.\n\nEntwurf bitte vor Veröffentlichung prüfen."
-      }
-    ],
-    "gegnerKontext": {
-      "status": "gefunden",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3102220/TTV_F%C3%BCrstenberg--Havel_II/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-06T20:44:20.948Z",
-      "durchschnittQttr": 0,
-      "besteSpieler": [
-        {
-          "name": "Hans-Jürgen Gragoll",
-          "qttrWert": 0,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PAAF1E811/spielerportrait"
-        },
-        {
-          "name": "Albek Schaow",
-          "qttrWert": 0,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PC0DAD02A/spielerportrait"
-        },
-        {
-          "name": "Maya Wilke",
-          "qttrWert": 0,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P11CCCF019/spielerportrait"
-        },
-        {
-          "name": "Marc-Leon Voß",
-          "qttrWert": 0,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PE6B98021/spielerportrait"
-        }
-      ],
-      "hinweise": [
-        "Hans-Jürgen Gragoll: Kein Q-TTR-Wert auf der Profilseite gefunden.",
-        "Maya Wilke: Kein Q-TTR-Wert auf der Profilseite gefunden.",
-        "Albek Schaow: Kein Q-TTR-Wert auf der Profilseite gefunden.",
-        "Marc-Leon Voß: Kein Q-TTR-Wert auf der Profilseite gefunden."
-      ]
-    },
-    "bild": null
+    "gescanntAm": "2026-09-06T20:44:32.250Z"
   },
   {
     "id": "vorschau-2026-09-16-tt-freunde-botzow-iv",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten II",
     "datum": "2026-09-16",
-    "datumDeutsch": "Mi., 16.09.2026",
     "uhrzeit": "18:30",
     "gegner": "TT-Freunde Bötzow IV",
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "KL Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Erw/gruppe/521610/mannschaft/3102165/TT-Freunde_B%C3%B6tzow__IV/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
-    "gescanntAm": "2026-09-06T20:44:32.250Z",
-    "veroeffentlichungen": [],
-    "gegnerKontext": {
-      "status": "keine_daten",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Erw/gruppe/521610/mannschaft/3102165/TT-Freunde_B%C3%B6tzow__IV/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-06T20:44:20.158Z",
-      "durchschnittQttr": null,
-      "besteSpieler": [],
-      "hinweise": [
-        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
-      ]
-    },
-    "bild": null
+    "gescanntAm": "2026-09-06T20:44:32.250Z"
   },
   {
     "id": "vorschau-2026-09-17-sv-beetz-sommerfeld-ii",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten III",
     "datum": "2026-09-17",
-    "datumDeutsch": "Do., 17.09.2026",
     "uhrzeit": "19:00",
     "gegner": "SV Beetz-Sommerfeld II",
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "KK4 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK4_Erw/gruppe/521632/mannschaft/3101781/SV_Beetz-Sommerfeld_II/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
-    "gescanntAm": "2026-09-06T20:44:32.250Z",
-    "veroeffentlichungen": [],
-    "gegnerKontext": {
-      "status": "keine_daten",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK4_Erw/gruppe/521632/mannschaft/3101781/SV_Beetz-Sommerfeld_II/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-06T20:44:20.083Z",
-      "durchschnittQttr": null,
-      "besteSpieler": [],
-      "hinweise": [
-        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
-      ]
-    },
-    "bild": null
+    "gescanntAm": "2026-09-06T20:44:32.250Z"
   },
   {
     "id": "vorschau-2026-09-18-tt-freunde-botzow-ii",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten",
     "datum": "2026-09-18",
-    "datumDeutsch": "Fr., 18.09.2026",
     "uhrzeit": "17:00",
     "gegner": "TT-Freunde Bötzow II",
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "KL Jug15",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Jug15/gruppe/534037/mannschaft/3101603/TT-Freunde_B%C3%B6tzow__II/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
-    "gescanntAm": "2026-09-06T20:44:32.250Z",
-    "veroeffentlichungen": [],
-    "gegnerKontext": {
-      "status": "keine_daten",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Jug15/gruppe/534037/mannschaft/3101603/TT-Freunde_B%C3%B6tzow__II/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-06T20:44:21.196Z",
-      "durchschnittQttr": null,
-      "besteSpieler": [],
-      "hinweise": [
-        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
-      ]
-    },
-    "bild": null
+    "gescanntAm": "2026-09-06T20:44:32.250Z"
   },
   {
     "id": "vorschau-2026-09-18-kremmener-sv-iii",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten IV",
     "datum": "2026-09-18",
-    "datumDeutsch": "Fr., 18.09.2026",
     "uhrzeit": "19:30",
     "gegner": "Kremmener SV III",
     "heimAuswaerts": "Heimspiel",
     "liga": "KK5 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK5_Erw/gruppe/521539/mannschaft/3101962/Kremmener_SV_III/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
-    "gescanntAm": "2026-09-06T20:44:32.250Z",
-    "veroeffentlichungen": [],
-    "gegnerKontext": {
-      "status": "keine_daten",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK5_Erw/gruppe/521539/mannschaft/3101962/Kremmener_SV_III/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-06T20:44:20.561Z",
-      "durchschnittQttr": null,
-      "besteSpieler": [],
-      "hinweise": [
-        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
-      ]
-    },
-    "bild": null
+    "gescanntAm": "2026-09-06T20:44:32.250Z"
   },
   {
     "id": "vorschau-2026-09-21-sv-stahl-hennigsdorf-ii",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten II",
     "datum": "2026-09-21",
-    "datumDeutsch": "Mo., 21.09.2026",
     "uhrzeit": "19:00",
     "gegner": "SV Stahl Hennigsdorf II",
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "KL Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Erw/gruppe/521610/mannschaft/3101939/SV_Stahl_Hennigsdorf_II/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
-    "gescanntAm": "2026-09-06T20:44:32.250Z",
-    "veroeffentlichungen": [],
-    "gegnerKontext": {
-      "status": "keine_daten",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Erw/gruppe/521610/mannschaft/3101939/SV_Stahl_Hennigsdorf_II/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-06T20:44:20.488Z",
-      "durchschnittQttr": null,
-      "besteSpieler": [],
-      "hinweise": [
-        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
-      ]
-    },
-    "bild": null
+    "gescanntAm": "2026-09-06T20:44:32.250Z"
   },
   {
     "id": "vorschau-2026-09-23-tt-freunde-botzow-viii",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten III",
     "datum": "2026-09-23",
-    "datumDeutsch": "Mi., 23.09.2026",
     "uhrzeit": "19:30",
     "gegner": "TT-Freunde Bötzow VIII",
     "heimAuswaerts": "Heimspiel",
     "liga": "KK4 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK4_Erw/gruppe/521632/mannschaft/3148508/TT-Freunde_B%C3%B6tzow__VIII/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-06&date_end=2026-09-27",
-    "gescanntAm": "2026-09-06T20:44:32.250Z",
-    "veroeffentlichungen": [],
-    "gegnerKontext": {
-      "status": "keine_daten",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK4_Erw/gruppe/521632/mannschaft/3148508/TT-Freunde_B%C3%B6tzow__VIII/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-06T20:44:20.902Z",
-      "durchschnittQttr": null,
-      "besteSpieler": [],
-      "hinweise": [
-        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
-      ]
-    },
-    "bild": null
+    "gescanntAm": "2026-09-06T20:44:32.250Z"
   },
   {
     "id": "vorschau-2026-09-25-ttv-templin",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten",
     "datum": "2026-09-25",
-    "datumDeutsch": "Fr., 25.09.2026",
     "uhrzeit": "19:30",
     "gegner": "TTV Templin",
     "heimAuswaerts": "Heimspiel",
     "liga": "LK2 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3101633/TTV_Templin/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-24&date_end=2026-10-15",
-    "gescanntAm": "2026-09-24T20:46:04.420Z",
-    "veroeffentlichungen": [],
-    "gegnerKontext": {
-      "status": "gefunden",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3101633/TTV_Templin/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-24T20:46:01.792Z",
-      "durchschnittQttr": 1458,
-      "besteSpieler": [
-        {
-          "name": "Jörg Wesolowski",
-          "qttrWert": 1645,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PAB11B01A/spielerportrait"
-        },
-        {
-          "name": "Frank Ruder",
-          "qttrWert": 1482,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P10C901811/spielerportrait"
-        },
-        {
-          "name": "André van Leyen",
-          "qttrWert": 1481,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P108496818/spielerportrait"
-        },
-        {
-          "name": "Leo Langfellner",
-          "qttrWert": 1470,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PE1D94817/spielerportrait"
-        }
-      ],
-      "hinweise": [
-        "Hinweis: Der \"TTR-Wert\" ist auf öffentlichen Profilseiten ohne Login nur ein Platzhalter (1234) und nicht der echte aktuelle Wert. Theo verwendet deshalb den öffentlich sichtbaren Q-TTR-Wert (Start-TTR der Saison) als Stärke-Indikator."
-      ]
-    },
-    "bild": null
+    "gescanntAm": "2026-09-24T20:46:04.420Z"
   },
   {
     "id": "vorschau-2026-09-25-sg-empor-oranienburg-vi",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten IV",
     "datum": "2026-09-25",
-    "datumDeutsch": "Fr., 25.09.2026",
     "uhrzeit": "19:30",
     "gegner": "SG Empor Oranienburg VI",
     "heimAuswaerts": "Heimspiel",
     "liga": "KK5 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK5_Erw/gruppe/521539/mannschaft/3101648/SG_Empor_Oranienburg_VI/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-24&date_end=2026-10-15",
-    "gescanntAm": "2026-09-24T20:46:04.420Z",
-    "veroeffentlichungen": [],
-    "gegnerKontext": {
-      "status": "gefunden",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK5_Erw/gruppe/521539/mannschaft/3101648/SG_Empor_Oranienburg_VI/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-24T20:46:01.692Z",
-      "durchschnittQttr": 907,
-      "besteSpieler": [
-        {
-          "name": "Peter Tausch",
-          "qttrWert": 968,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P142DB3023/spielerportrait"
-        },
-        {
-          "name": "Britt Schymik",
-          "qttrWert": 880,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P121253829/spielerportrait"
-        },
-        {
-          "name": "Heike Hälbig",
-          "qttrWert": 874,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P11F74F821/spielerportrait"
-        },
-        {
-          "name": "Tony Tronnier",
-          "qttrWert": 0,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P3CB97021/spielerportrait"
-        }
-      ],
-      "hinweise": [
-        "Tony Tronnier: Kein Q-TTR-Wert auf der Profilseite gefunden.",
-        "Hinweis: Der \"TTR-Wert\" ist auf öffentlichen Profilseiten ohne Login nur ein Platzhalter (1234) und nicht der echte aktuelle Wert. Theo verwendet deshalb den öffentlich sichtbaren Q-TTR-Wert (Start-TTR der Saison) als Stärke-Indikator."
-      ]
-    },
-    "bild": null
+    "gescanntAm": "2026-09-24T20:46:04.420Z"
   },
   {
     "id": "vorschau-2026-09-26-hohen-neuendorfer-sv-ii",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten",
     "datum": "2026-09-26",
-    "datumDeutsch": "Sa., 26.09.2026",
     "uhrzeit": "10:00",
     "gegner": "Hohen Neuendorfer SV II",
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "KL Jug15",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Jug15/gruppe/534037/mannschaft/3102074/Hohen_Neuendorfer_SV_II/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-24&date_end=2026-10-15",
-    "gescanntAm": "2026-09-24T20:46:04.420Z",
-    "veroeffentlichungen": [],
-    "gegnerKontext": {
-      "status": "gefunden",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Jug15/gruppe/534037/mannschaft/3102074/Hohen_Neuendorfer_SV_II/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-24T20:46:01.776Z",
-      "durchschnittQttr": 876,
-      "besteSpieler": [
-        {
-          "name": "Sophie Repkow",
-          "qttrWert": 912,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P14CD25821/spielerportrait"
-        },
-        {
-          "name": "Emma Stolle",
-          "qttrWert": 863,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P14CD22023/spielerportrait"
-        },
-        {
-          "name": "Moritz Rechenberg",
-          "qttrWert": 853,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P157AA7815/spielerportrait"
-        }
-      ],
-      "hinweise": [
-        "Hinweis: Der \"TTR-Wert\" ist auf öffentlichen Profilseiten ohne Login nur ein Platzhalter (1234) und nicht der echte aktuelle Wert. Theo verwendet deshalb den öffentlich sichtbaren Q-TTR-Wert (Start-TTR der Saison) als Stärke-Indikator."
-      ]
-    },
-    "bild": null
+    "gescanntAm": "2026-09-24T20:46:04.420Z"
   },
   {
     "id": "vorschau-2026-09-28-motor-hennigsdorf-iii",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten II",
     "datum": "2026-09-28",
-    "datumDeutsch": "Mo., 28.09.2026",
     "uhrzeit": "19:00",
     "gegner": "Motor Hennigsdorf III",
     "heimAuswaerts": "Heimspiel",
     "liga": "KL Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Erw/gruppe/521610/mannschaft/3101273/Motor_Hennigsdorf_III/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-24&date_end=2026-10-15",
-    "gescanntAm": "2026-09-24T20:46:04.420Z",
-    "veroeffentlichungen": [],
-    "gegnerKontext": {
-      "status": "gefunden",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Erw/gruppe/521610/mannschaft/3101273/Motor_Hennigsdorf_III/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-24T20:46:01.800Z",
-      "durchschnittQttr": 1360,
-      "besteSpieler": [
-        {
-          "name": "Yasan Nouh",
-          "qttrWert": 1432,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P1114A5023/spielerportrait"
-        },
-        {
-          "name": "Dirk Heinze",
-          "qttrWert": 1396,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PAAD7C824/spielerportrait"
-        },
-        {
-          "name": "Stefan Brauer",
-          "qttrWert": 1389,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PAB16A817/spielerportrait"
-        },
-        {
-          "name": "Diana Peise",
-          "qttrWert": 1224,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P11FC40822/spielerportrait"
-        }
-      ],
-      "hinweise": [
-        "Hinweis: Der \"TTR-Wert\" ist auf öffentlichen Profilseiten ohne Login nur ein Platzhalter (1234) und nicht der echte aktuelle Wert. Theo verwendet deshalb den öffentlich sichtbaren Q-TTR-Wert (Start-TTR der Saison) als Stärke-Indikator."
-      ]
-    },
-    "bild": null
+    "gescanntAm": "2026-09-24T20:46:04.420Z"
   },
   {
     "id": "vorschau-2026-10-01-tsv-zehdenick-iv",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten IV",
     "datum": "2026-10-01",
-    "datumDeutsch": "Do., 01.10.2026",
     "uhrzeit": "19:00",
     "gegner": "TSV Zehdenick IV",
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "KK5 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK5_Erw/gruppe/521539/mannschaft/3101900/TSV_Zehdenick_IV/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-24&date_end=2026-10-15",
-    "gescanntAm": "2026-09-24T20:46:04.420Z",
-    "veroeffentlichungen": [],
-    "gegnerKontext": {
-      "status": "gefunden",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK5_Erw/gruppe/521539/mannschaft/3101900/TSV_Zehdenick_IV/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-24T20:46:01.728Z",
-      "durchschnittQttr": 987,
-      "besteSpieler": [
-        {
-          "name": "Heiko Baumert",
-          "qttrWert": 1070,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P10A55A017/spielerportrait"
-        },
-        {
-          "name": "Steven Lenz",
-          "qttrWert": 1050,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PDA40782A/spielerportrait"
-        },
-        {
-          "name": "Sophie Bartel",
-          "qttrWert": 993,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PDA401827/spielerportrait"
-        },
-        {
-          "name": "Reinhard Hübner",
-          "qttrWert": 966,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PDA405826/spielerportrait"
-        }
-      ],
-      "hinweise": [
-        "Hinweis: Der \"TTR-Wert\" ist auf öffentlichen Profilseiten ohne Login nur ein Platzhalter (1234) und nicht der echte aktuelle Wert. Theo verwendet deshalb den öffentlich sichtbaren Q-TTR-Wert (Start-TTR der Saison) als Stärke-Indikator."
-      ]
-    },
-    "bild": null
+    "gescanntAm": "2026-09-24T20:46:04.420Z"
   },
   {
     "id": "vorschau-2026-10-02-tt-freunde-botzow-iii",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten",
     "datum": "2026-10-02",
-    "datumDeutsch": "Fr., 02.10.2026",
     "uhrzeit": "18:30",
     "gegner": "TT-Freunde Bötzow III",
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "LK2 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3102034/TT-Freunde_B%C3%B6tzow__III/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-24&date_end=2026-10-15",
-    "gescanntAm": "2026-09-24T20:46:04.420Z",
-    "veroeffentlichungen": [],
-    "gegnerKontext": {
-      "status": "gefunden",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3102034/TT-Freunde_B%C3%B6tzow__III/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-24T20:46:01.787Z",
-      "durchschnittQttr": 1438,
-      "besteSpieler": [
-        {
-          "name": "Martin Dreiocker",
-          "qttrWert": 1494,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P1A9E3014/spielerportrait"
-        },
-        {
-          "name": "Andreas Ewert",
-          "qttrWert": 1493,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PAAE44828/spielerportrait"
-        },
-        {
-          "name": "Hartmut Watschke",
-          "qttrWert": 1464,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PAAF77818/spielerportrait"
-        },
-        {
-          "name": "Karl-Ernst Kraack",
-          "qttrWert": 1438,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PAA506818/spielerportrait"
-        }
-      ],
-      "hinweise": [
-        "Hinweis: Der \"TTR-Wert\" ist auf öffentlichen Profilseiten ohne Login nur ein Platzhalter (1234) und nicht der echte aktuelle Wert. Theo verwendet deshalb den öffentlich sichtbaren Q-TTR-Wert (Start-TTR der Saison) als Stärke-Indikator."
-      ]
-    },
-    "bild": null
+    "gescanntAm": "2026-09-24T20:46:04.420Z"
   },
   {
     "id": "vorschau-2026-10-02-sv-blau-weiss-nassenheide-iii",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten III",
     "datum": "2026-10-02",
-    "datumDeutsch": "Fr., 02.10.2026",
     "uhrzeit": "19:00",
     "gegner": "SV Blau-Weiß Nassenheide III",
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "KK4 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK4_Erw/gruppe/521632/mannschaft/3101786/SV_Blau-Wei%C3%9F_Nassenheide_III/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-24&date_end=2026-10-15",
-    "gescanntAm": "2026-09-24T20:46:04.420Z",
-    "veroeffentlichungen": [],
-    "gegnerKontext": {
-      "status": "keine_daten",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK4_Erw/gruppe/521632/mannschaft/3101786/SV_Blau-Wei%C3%9F_Nassenheide_III/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-24T20:46:02.674Z",
-      "durchschnittQttr": null,
-      "besteSpieler": [],
-      "hinweise": [
-        "Keine Spieler-Links auf dieser Seite gefunden. Meist bedeutet das: Die Mannschaft hat in dieser Saison noch kein Spiel bestritten – myTischtennis zeigt die Kader-TTR-Werte erst, sobald mindestens ein Spiel gemeldet wurde."
-      ]
-    },
-    "bild": null
+    "gescanntAm": "2026-09-24T20:46:04.420Z"
   },
   {
     "id": "vorschau-2026-10-04-ttc-rotation-leegebruch",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten",
     "datum": "2026-10-04",
-    "datumDeutsch": "So., 04.10.2026",
     "uhrzeit": "00:00",
     "gegner": "TTC Rotation Leegebruch",
     "heimAuswaerts": "Heimspiel",
     "liga": "KL Jug15",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Jug15/gruppe/534037/mannschaft/3101641/TTC_Rotation_Leegebruch/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-24&date_end=2026-10-15",
-    "gescanntAm": "2026-09-24T20:46:04.420Z",
-    "veroeffentlichungen": [],
-    "gegnerKontext": {
-      "status": "gefunden",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Jug15/gruppe/534037/mannschaft/3101641/TTC_Rotation_Leegebruch/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-24T20:46:01.910Z",
-      "durchschnittQttr": 881,
-      "besteSpieler": [
-        {
-          "name": "Tim Johann Rickriem",
-          "qttrWert": 975,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P13070D02A/spielerportrait"
-        },
-        {
-          "name": "Louis Müller",
-          "qttrWert": 786,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P15328B024/spielerportrait"
-        },
-        {
-          "name": "Ben Block",
-          "qttrWert": 0,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P16F2C901B/spielerportrait"
-        }
-      ],
-      "hinweise": [
-        "Ben Block: Kein Q-TTR-Wert auf der Profilseite gefunden.",
-        "Hinweis: Der \"TTR-Wert\" ist auf öffentlichen Profilseiten ohne Login nur ein Platzhalter (1234) und nicht der echte aktuelle Wert. Theo verwendet deshalb den öffentlich sichtbaren Q-TTR-Wert (Start-TTR der Saison) als Stärke-Indikator."
-      ]
-    },
-    "bild": null
+    "gescanntAm": "2026-09-24T20:46:04.420Z"
   },
   {
     "id": "vorschau-2026-10-07-ttc-rotation-leegebruch-v",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten III",
     "datum": "2026-10-07",
-    "datumDeutsch": "Mi., 07.10.2026",
     "uhrzeit": "19:30",
     "gegner": "TTC Rotation Leegebruch V",
     "heimAuswaerts": "Heimspiel",
     "liga": "KK4 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK4_Erw/gruppe/521632/mannschaft/3101490/TTC_Rotation_Leegebruch_V/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-24&date_end=2026-10-15",
-    "gescanntAm": "2026-09-24T20:46:04.420Z",
-    "veroeffentlichungen": [],
-    "gegnerKontext": {
-      "status": "gefunden",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK4_Erw/gruppe/521632/mannschaft/3101490/TTC_Rotation_Leegebruch_V/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-24T20:46:02.759Z",
-      "durchschnittQttr": 1043,
-      "besteSpieler": [
-        {
-          "name": "Detlef Stamm",
-          "qttrWert": 1107,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PAAA8181F/spielerportrait"
-        },
-        {
-          "name": "Julius Werblinski",
-          "qttrWert": 1093,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P1081F9023/spielerportrait"
-        },
-        {
-          "name": "Bodo Mey",
-          "qttrWert": 1024,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P119061012/spielerportrait"
-        },
-        {
-          "name": "Torsten Punkt",
-          "qttrWert": 949,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P109148019/spielerportrait"
-        }
-      ],
-      "hinweise": [
-        "Hinweis: Der \"TTR-Wert\" ist auf öffentlichen Profilseiten ohne Login nur ein Platzhalter (1234) und nicht der echte aktuelle Wert. Theo verwendet deshalb den öffentlich sichtbaren Q-TTR-Wert (Start-TTR der Saison) als Stärke-Indikator."
-      ]
-    },
-    "bild": null
+    "gescanntAm": "2026-09-24T20:46:04.420Z"
   },
   {
     "id": "vorschau-2026-10-09-ttc-rotation-leegebruch-iii",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten",
     "datum": "2026-10-09",
-    "datumDeutsch": "2026-10-09",
     "uhrzeit": "19:30",
     "gegner": "TTC Rotation Leegebruch III",
     "heimAuswaerts": "Heimspiel",
     "liga": "LK2 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3101260/TTC_Rotation_Leegebruch_III/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-09-24&date_end=2026-10-15",
     "gescanntAm": "2026-09-24T20:46:04.420Z",
-    "veroeffentlichungen": [],
-    "gegnerKontext": {
-      "status": "gefunden",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3101260/TTC_Rotation_Leegebruch_III/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-09-24T20:46:02.056Z",
-      "durchschnittQttr": 1313,
-      "besteSpieler": [
-        {
-          "name": "Dietmar Sachse",
-          "qttrWert": 1481,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PB089501E/spielerportrait"
-        },
-        {
-          "name": "Jörg Arens",
-          "qttrWert": 1481,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PCF713028/spielerportrait"
-        },
-        {
-          "name": "Olaf Kölle",
-          "qttrWert": 1378,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PDA4B9025/spielerportrait"
-        },
-        {
-          "name": "Heino Dzeick",
-          "qttrWert": 1341,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PAAE44027/spielerportrait"
-        }
-      ],
-      "hinweise": [
-        "Hinweis: Der \"TTR-Wert\" ist auf öffentlichen Profilseiten ohne Login nur ein Platzhalter (1234) und nicht der echte aktuelle Wert. Theo verwendet deshalb den öffentlich sichtbaren Q-TTR-Wert (Start-TTR der Saison) als Stärke-Indikator."
-      ]
-    },
     "spielStatus": "abgesagt",
-    "websiteSichtbar": true,
-    "manuellVerwaltet": true,
-    "aktualisiertAm": "2026-10-09T07:54:01.290Z",
-    "bild": null
+    "websiteSichtbar": true
   },
   {
     "id": "vorschau-2026-10-09-ttv-furstenberg-havel-v",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten IV",
     "datum": "2026-10-09",
-    "datumDeutsch": "Fr., 09.10.2026",
     "uhrzeit": "19:30",
     "gegner": "TTV Fürstenberg/Havel V",
     "heimAuswaerts": "Heimspiel",
     "liga": "KK5 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK5_Erw/gruppe/521539/mannschaft/3101944/TTV_F%C3%BCrstenberg--Havel_V/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-10-08&date_end=2026-10-29",
-    "gescanntAm": "2026-10-08T17:17:34.294Z",
-    "veroeffentlichungen": [],
-    "gegnerKontext": {
-      "status": "gefunden",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK5_Erw/gruppe/521539/mannschaft/3101944/TTV_F%C3%BCrstenberg--Havel_V/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-10-08T17:17:31.387Z",
-      "durchschnittQttr": 910,
-      "besteSpieler": [
-        {
-          "name": "Karl George",
-          "qttrWert": 1008,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P11911B015/spielerportrait"
-        },
-        {
-          "name": "Ben Lukas Wolter",
-          "qttrWert": 997,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P135ABB01C/spielerportrait"
-        },
-        {
-          "name": "Marvin Thäns",
-          "qttrWert": 980,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P14B2A681E/spielerportrait"
-        },
-        {
-          "name": "Fabio Protz",
-          "qttrWert": 881,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P12501F813/spielerportrait"
-        }
-      ],
-      "hinweise": [
-        "Hinweis: Der \"TTR-Wert\" ist auf öffentlichen Profilseiten ohne Login nur ein Platzhalter (1234) und nicht der echte aktuelle Wert. Theo verwendet deshalb den öffentlich sichtbaren Q-TTR-Wert (Start-TTR der Saison) als Stärke-Indikator."
-      ]
-    },
-    "bild": null
+    "gescanntAm": "2026-10-08T17:17:34.294Z"
   },
   {
     "id": "vorschau-2026-10-12-sv-blau-weiss-nassenheide",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten II",
     "datum": "2026-10-12",
-    "datumDeutsch": "Mo., 12.10.2026",
     "uhrzeit": "19:00",
     "gegner": "SV Blau-Weiß Nassenheide",
     "heimAuswaerts": "Heimspiel",
     "liga": "KL Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Erw/gruppe/521610/mannschaft/3101822/SV_Blau-Wei%C3%9F_Nassenheide/spielerbilanzen/gesamt",
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-10-08&date_end=2026-10-29",
-    "gescanntAm": "2026-10-08T17:17:34.294Z",
-    "veroeffentlichungen": [],
-    "gegnerKontext": {
-      "status": "gefunden",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Erw/gruppe/521610/mannschaft/3101822/SV_Blau-Wei%C3%9F_Nassenheide/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-10-08T17:17:31.704Z",
-      "durchschnittQttr": 1261,
-      "besteSpieler": [
-        {
-          "name": "Mark Spieckermann",
-          "qttrWert": 1315,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P10D1FB817/spielerportrait"
-        },
-        {
-          "name": "Amina Kunicke",
-          "qttrWert": 1305,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PE9D6301E/spielerportrait"
-        },
-        {
-          "name": "Stephan Richter",
-          "qttrWert": 1267,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P132D38012/spielerportrait"
-        },
-        {
-          "name": "Tim Freiberg",
-          "qttrWert": 1242,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PDA4AC026/spielerportrait"
-        }
-      ],
-      "hinweise": [
-        "Hinweis: Der \"TTR-Wert\" ist auf öffentlichen Profilseiten ohne Login nur ein Platzhalter (1234) und nicht der echte aktuelle Wert. Theo verwendet deshalb den öffentlich sichtbaren Q-TTR-Wert (Start-TTR der Saison) als Stärke-Indikator."
-      ]
-    },
-    "bild": null
+    "gescanntAm": "2026-10-08T17:17:34.294Z"
   },
   {
     "id": "vorschau-2026-10-16-psv-zehlendorf",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten",
     "datum": "2026-10-16",
-    "datumDeutsch": "Fr., 16.10.2026",
     "uhrzeit": "17:30",
     "gegner": "PSV Zehlendorf",
     "heimAuswaerts": "Heimspiel",
     "liga": "KL Jug15",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Jug15/gruppe/534037/mannschaft/3147748/PSV_Zehlendorf/spielerbilanzen/gesamt",
-    "gegnerKontext": {
-      "status": "gefunden",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KL_Jug15/gruppe/534037/mannschaft/3147748/PSV_Zehlendorf/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-10-08T17:17:32.290Z",
-      "durchschnittQttr": 895,
-      "besteSpieler": [
-        {
-          "name": "Luis Dreiocker",
-          "qttrWert": 895,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P14D224019/spielerportrait"
-        },
-        {
-          "name": "Erik Wegel",
-          "qttrWert": 0,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P16B92A02D/spielerportrait"
-        },
-        {
-          "name": "Henrik Wegel",
-          "qttrWert": 0,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P161BA1024/spielerportrait"
-        },
-        {
-          "name": "Ivo Dreiocker",
-          "qttrWert": 0,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P16A93C019/spielerportrait"
-        }
-      ],
-      "hinweise": [
-        "Ivo Dreiocker: Kein Q-TTR-Wert auf der Profilseite gefunden.",
-        "Erik Wegel: Kein Q-TTR-Wert auf der Profilseite gefunden.",
-        "Maximilian Barthel: Kein Q-TTR-Wert auf der Profilseite gefunden.",
-        "Henrik Wegel: Kein Q-TTR-Wert auf der Profilseite gefunden.",
-        "Hinweis: Der \"TTR-Wert\" ist auf öffentlichen Profilseiten ohne Login nur ein Platzhalter (1234) und nicht der echte aktuelle Wert. Theo verwendet deshalb den öffentlich sichtbaren Q-TTR-Wert (Start-TTR der Saison) als Stärke-Indikator."
-      ]
-    },
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-10-08&date_end=2026-10-29",
-    "gescanntAm": "2026-10-08T17:17:34.294Z",
-    "veroeffentlichungen": [],
-    "bild": null
+    "gescanntAm": "2026-10-08T17:17:34.294Z"
   },
   {
     "id": "vorschau-2026-10-16-the-eagles",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten",
     "datum": "2026-10-16",
-    "datumDeutsch": "Fr., 16.10.2026",
     "uhrzeit": "19:30",
     "gegner": "The Eagles",
     "heimAuswaerts": "Heimspiel",
     "liga": "LK2 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3101407/The_Eagles/spielerbilanzen/gesamt",
-    "gegnerKontext": {
-      "status": "gefunden",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/LK2_Erw/gruppe/521601/mannschaft/3101407/The_Eagles/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-10-08T17:17:31.920Z",
-      "durchschnittQttr": 1160,
-      "besteSpieler": [
-        {
-          "name": "Silvio Herbig",
-          "qttrWert": 1484,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PAA44201B/spielerportrait"
-        },
-        {
-          "name": "Lars Nennemann",
-          "qttrWert": 1296,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PA59A081E/spielerportrait"
-        },
-        {
-          "name": "Martin Schulz",
-          "qttrWert": 1261,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PDE71E01D/spielerportrait"
-        },
-        {
-          "name": "Jupp Hilgert",
-          "qttrWert": 902,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P11CCCE818/spielerportrait"
-        }
-      ],
-      "hinweise": [
-        "Hinweis: Der \"TTR-Wert\" ist auf öffentlichen Profilseiten ohne Login nur ein Platzhalter (1234) und nicht der echte aktuelle Wert. Theo verwendet deshalb den öffentlich sichtbaren Q-TTR-Wert (Start-TTR der Saison) als Stärke-Indikator."
-      ]
-    },
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-10-08&date_end=2026-10-29",
-    "gescanntAm": "2026-10-08T17:17:34.294Z",
-    "veroeffentlichungen": [],
-    "bild": null
+    "gescanntAm": "2026-10-08T17:17:34.294Z"
   },
   {
     "id": "vorschau-2026-10-18-motor-hennigsdorf-vii",
     "teamId": "",
     "teamName": "TTC Ofenstadt Velten III",
     "datum": "2026-10-18",
-    "datumDeutsch": "So., 18.10.2026",
     "uhrzeit": "14:00",
     "gegner": "Motor Hennigsdorf VII",
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "KK4 Erw",
-    "gegnerUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK4_Erw/gruppe/521632/mannschaft/3102064/Motor_Hennigsdorf_VII/spielerbilanzen/gesamt",
-    "gegnerKontext": {
-      "status": "gefunden",
-      "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/ligen/KK4_Erw/gruppe/521632/mannschaft/3102064/Motor_Hennigsdorf_VII/spielerbilanzen/gesamt",
-      "gescanntAm": "2026-10-08T17:17:31.617Z",
-      "durchschnittQttr": 1076,
-      "besteSpieler": [
-        {
-          "name": "Christina Bartling",
-          "qttrWert": 1133,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P3C362019/spielerportrait"
-        },
-        {
-          "name": "Ingo Tornus",
-          "qttrWert": 1094,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PFDB4E81F/spielerportrait"
-        },
-        {
-          "name": "Sven Reichmann",
-          "qttrWert": 1081,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/P14140501B/spielerportrait"
-        },
-        {
-          "name": "Frank Schönborn",
-          "qttrWert": 1063,
-          "portraitUrl": "https://www.mytischtennis.de/click-tt/spieler/PD0A7081C/spielerportrait"
-        }
-      ],
-      "hinweise": [
-        "Hinweis: Der \"TTR-Wert\" ist auf öffentlichen Profilseiten ohne Login nur ein Platzhalter (1234) und nicht der echte aktuelle Wert. Theo verwendet deshalb den öffentlich sichtbaren Q-TTR-Wert (Start-TTR der Saison) als Stärke-Indikator."
-      ]
-    },
-    "sourceUrl": "https://www.mytischtennis.de/click-tt/TTVB/26--27/verein/1409/TTC_Ofenstadt_Velten/spielplan?date_start=2026-10-08&date_end=2026-10-29",
-    "gescanntAm": "2026-10-08T17:17:34.294Z",
-    "veroeffentlichungen": [],
-    "bild": null
+    "gescanntAm": "2026-10-08T17:17:34.294Z"
   }
 ]

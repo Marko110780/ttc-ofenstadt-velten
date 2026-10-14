@@ -1,5 +1,6 @@
 import { copyFile, mkdir, readFile, writeFile } from "node:fs/promises";
 import { basename, join } from "node:path";
+import { publicContent } from "./public-content.mjs";
 
 const sourceRoot = process.env.REDAKTION_DATA_DIR ?? "G:\\Projekte\\TTC-Spielbericht-Agent\\data";
 const websiteExportPath = process.env.REDAKTION_WEBSITE_EXPORT
@@ -14,6 +15,10 @@ const targetRoot = join(process.cwd(), "public", "content");
 const targetImageRoot = join(targetRoot, "bilder");
 const targetSponsorRoot = join(targetRoot, "sponsoren");
 const targetGalerieRoot = join(targetRoot, "galerie");
+
+async function writePublicJson(fileName, payload) {
+  await writeFile(join(targetRoot, fileName), `${JSON.stringify(publicContent(fileName, payload), null, 2)}\n`, "utf8");
+}
 
 async function readJson(fileName) {
   return JSON.parse(await readFile(join(sourceRoot, fileName), "utf8"));
@@ -285,14 +290,14 @@ async function main() {
   websiteSponsoren.sponsoren = websiteSponsoren.sponsoren.filter((sponsor) => sponsor.logo);
   websiteSponsoren.anzahl = websiteSponsoren.sponsoren.length;
 
-  await writeFile(join(targetRoot, "mannschaften.json"), `${JSON.stringify(teams, null, 2)}\n`, "utf8");
-  await writeFile(join(targetRoot, "spiele.json"), `${JSON.stringify(summarizedGames, null, 2)}\n`, "utf8");
-  await writeFile(join(targetRoot, "spielberichte.json"), `${JSON.stringify(websiteReports, null, 2)}\n`, "utf8");
-  await writeFile(join(targetRoot, "artikel.json"), `${JSON.stringify(websiteArticles, null, 2)}\n`, "utf8");
-  await writeFile(join(targetRoot, "sponsoren.json"), `${JSON.stringify(websiteSponsoren, null, 2)}\n`, "utf8");
-  await writeFile(join(targetRoot, "galerie.json"), `${JSON.stringify(websiteGalerie, null, 2)}\n`, "utf8");
-  await writeFile(join(targetRoot, "vorschauen.json"), `${JSON.stringify(normalizedPreviews, null, 2)}\n`, "utf8");
-  await writeFile(join(targetRoot, "sync-status.json"), `${JSON.stringify({
+  await writePublicJson("mannschaften.json", teams);
+  await writePublicJson("spiele.json", summarizedGames);
+  await writePublicJson("spielberichte.json", websiteReports);
+  await writePublicJson("artikel.json", websiteArticles);
+  await writePublicJson("sponsoren.json", websiteSponsoren);
+  await writePublicJson("galerie.json", websiteGalerie);
+  await writePublicJson("vorschauen.json", normalizedPreviews);
+  await writePublicJson("sync-status.json", {
     sourceRoot,
     websiteExportPath,
     websiteArtikelExportPath,
@@ -306,7 +311,7 @@ async function main() {
     sponsors: websiteSponsoren.sponsoren.length,
     galleryDocuments: websiteGalerie.dokumente.length,
     previews: normalizedPreviews.length
-  }, null, 2)}\n`, "utf8");
+  });
 
   console.log(`Synchronisiert: ${teams.length} Mannschaften, ${summarizedGames.length} Spiele, ${websiteReports.spielberichte.length} freigegebene Spielberichte, ${websiteArticles.artikel.length} freie Artikel, ${websiteSponsoren.sponsoren.length} Sponsoren, ${websiteGalerie.dokumente.length} Galerie-Dokumente, ${normalizedPreviews.length} Vorschauen.`);
 }
