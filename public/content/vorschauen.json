@@ -285,6 +285,8 @@
     "gegner": "Motor Hennigsdorf VII",
     "heimAuswaerts": "Auswärtsspiel",
     "liga": "KK4 Erw",
-    "gescanntAm": "2026-10-08T17:17:34.294Z"
+    "gescanntAm": "2026-10-08T17:17:34.294Z",
+    "spielStatus": "geplant",
+    "websiteSichtbar": true
   }
 ]
