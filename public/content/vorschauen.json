@@ -288,5 +288,159 @@
     "gescanntAm": "2026-10-08T17:17:34.294Z",
     "spielStatus": "geplant",
     "websiteSichtbar": true
+  },
+  {
+    "id": "vorschau-2026-11-02-motor-hennigsdorf-iii",
+    "teamId": "",
+    "teamName": "TTC Ofenstadt Velten II",
+    "datum": "2026-11-02",
+    "uhrzeit": "19:00 v",
+    "gegner": "Motor Hennigsdorf III",
+    "heimAuswaerts": "Heimspiel",
+    "liga": "KL Erw",
+    "gescanntAm": "2026-11-02T12:16:18.272Z"
+  },
+  {
+    "id": "vorschau-2026-11-03-tsv-zehdenick-iii",
+    "teamId": "",
+    "teamName": "TTC Ofenstadt Velten III",
+    "datum": "2026-11-03",
+    "uhrzeit": "19:30",
+    "gegner": "TSV Zehdenick III",
+    "heimAuswaerts": "Auswärtsspiel",
+    "liga": "KK4 Erw",
+    "gescanntAm": "2026-11-02T12:16:18.272Z"
+  },
+  {
+    "id": "vorschau-2026-11-06-sg-empor-oranienburg-iii",
+    "teamId": "",
+    "teamName": "TTC Ofenstadt Velten II",
+    "datum": "2026-11-06",
+    "uhrzeit": "19:00",
+    "gegner": "SG Empor Oranienburg III",
+    "heimAuswaerts": "Auswärtsspiel",
+    "liga": "KL Erw",
+    "gescanntAm": "2026-11-02T12:16:18.272Z"
+  },
+  {
+    "id": "vorschau-2026-11-06-ttc-gransee-ii",
+    "teamId": "",
+    "teamName": "TTC Ofenstadt Velten IV",
+    "datum": "2026-11-06",
+    "uhrzeit": "19:30",
+    "gegner": "TTC Gransee II",
+    "heimAuswaerts": "Heimspiel",
+    "liga": "KK5 Erw",
+    "gescanntAm": "2026-11-02T12:16:18.272Z"
+  },
+  {
+    "id": "vorschau-2026-11-07-sv-stahl-hennigsdorf",
+    "teamId": "",
+    "teamName": "TTC Ofenstadt Velten",
+    "datum": "2026-11-07",
+    "uhrzeit": "10:00",
+    "gegner": "SV Stahl Hennigsdorf",
+    "heimAuswaerts": "Auswärtsspiel",
+    "liga": "KL Jug15",
+    "gescanntAm": "2026-11-02T12:16:18.272Z"
+  },
+  {
+    "id": "vorschau-2026-11-09-motor-hennigsdorf-iv",
+    "teamId": "",
+    "teamName": "TTC Ofenstadt Velten II",
+    "datum": "2026-11-09",
+    "uhrzeit": "19:00",
+    "gegner": "Motor Hennigsdorf IV",
+    "heimAuswaerts": "Heimspiel",
+    "liga": "KL Erw",
+    "gescanntAm": "2026-11-02T12:16:18.272Z"
+  },
+  {
+    "id": "vorschau-2026-11-10-tsv-zehdenick-v",
+    "teamId": "",
+    "teamName": "TTC Ofenstadt Velten IV",
+    "datum": "2026-11-10",
+    "uhrzeit": "19:30",
+    "gegner": "TSV Zehdenick V",
+    "heimAuswaerts": "Auswärtsspiel",
+    "liga": "KK5 Erw",
+    "gescanntAm": "2026-11-02T12:16:18.272Z"
+  },
+  {
+    "id": "vorschau-2026-11-11-psv-zehlendorf-ii",
+    "teamId": "",
+    "teamName": "TTC Ofenstadt Velten III",
+    "datum": "2026-11-11",
+    "uhrzeit": "19:30",
+    "gegner": "PSV Zehlendorf II",
+    "heimAuswaerts": "Heimspiel",
+    "liga": "KK4 Erw",
+    "gescanntAm": "2026-11-02T12:16:18.272Z"
+  },
+  {
+    "id": "vorschau-2026-11-12-sv-glienicke",
+    "teamId": "",
+    "teamName": "TTC Ofenstadt Velten",
+    "datum": "2026-11-12",
+    "uhrzeit": "18:30",
+    "gegner": "SV Glienicke",
+    "heimAuswaerts": "Auswärtsspiel",
+    "liga": "LK2 Erw",
+    "gescanntAm": "2026-11-02T12:16:18.272Z"
+  },
+  {
+    "id": "vorschau-2026-11-13-motor-hennigsdorf",
+    "teamId": "",
+    "teamName": "TTC Ofenstadt Velten",
+    "datum": "2026-11-13",
+    "uhrzeit": "17:30",
+    "gegner": "Motor Hennigsdorf",
+    "heimAuswaerts": "Heimspiel",
+    "liga": "KL Jug15",
+    "gescanntAm": "2026-11-02T12:16:18.272Z"
+  },
+  {
+    "id": "vorschau-2026-11-19-sv-glienicke-ii",
+    "teamId": "",
+    "teamName": "TTC Ofenstadt Velten II",
+    "datum": "2026-11-19",
+    "uhrzeit": "18:30",
+    "gegner": "SV Glienicke II",
+    "heimAuswaerts": "Auswärtsspiel",
+    "liga": "KL Erw",
+    "gescanntAm": "2026-11-02T12:16:18.272Z"
+  },
+  {
+    "id": "vorschau-2026-11-20-hohen-neuendorfer-sv-vii",
+    "teamId": "",
+    "teamName": "TTC Ofenstadt Velten III",
+    "datum": "2026-11-20",
+    "uhrzeit": "19:30",
+    "gegner": "Hohen Neuendorfer SV VII",
+    "heimAuswaerts": "Auswärtsspiel",
+    "liga": "KK4 Erw",
+    "gescanntAm": "2026-11-02T12:16:18.272Z"
+  },
+  {
+    "id": "vorschau-2026-11-20-sv-glienicke-vi",
+    "teamId": "",
+    "teamName": "TTC Ofenstadt Velten IV",
+    "datum": "2026-11-20",
+    "uhrzeit": "19:30",
+    "gegner": "SV Glienicke VI",
+    "heimAuswaerts": "Heimspiel",
+    "liga": "KK5 Erw",
+    "gescanntAm": "2026-11-02T12:16:18.272Z"
+  },
+  {
+    "id": "vorschau-2026-11-20-tsv-zehdenick",
+    "teamId": "",
+    "teamName": "TTC Ofenstadt Velten",
+    "datum": "2026-11-20",
+    "uhrzeit": "19:30",
+    "gegner": "TSV Zehdenick",
+    "heimAuswaerts": "Heimspiel",
+    "liga": "LK2 Erw",
+    "gescanntAm": "2026-11-02T12:16:18.272Z"
   }
 ]
